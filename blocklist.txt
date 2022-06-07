@@ -1,7 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 06 Jun 2022 14:55:03 +0000
+! Last modified: Tue, 07 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+comedian-standup.online
+standup-afisha.com
+usloviya-oplaty.com
+bellthegen.ml
+lovepay.pw
+pf7bg.cn
+guardcosy.top
+organiseloot.top
+restraintrigorous.top
+trfgbfh.top
+datafreeisw.xyz
+sderbank.xyz
+openet24.ru
+randomy.pw
+bitbit24.com
+wildberries-prise.ru
+mycosmos.me
+svyaznoy.ru-actionsjune.xyz
+aimuukc.cn
+gendeotten.top
+erodechapel.top
+bitgenerator-2022.click
 id-4995935.ru
 datafreecip.xyz
 lubricatehelmet.top
