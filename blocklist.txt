@@ -1,7 +1,39 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 07 Jun 2022 21:02:02 +0000
+! Last modified: Wed, 08 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+finforce.ltd
+3ds-pay-id717.ru
+3ds-pay-id1117.ru
+timepay.pw
+theatre.net.ru
+screenerupt.top
+scrutinizesurveillance.top
+thanksgivimprison.top
+id13620.ru
+id13621.ru
+id13622.ru
+id13624.ru
+id13627.ru
+id13629.ru
+id13630.ru
+id13631.ru
+id13632.ru
+id13641.ru
+id13643.ru
+id13644.ru
+id13645.ru
+id13646.ru
+id13648.ru
+id13649.ru
+id13650.ru
+id13651.ru
+id13652.ru
+id13653.ru
+id13654.ru
+id1534564.ru
+monitors24-bank.com
+woolsocksu.space
 comedian-standup.online
 standup-afisha.com
 usloviya-oplaty.com
@@ -1491,6 +1523,7 @@ ca-quiz.xyz
 cb-quiz.xyz
 m.lottery-get.xyz
 sky-bet.one
+natwestly.com
 priz-today.xyz
 rhinolessx.com
 m.lottery-online.xyz
@@ -1908,7 +1941,9 @@ nano-mute.buzz
 daily-pay.ru
 beiuu.hezomuk.xyz
 r7fk22.ub06septjo.online
+cttransit.net
 lotomarket.company
+glletter.com
 genreeloquence.site
 thisbuddy.top
 investplat.ru
