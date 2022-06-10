@@ -1,7 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 09 Jun 2022 21:02:02 +0000
+! Last modified: Fri, 10 Jun 2022 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+ru-pay-3dsa.ru
+3dspayy.ru
+bbc-3ds.ru
+super-rabota.club
+funstanre.ml
+ratilothedesk.ml
+niceelucky.xyz
+ua-compensation.buzz
+future-pay-official.online
+afishatheatre.online
+youtuber.money
+zd10-video.xyz
 uz-online.site
 clearlisten-load.buzz
 physiologicalrust.top
