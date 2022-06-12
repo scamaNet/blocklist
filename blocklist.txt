@@ -1,7 +1,56 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 11 Jun 2022 21:02:02 +0000
+! Last modified: Sun, 12 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+id1291.ru
+id1292.ru
+id1294.ru
+id1295.ru
+id1296.ru
+id1297.ru
+id1298.ru
+id14688.ru
+id1566.ru
+id2374.ru
+id4838.ru
+id4908.ru
+id4909.ru
+id4910.ru
+id4911.ru
+id4912.ru
+id6276.ru
+id6596.ru
+id6876.ru
+id76433.ru
+id7821.ru
+id8011.ru
+id8012.ru
+id8013.ru
+id8014.ru
+id8015.ru
+id8016.ru
+id8017.ru
+id80391.ru
+id8745.ru
+id9087.ru
+id98731.ru
+svyaznoy.ru-juneaction.xyz
+clothisratpay.ml
+suntangpanimerno.ml
+ua-help.buzz
+uno-pay.com
+bonuso.ru
+sd0-video.xyz
+sd1-video.xyz
+sd2-video.xyz
+sd3-video.xyz
+sd4-video.xyz
+sd5-video.xyz
+sd6-video.xyz
+sd7-video.xyz
+sd8-video.xyz
+sd9-video.xyz
+viplive.pw
 tlesputu.ml
 beneconsgitor.ml
 bankpay-sbe.ru
