@@ -1,7 +1,43 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 12 Jun 2022 21:02:02 +0000
+! Last modified: Mon, 13 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+coins.koin-free.xyz
+theatresafisha-bilets.ru
+theatre-tickets.online
+theatre-shop.ru
+finish-money.ru
+petudert.com
+tslax2.org
+giftxrp.info
+terra2x.pro
+xrpcor.com
+future-payment-org.online
+getcorppay.com
+forticket-pay.ru
+outmerch-3dse.ru
+lovelounge.online
+loft-film.ru
+cinema-holdes.ru
+cinema-cent.ru
+lovely-cinema.ru
+makepay.pw
+masprobit.nethouse.ru
+e-cupon.ru
+id-46522570.ru
+id-46522571.ru
+id-46522572.ru
+id-46522573.ru
+id-46522574.ru
+id-46522575.ru
+id-46522576.ru
+id-46522577.ru
+id-46522578.ru
+id-46522579.ru
+id-4995933.ru
+coincryptocom.tk
+n1bet.pro
+jaspez.ru
 id1291.ru
 id1292.ru
 id1294.ru
