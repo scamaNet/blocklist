@@ -1,7 +1,55 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 13 Jun 2022 21:02:02 +0000
+! Last modified: Tue, 14 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+nnicelucky.xyz
+macapinnuadi.ml
+premiumgold.pw
+bankpay-rcb.ru
+rbonus.ru
+id0961.ru
+id1275.ru
+id136573.ru
+id136575.ru
+id136579.ru
+id1549.ru
+id2334.ru
+id2785.ru
+id3529.ru
+id35567.ru
+id3916.ru
+id4213.ru
+id4261.ru
+id43811.ru
+id4416.ru
+id5100.ru
+id5101.ru
+id5102.ru
+id5103.ru
+id5104.ru
+id5106.ru
+id5107.ru
+id5108.ru
+id5721.ru
+id7251.ru
+id76986.ru
+id8114.ru
+id8248.ru
+id8368.ru
+id8398.ru
+id8428.ru
+id8498.ru
+id8638.ru
+id8724.ru
+id8787.ru
+id8938.ru
+id8948.ru
+id89799.ru
+id9826.ru
+id98909.ru
+id9899.ru
+svyaznoy.ru-actionjun.xyz
+compen-ua.fun
 coins.koin-free.xyz
 theatresafisha-bilets.ru
 theatre-tickets.online
