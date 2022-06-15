@@ -1,7 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 14 Jun 2022 21:02:02 +0000
+! Last modified: Wed, 15 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+ddnsshop.ru
+paytime.pw
+wopex.ru
+guardpeople-banking.com
+id4262.ru
+id47447.ru
+id48821.ru
+id552821.ru
+id66239.ru
+id773421.ru
+id95127.ru
+compen-ua.space
+4gfreewcm.xyz
+opensecretz.xyz
 nnicelucky.xyz
 macapinnuadi.ml
 premiumgold.pw
