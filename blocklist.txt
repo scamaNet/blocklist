@@ -1,7 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 15 Jun 2022 21:02:02 +0000
+! Last modified: Thu, 16 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+conservepeninsula.top
+shipmentdetach.top
+myatom.me
+new-pay.pw
+pay-forticket.ru
+dram-satire.online
+kassa-ticketteatr.ru
+obzor-moneys.su
+digitals-market.su
+nextlevelup.xyz
+compen-ua.bar
+textport.ru
+epmes.osvaldoprimer2tofu.shop
+epmes.osvaldoprimer3jojjy.shop
 ddnsshop.ru
 paytime.pw
 wopex.ru
