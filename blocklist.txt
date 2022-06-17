@@ -1,7 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 16 Jun 2022 21:02:02 +0000
+! Last modified: Fri, 17 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+nsadustan.com
+advpayments.com
+max-cinema.pro
+wildcinema.ru
+cinemaimax.ru
+roxcinema.ru
+voxcinema.ru
+prewier-theatrik.ru
+bank-unit.top
+payprotect.pw
+nzrtp.sezoxef.buzz
+betquotromatosve.ml
+fastwin.click
+arma-line.buzz
+epmes.suitable3vacation.xyz
 conservepeninsula.top
 shipmentdetach.top
 myatom.me
@@ -114,6 +129,7 @@ id-4995933.ru
 coincryptocom.tk
 n1bet.pro
 jaspez.ru
+de-esty.ru
 id1291.ru
 id1292.ru
 id1294.ru
@@ -491,7 +507,6 @@ coinsdesk.net
 coinkess.com
 4exc.com
 wildberies-gift.store
-payment.bbpay24.ru
 betrayplaintiff.top
 generoreedy.top
 goodnesstriotism.top
@@ -1890,7 +1905,8 @@ payment-onllu.ru
 future-payrussia.ru
 sourcepayments.ru
 theatrevasilev-tickets.ru
-shoptickets-theatre.ruteatr-tickets.me
+shoptickets-theatre.ru
+teatr-tickets.me
 online-pay.online
 lc1-video.xyz
 lc2-video.xyz
