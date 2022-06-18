@@ -1,7 +1,38 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 17 Jun 2022 21:02:02 +0000
+! Last modified: Sat, 18 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+m39793.cn
+brandhomo.top
+drumlass.top
+svyaznoy.ru-action06.xyz
+youtuber.run
+ticket-payshop.ru
+dramtheatre.com
+teatr-kassir.ru
+epmes.suitable7overhead.xyz
+order891284.ru
+id13657.ru
+id4625.ru
+id4682.ru
+id5465.ru
+id7387.ru
+id7567.ru
+id7657.ru
+id7837.ru
+id9479.ru
+id14912.ru
+id5109.ru
+id5110.ru
+id5111.ru
+id5112.ru
+id5113.ru
+id5114.ru
+id5115.ru
+id5116.ru
+id1834569.ru
+id282557.ru
+sim-slide.buzz
 nsadustan.com
 advpayments.com
 max-cinema.pro
