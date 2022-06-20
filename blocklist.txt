@@ -1,7 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 19 Jun 2022 21:02:02 +0000
+! Last modified: Mon, 20 Jun 2022 21:02:01 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+kavera.ru
+ytcardano.net
+drops2x.com
+3dspaypokay.ru
+us-earn.buzz
+teatr-onlineshop.ru
+dramtikteatr.ru
+breakvenue.top
+medievalconcurrent.top
+epmes.tosteria6univercity.xyz
+youtuber.casa
 msppay.xyz
 wixter.ru
 epmes.rossario7krasna.xyz
