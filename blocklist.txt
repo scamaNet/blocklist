@@ -1,7 +1,42 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 20 Jun 2022 21:02:01 +0000
+! Last modified: Tue, 21 Jun 2022 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+maturerhetorical.top
+introducedisposition.top
+epmes.suit9donnerbro.xyz
+bbc-3dsi.ru
+id-5858311.ru
+id-5858312.ru
+id-5858313.ru
+id-5858314.ru
+id-5858315.ru
+id-5858316.ru
+id-5858317.ru
+id-5858318.ru
+id-5858319.ru
+id1558.ru
+id43721.ru
+id4513.ru
+id5175.ru
+id5185.ru
+id5815.ru
+id6026.ru
+id60291.ru
+id6056.ru
+id6076.ru
+id6086.ru
+id638932.ru
+id8268.ru
+id84532.ru
+id8478.ru
+id8628.ru
+id8748.ru
+id8758.ru
+id8798.ru
+id8978.ru
+epmes.vinissimo3gwen.xyz
+daily0prizes.shop
 kavera.ru
 ytcardano.net
 drops2x.com
