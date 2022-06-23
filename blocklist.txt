@@ -1,7 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 22 Jun 2022 21:02:02 +0000
+! Last modified: Thu, 23 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+incumbentherald.top
+driftdeduct.top
+www-youla.com
+id1373.ru
+id1702.ru
+id1803.ru
+id211905.ru
+id4192.ru
+id44875.ru
+id2816.ru
+id5117.ru
+id5119.ru
+id5120.ru
+id5121.ru
+id5679027.ru
+id6649.ru
+id72193.ru
+id5122.ru
+id73321.ru
+id76442.ru
+id7823902.ru
+id7827386.ru
+cloud-wix.ru
+cinema-lime.online
+cinema-clouds.ru
+fountaincinema.ru
+compen-ua.website
+epmes.bredlyper1evanda.xyz
+up1military.autos
 vilfin-banking.com
 id1371.ru
 id1372.ru
