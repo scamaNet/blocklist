@@ -1,7 +1,17 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 23 Jun 2022 21:02:02 +0000
+! Last modified: Fri, 24 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+reporterillumination.top
+mightpropeller.top
+melse.ru
+4488.site
+simples.pw
+king7house.shop
+ekc-vnds.online
+epb.bredlyper8topperplus.xyz
+last-tip.buzz
+mini2hight.autos
 incumbentherald.top
 driftdeduct.top
 www-youla.com
