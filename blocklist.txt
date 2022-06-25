@@ -1,7 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 24 Jun 2022 21:02:02 +0000
+! Last modified: Sat, 25 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+obmenvalut.shop
+fatmoney.xyz
+youtuber.ltd
+gidorini.com
+defpayments.com
+tickets-shop.pro
+teatr-onlineshop.site
+dramatic-theatre.com
+midbet.one
+epb.cererra2avalon.xyz
+epb.cererra4behavior.xyz
+id-281742129.ru
+id-281742139.ru
+id-281742149.ru
+id-281742159.ru
+id-281742169.ru
+id-281742179.ru
+id-281742189.ru
+nurexchanger.co
 reporterillumination.top
 mightpropeller.top
 melse.ru
