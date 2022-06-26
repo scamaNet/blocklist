@@ -1,7 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 25 Jun 2022 21:02:02 +0000
+! Last modified: Sun, 26 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+robotoplata-payments.ru
+wix-merchant.ru
+paycinemavox.ru
+payimaxcinemas.ru
+paycinemafountain.ru
+planeta-cinema.ru
+cinema-seen.ru
+cinemavox.ru
+imaxcinemas.ru
+cinemafountain.ru
+missi.pw
+faw-opros.top
+gozo-design.com
 obmenvalut.shop
 fatmoney.xyz
 youtuber.ltd
