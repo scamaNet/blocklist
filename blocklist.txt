@@ -1,7 +1,44 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 26 Jun 2022 21:02:02 +0000
+! Last modified: Mon, 27 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+lkff3.zuminer.buzz
+store-job.store
+house-work.top
+kabinet327.xyz
+rules-delivery.info
+help365.group
+id-281744189.ru
+id-1237527.ru
+id-123959.ru
+id-44261.ru
+id-62001.ru
+id3085.ru
+id5126.ru
+id5128.ru
+id5129.ru
+id5130.ru
+id5131.ru
+id5132.ru
+id7057.ru
+id7067.ru
+id7157.ru
+id7257.ru
+id745824.ru
+id7507.ru
+id7517.ru
+id7527.ru
+id7607.ru
+id8196.ru
+id822921.ru
+id98622.ru
+id1834568.ru
+goldhandel24.com
+wrc-motors.ru
+epb.iskrayes5quadro.xyz
+epb.iskrayes6formago.xyz
+tappo.pw
+haven-digi.buzz
 robotoplata-payments.ru
 wix-merchant.ru
 paycinemavox.ru
