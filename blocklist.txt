@@ -1,7 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 27 Jun 2022 21:02:02 +0000
+! Last modified: Tue, 28 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+emerland-cinema.ru
+theater-sells.ru
+compen-ua.icu
+welkos.ru
+epb.jenetjack3salsasauce.xyz
+atlantic-one.buzz
+i-go.pw
+samjones.club
+ogics.iweowiegccs-unca.click
+s9tn7k.menumaster.online
+2avs6s2v.x-top.pw
 lkff3.zuminer.buzz
 store-job.store
 house-work.top
