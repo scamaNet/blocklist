@@ -1,7 +1,54 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 28 Jun 2022 21:02:02 +0000
+! Last modified: Wed, 29 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+thesiszigzag.top
+scrapwretched.top
+bb-task.buzz
+placemoney-good.com
+py-paysi.pw
+id-12458.ru
+id-325460.ru
+id-325462.ru
+id-325463.ru
+id-325464.ru
+id-325465.ru
+id-325466.ru
+id-325467.ru
+id-325468.ru
+id-325469.ru
+id-51578.ru
+id-56145.ru
+id-6200.ru
+id-8236.ru
+id1423.ru
+id1424.ru
+id1427.ru
+id1428.ru
+id1429.ru
+id1652.ru
+id1653.ru
+id1654.ru
+id6182.ru
+id65431.ru
+id821293.ru
+id823129.ru
+id82661.ru
+id82762.ru
+id85325.ru
+id87442.ru
+id90352r.ru
+id922001.ru
+id95325.ru
+id976142.ru
+id98721.ru
+winky-pays.ru
+cinema-king.ru
+cinema-revl.ru
+domenodin.ru
+epb.jenetjack7paperonni.xyz
+love8charge.click
+spbk-sbp.ru
 emerland-cinema.ru
 theater-sells.ru
 compen-ua.icu
