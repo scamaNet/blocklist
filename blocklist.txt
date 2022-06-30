@@ -1,7 +1,17 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 29 Jun 2022 21:02:02 +0000
+! Last modified: Thu, 30 Jun 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+cointop.su
+hight1love.click
+ru-is.online
+outmerchant3dse.ru
+afisha-theater.com
+teatrdram.ru
+theatresafishes-bilet.ru
+epb.lamboservice3awesome.xyz
+your2link.click
+eg-task.buzz
 thesiszigzag.top
 scrapwretched.top
 bb-task.buzz
