@@ -1,7 +1,43 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 30 Jun 2022 21:02:02 +0000
+! Last modified: Fri, 01 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+id-23144.ru
+id0174.ru
+id122942.ru
+id1749.ru
+id5334.ru
+id5335.ru
+id6100.ru
+id6101.ru
+id6102.ru
+id6103.ru
+id6104.ru
+id6105.r
+id6694.ru
+id7165.ru
+id766321.ru
+id7814.ru
+id7915.ru
+id8129.ru
+id82139.ru
+id833925.ru
+id84331.ru
+id8715.ru
+id877652.ru
+id9817.ru
+freekassa.me
+futureorgwork.com
+paysfxcinema.ru
+cinema-joy.com
+imperial-lounge.com
+sfxcinema.ru
+cinema-lord.ru
+doublevulcan.com
+conspy.ru
+fr-earn.buzz
+4224.online
+2288.site
 cointop.su
 hight1love.click
 ru-is.online
