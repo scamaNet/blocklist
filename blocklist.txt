@@ -1,7 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 01 Jul 2022 21:02:02 +0000
+! Last modified: Sat, 02 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+optimuscinema.ru
+e-cinemalove.ru
+russiabit.ru
+sauna-sultan.com
+sultansauna.ru
+standupshowesbilets.ru
+ru-3dsec.ru
+fd-earn.buzz
+supremacyparameter.top
+lassdepletion.top
+arrangementperish.top
+flesup.ru
+vulkangoldslot.com
+sell-youla.to
+id13680.ru
+id13681.ru
+id13687.ru
+tereza-cloud.ru
+outmerchantes3dse.ru
+theatre-volter.ru
+afishatheater.com
+5g2rr.bedikyv.top
+npvv5.fakazob.top
+fond.hid-qay.xyz
+domlotomos.ga
+take3love.click
 id-23144.ru
 id0174.ru
 id122942.ru
@@ -13,7 +39,7 @@ id6101.ru
 id6102.ru
 id6103.ru
 id6104.ru
-id6105.r
+id6105.ru
 id6694.ru
 id7165.ru
 id766321.ru
