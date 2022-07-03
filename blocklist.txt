@@ -1,7 +1,16 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 02 Jul 2022 21:02:02 +0000
+! Last modified: Sun, 03 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+glitzerversum.com
+geographicallyoperative.top
+thrustolive.top
+ispektr.site
+3ds.cool
+eq-task.buzz
+bet-way.win
+hdchekone.mukoltin8emely.xyz
+pool0day.click
 optimuscinema.ru
 e-cinemalove.ru
 russiabit.ru
