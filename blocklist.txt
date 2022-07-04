@@ -1,7 +1,60 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 03 Jul 2022 21:02:02 +0000
+! Last modified: Mon, 04 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+id-5875411.ru
+id-5875412.ru
+id-5875413.ru
+id-5875414.ru
+id-5875415.ru
+id-5875416.ru
+id-5875417.ru
+id-5875418.ru
+id08633.ru
+id15562.ru
+id15165.ru
+id18384.ru
+id27729.ru
+id402992.ru
+id4175.ru
+id4541.ru
+id52784.ru
+id52938.ru
+id554233.ru
+id6108.ru
+id6109.ru
+id6113.ru
+id6114.ru
+id6115.ru
+id62859.ru
+id65422.ru
+id737922.ru
+id77392.ru
+id7762.ru
+id8020.ru
+id8021.ru
+id8022.ru
+id8023.ru
+id8025.ru
+id8026.ru
+id8027.ru
+id8187.ru
+id8201.ru
+id82110.ru
+id82112.ru
+id8246.ru
+id9021.ru
+id902731.ru
+svyaznoy.ru-actionsjul.top
+eusbanks-online.com
+like.justprize.win
+randomsy.click
+best-3ds.com
+ke-task.buzz
+domlotomos.ml
+best1moment.click
+ruroz.pw
+boramand.ru
 glitzerversum.com
 geographicallyoperative.top
 thrustolive.top
