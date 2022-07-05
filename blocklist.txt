@@ -1,7 +1,12 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 04 Jul 2022 21:02:02 +0000
+! Last modified: Tue, 05 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+py-payen.pw
+megatoday.click
+time-pay.pw
+bittruste.com
+bitrouse.com
 id-5875411.ru
 id-5875412.ru
 id-5875413.ru
