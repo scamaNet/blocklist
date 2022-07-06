@@ -1,7 +1,59 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 05 Jul 2022 21:02:02 +0000
+! Last modified: Wed, 06 Jul 2022 21:02:01 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+id-5019311.ru
+id-50193111.ru
+id-50193112.ru
+id-50193113.ru
+id-50193114.ru
+id-50193115.ru
+id-50193116.ru
+id-50193117.ru
+id-5019312.ru
+id-5019313.ru
+id-5019315.ru
+id-5019316.ru
+id-5019317.ru
+id-5019318.ru
+id-5019319.ru
+id-6167.ru
+id12332.ru
+id13690.ru
+id13692.ru
+id13697.ru
+id13698.ru
+id13699.ru
+id13702.ru
+id13703.ru
+id13704.ru
+id13710.ru
+id2212.ru
+id40876.ru
+id49889.ru
+id5682.ru
+id6163148.ru
+id6586.ru
+id6756.ru
+id6757.ru
+id6856.ru
+id6936.ru
+id7662.ru
+id8464.ru
+id8594.ru
+id877623.ru
+like.fastlikes.click
+emerland-cinema.icu
+theater-sells.icu
+teatrdramtik.ru
+blablacar.run
+wildberies.pw
+msm.weoaesa-owovbank.pw
+43vpy050.newsboost.click
+zaimvsem.tk
+epb.emersive8outfit.xyz
+ur24mayjo.space
+afisha-show.ru
 py-payen.pw
 megatoday.click
 time-pay.pw
