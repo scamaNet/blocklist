@@ -1,7 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 08 Jul 2022 21:02:01 +0000
+! Last modified: Sat, 09 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+onewin.bet
+sell-youla.online
+compensationukraine.com
+mnpech.com
+yobit.su
+wishcinema.ru
+eusbanks-online.ru
+sebl-fin.com
+triplebuy.click
+black-pay.ru
+id13684.ru
+statpayments.com
+theatre-dram.com
+compensationua.com
+ua-compen.xyz
+m.greaserepress.top
+m.nstncedereglate.top
+m.punishmetrottion.top
+repelclench.top
+poundcounteract.top
+tropicevaporation.top
 probablerot.top
 accomplishmentquest.top
 nestmerger.top
