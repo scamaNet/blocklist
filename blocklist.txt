@@ -1,7 +1,16 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 09 Jul 2022 21:02:02 +0000
+! Last modified: Sun, 10 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+bitcoin365.su
+unionbtc.ru
+terrifyradiator.top
+easilyemancipation.top
+crepz.ru
+tezod.ru
+cinema-atlantic.ru
+tips-pay.ru
+theatre-atlantic.ru
 onewin.bet
 sell-youla.online
 compensationukraine.com
