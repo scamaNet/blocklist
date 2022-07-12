@@ -1,7 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 11 Jul 2022 21:02:02 +0000
+! Last modified: Tue, 12 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+id1846.ru
+id28464.ru
+dkbm-web.autoins-m.net
+data-help.net
+petitionerabrupt.top
+peercordial.top
+imitativepatron.top
+moulvibazartrust.com
+visa-pay.ru
+lotorusweb.blogspot.com
+socialsurveyek.xyz
+o5-earn.buzz
+u4b-earn.buzz
+ex.priz-segodnya-uws.click
+xeinx.wacozeq.buzz
 next-privat24.tk
 relax-pay.online
 contributorfragility.top
