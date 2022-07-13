@@ -1,7 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 12 Jul 2022 21:02:02 +0000
+! Last modified: Wed, 13 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+niceex.top
+rabota-info.life
+insistaide.top
+clipradiant.top
+rly-bet.win
+goldenvip.click
+joods.ru
+py-paynr.info
+relax-rooms.ru
+crytounion.com
+bitwasex.com
+zaifcoin.net
+bit2flex.com
+wesser-travel.buzz
+royalres.usluga.me
+who-repair.ru
+shmoysmon.ru
+xeinx.niwuwyc.buzz
+xeinx.dydezet.buzz
 id1846.ru
 id28464.ru
 dkbm-web.autoins-m.net
@@ -307,6 +326,7 @@ id98721.ru
 winky-pays.ru
 cinema-king.ru
 cinema-revl.ru
+bitwemex.com
 domenodin.ru
 epb.jenetjack7paperonni.xyz
 love8charge.click
@@ -898,6 +918,7 @@ paid-answer.xyz
 world-video.xyz
 cloud-answer.xyz
 vy50.xyz
+coinuppay.com
 ottobitcoin.com
 cryptuso.com
 bitloro.com
@@ -1394,6 +1415,10 @@ theatrekassa-dramatik.ru
 3dspayconnect.ru
 world-opros.top
 ye-gos.top
+bitfoxi.com
+bitfullnex.com
+bitjabex.com
+cryptobasty.com
 exbitcash.com
 bitwayd.com
 cryptlir.com
