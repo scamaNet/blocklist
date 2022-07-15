@@ -1,7 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 14 Jul 2022 21:02:02 +0000
+! Last modified: Fri, 15 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+cashking.win
+freelotosmail.ml
+origindell.ru
+cloud-tits.ru
+thepaymasters.ru
+prewier-genr.ru
+theatre-lock.ru
+theatrecomedys.ru
+youla-support.info
+finlitbank-online.com
+bscpad-airdrop.host
+claim-bscpad.tech
+claimbscpad.tech
+bscpad-claim.host
 i5-earn.buzz
 payprotect.win
 ambulancepsychiatrist.top
