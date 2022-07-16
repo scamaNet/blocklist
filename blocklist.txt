@@ -1,7 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 15 Jul 2022 21:02:02 +0000
+! Last modified: Sat, 16 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+accessorylayman.icu
+violencefascism.top
+kinoevents.ru
+emerland-cinema.info
+cinema-plane.ru
+cinema-elite.ru
+cinemaflex.ru
+cinemaciticf.ru
+cinemacfx.ru
+cloud-flares.ru
+futuremasterorg.com
+payment-turdram.ru
+theater-sells.info
+theatre-plane.ru
+turdram-performance.ru
 cashking.win
 freelotosmail.ml
 origindell.ru
