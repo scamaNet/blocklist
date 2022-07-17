@@ -1,7 +1,48 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 16 Jul 2022 21:02:02 +0000
+! Last modified: Sun, 17 Jul 2022 21:02:01 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+officialy.cc
+get-ua-comp.buzz
+ethtoper.com
+fortunatop.fun
+vulkanvegas777.live
+ticket-standup.com
+standupshowsticket.ru
+globalstandup.ru
+bitsale.su
+changecoin.su
+paradisebit.com
+livingconceited.top
+accentflap.co
+foggytub.top
+frontcollision.top
+myatom.claims
+out3dse-merchants.ru
+enot-pay.space
+atbpayments.com
+paymirconnect.ru
+theatresafisha-tiket.ru
+theatr-kassa.pw
+www-youla.info
+id4694.ru
+id519215.ru
+id6155.ru
+id6156.ru
+id6157.ru
+id6486.ru
+id66312.ru
+id6826.ru
+id6846.ru
+id7357.ru
+id7397.ru
+id7687.ru
+id7887.ru
+id7937.ru
+id7947.ru
+id7987.ru
+id82991.ru
+id94512.ru
 accessorylayman.icu
 violencefascism.top
 kinoevents.ru
