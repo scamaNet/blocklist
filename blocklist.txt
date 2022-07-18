@@ -1,7 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 17 Jul 2022 21:02:01 +0000
+! Last modified: Mon, 18 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+01isl3.cyou
+swimdde.xyz
+stigmacosmetic.top
+my-prizes.one
+get-ua-comp.bar
+beez-gos.top
+8842.site
+help-youla.info
+miraelroom.buzz
+https-youla.com
+payxwix.online
+pay-enot.space
+sever-c.ru
+comedyge.com
+theatre-official.com
+afisha-russian.pw
+steamcommunlty.it
 officialy.cc
 get-ua-comp.buzz
 ethtoper.com
