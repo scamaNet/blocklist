@@ -1,7 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 18 Jul 2022 21:02:02 +0000
+! Last modified: Tue, 19 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+id49721.ru
+id6164.ru
+id6165.ru
+id6166.ru
+id6167.ru
+id6168.ru
+id6169.ru
+id7765.ru
+id81092.ru
+id8278.ru
+id8378.ru
+id8728.ru
+id8738.ru
+id95221.ru
+accound-damp-vl.buzz
+myselfio.xyz
+practitionerdelude.co
+airimmerse.top
+autoinsrca.net
+youla-rules.support
+forcepayments.com
+mirtransfer.ru
+official-theatre.com
+theatrecomedic.ru
+vullkangoldgame365.com
+granby.ru
 01isl3.cyou
 swimdde.xyz
 stigmacosmetic.top
