@@ -1,7 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 19 Jul 2022 21:02:02 +0000
+! Last modified: Wed, 20 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+time-pay.xyz
+com-id3817.ru
+com-id381733.ru
+com-id9345.ru
+com-id934505.ru
+com-id934508.ru
+drivenarbitration.top
+culminateblunder.top
+realisticprecede.top
+stadiumamplify.top
+py-payqu.pw
+svyaznoy.ru-hiaction.top
+trenchlessubmarine.com
+shops-ticket.space
+3ds-cloud.ru
+theatre-vanes.ru
+lucky-play.co
+smashcake.click
+wildberrles.pw
+kaifbet.com
+super-giv.one
 id49721.ru
 id6164.ru
 id6165.ru
