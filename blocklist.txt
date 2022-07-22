@@ -1,7 +1,44 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 21 Jul 2022 21:02:02 +0000
+! Last modified: Fri, 22 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+setyl.ru
+eb.hudly7electric.xyz
+online-pay-web.ru
+id-48481.ru
+id-48485.ru
+id-48486.ru
+id1610.ru
+id1611.ru
+id1612.ru
+id1613.ru
+id1614.ru
+id1615.ru
+id1616.ru
+id1617.ru
+id1618.ru
+id1619.ru
+id313315.ru
+id4227.ru
+id42891.ru
+id4857.ru
+id6170.ru
+id6171.ru
+id6172.ru
+id6173.ru
+id6175.ru
+id6176.ru
+id6177.ru
+id6178.ru
+id6179.ru
+id78832.ru
+id8030.ru
+id8033.ru
+id8035.ru
+id8036.ru
+id832611.ru
+moran-chasebank.com
+standupshowstickets.ru
 meridiobet.com
 ko-ssi.art
 ko-ssi.top
