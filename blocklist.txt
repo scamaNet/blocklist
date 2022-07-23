@@ -1,7 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 22 Jul 2022 21:02:02 +0000
+! Last modified: Sat, 23 Jul 2022 21:02:01 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+ru-sbpoplata.ru
+cenbrigo.com
+3ds-clouds.ru
+legpaymaster.ru
+theatre-stock.ru
+teatralclassic.ru
+blablacar-m.uk
+rabota.close24.xyz
+5kj97.vafipuw.buzz
+2avs6s2v.litepay.one
+bitbuy.su
+bitcoincash.su
+oplata.group
+online-kabinet.xyz
+zenit-bet.one
+trustpay.one
+coin-webbity.com
+dustwault.com
 setyl.ru
 eb.hudly7electric.xyz
 online-pay-web.ru
