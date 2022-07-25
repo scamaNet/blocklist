@@ -1,7 +1,44 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 24 Jul 2022 21:02:02 +0000
+! Last modified: Mon, 25 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+officialstandup.ru
+standupglobal.ru
+standupshowesticket.ru
+id-1221.ru
+id-1231.ru
+id-1241.ru
+id-1251.ru
+id-1261.ru
+id1211.ru
+id1261.ru
+id1271.ru
+id1281.ru
+id1391.ru
+id2585.ru
+id55212.ru
+id982102.ru
+id4734566.ru
+prizegiv.win
+nnttn.cn
+efofpay.cyou
+aewoibsd.cyou
+opgwhq.cyou
+nkwdsxs.cyou
+oyugfc.cyou
+vzsoctk.cyou
+spectacle-tickets.com
+theatresafisha-tour.ru
+official-perf.online
+out3dse-merch.ru
+freekassa.online
+3dssafe.ru
+bi-task.top
+paybonus.plp7.ru
+rosacoin.ru
+maxicinema-lofts.ru
+cinema-chill.com
+cinema-stock.ru
 golden-kino.fun
 z2yy17.cyou
 7k68qs.cyou
