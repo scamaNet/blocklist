@@ -1,7 +1,34 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 25 Jul 2022 21:02:02 +0000
+! Last modified: Tue, 26 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+ctnnvbk.cyou
+dzbrujtu.cyou
+eknyirkk.cyou
+jr8zsn.cyou
+kfrwy0.cyou
+kg8m67.cyou
+ktrkt9.cyou
+mhbqboy.cyou
+mtvtbmc.cyou
+siupigd.cyou
+slyasdz.cyou
+thcwfzg.cyou
+qdascyz.cyo
+uxhsytgai.cyou
+bbaja.cn
+uhsoovb.cyou
+dramtheaters.com
+theatre-kassa.space
+options247.in
+corppay.ru
+relaxfilms.ru
+lounges-cinema.ru
+livetrust.win
+ex-swap.top
+ua-cmpns.xyz
+50usd-day.club
+8884.site
 officialstandup.ru
 standupglobal.ru
 standupshowesticket.ru
@@ -63,6 +90,7 @@ oplata.group
 online-kabinet.xyz
 zenit-bet.one
 trustpay.one
+net2022.ru
 coin-webbity.com
 dustwault.com
 setyl.ru
