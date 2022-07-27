@@ -1,7 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 26 Jul 2022 21:02:02 +0000
+! Last modified: Wed, 27 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+14n6ff.cyou
+4jjt57.cyou
+6knpio.cyou
+g731fo.cyou
+h5ftwc.cyou
+jfk49g.cyou
+jfmwrsn.cyou
+ne77n6.cyou
+t9qqko.cyou
+u54myi.cyou
+ulidjwf.cyou
+zbsmq0.cyou
+5rgtkx.cyou
+gastrol-tour.ru
+3353.site
+textem.ru
+cinema-relax.info
+out3dse-merchs.ru
+theatre-tickets.info
+theatreafisha-tour.ru
+ex-swap.pro
+royalsbet.net
+100usd.online
+pq-task.top
 ctnnvbk.cyou
 dzbrujtu.cyou
 eknyirkk.cyou
