@@ -1,7 +1,37 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 27 Jul 2022 21:02:02 +0000
+! Last modified: Thu, 28 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+svyaznoy.ru-promoaction.top
+vpnxfjgb.cn
+f236wd.cyou
+0gs4jl.cyou
+11op2u.cyou
+g9154g.cyou
+eqy1g1.cyou
+jvnqrzg.cyou
+lydaapk.cyou
+p8hdh9.cyou
+ry2hty.cyou
+ulblyk.cyou
+y11nt6.cyou
+wajqwlm.cyou
+videoytv.buzz
+youtuber.team
+finstatic-online.com
+3dspaysafety.ru
+futurepaymoon.com
+theatrebulgakov.com
+pk-teatr.ru
+drama-satire.ru
+dramtik.ru
+dramatick.ru
+drama-ticket.ru
+dram-ticket.ru
+satir-drama.ru
+kasinovulkan777.com
+bitcoinonline.su
+pq-task.buzz
 14n6ff.cyou
 4jjt57.cyou
 6knpio.cyou
