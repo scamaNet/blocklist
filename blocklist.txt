@@ -1,7 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 29 Jul 2022 21:02:02 +0000
+! Last modified: Sat, 30 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+dm.webjobs.ru.com
+dram-theaters.ru
+b89qfq.cyou
+qbypvpc.cyou
+bjzjzc.cyou
+c9h37e.cyou
+ord8370.ru
+ord8375.ru
+ord8001.ru
+ord8002.ru
+id1461.ru
+id3964.ru
+id3965.ru
+id3966.ru
+id3967.ru
+id3968.ru
+id3969.ru
+id7204.ru
+westernbornerkarnier.com
 id-35243.com
 craftblanksdirect.com
 luckychances.top
