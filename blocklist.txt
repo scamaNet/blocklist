@@ -1,7 +1,14 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 30 Jul 2022 21:02:02 +0000
+! Last modified: Sun, 31 Jul 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+crypto-swap.top
+swz9oy.cyou
+t2g843.cyou
+xtz6xj.cyou
+x42rsi.cyou
+ji-task.buzz
+info-get-money.life
 dm.webjobs.ru.com
 dram-theaters.ru
 b89qfq.cyou
@@ -12,6 +19,7 @@ ord8370.ru
 ord8375.ru
 ord8001.ru
 ord8002.ru
+id1681.ru
 id1461.ru
 id3964.ru
 id3965.ru
