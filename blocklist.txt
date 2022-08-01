@@ -1,7 +1,51 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 31 Jul 2022 21:02:02 +0000
+! Last modified: Mon, 01 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+vipgiv.top
+bing-new.site
+cinema-blok.info
+theatre-ticket.info
+pk-theatre.ru
+kbhylo.cyou
+p9x7rf.cyou
+ptkhb4.cyou
+w0zng4.cyou
+xtbirwg.cyou
+1fqzhx.cyou
+otzovik.space
+trust-pilot.ru
+mytax-compensation.xyz
+pay-sta.pw
+hotels-sirius.com
+id1931.ru
+id1951.ru
+id1971.ru
+id1981.ru
+id1991.ru
+id25688.ru
+id34678.ru
+id63883.ru
+id7111.ru
+id7112.ru
+id7113.ru
+id73828.ru
+id79374.ru
+id83391.ru
+id8872.ru
+id90411.ru
+id92873.ru
+id9445.ru
+id9463.ru
+id98745.ru
+id99021.ru
+id9972.ru
+id13711.ru
+id13712.ru
+id13713.ru
+id13714.ru
+ramigo.ru
+bb-task.top
 crypto-swap.top
 swz9oy.cyou
 t2g843.cyou
@@ -2635,6 +2679,7 @@ poolin.cam
 modagamouf.com
 oprosyndx.ru
 you-bet.live
+stream-casino.pro
 tinkoff-material.site
 veroscoss.com
 prizesday.xyz
