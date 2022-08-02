@@ -1,7 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 01 Aug 2022 21:02:02 +0000
+! Last modified: Tue, 02 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+os.free-ap.club
+ultraprizes.top
+gbwtibz.cn
+xhzqehq.cyou
+f9go9b.cyou
+73gme3.cyou
+ykcsuzn.cyou
+rhusfq.cyou
+rxtczkb.cyou
+zapgtza.cyou
+wlldberries.pw
 vipgiv.top
 bing-new.site
 cinema-blok.info
