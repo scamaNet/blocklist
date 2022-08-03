@@ -1,7 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 02 Aug 2022 21:02:02 +0000
+! Last modified: Wed, 03 Aug 2022 21:02:01 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+out3dse-merches.ru
+3ds-cloudsourse.ru
+netinscruppet.com
+procomdin.com
+theatreafisha-toure.ru
+theatre-notex.ru
+classical-theatre.ru
+justprize.top
+edstoac.cyou
+cy8t9k.cyou
+f08yzt.cyou
+7juoi8.cyou
+hzozooo.cyou
+jtdefke.cyou
+youla-deal.com
 os.free-ap.club
 ultraprizes.top
 gbwtibz.cn
