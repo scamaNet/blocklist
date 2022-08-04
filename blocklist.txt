@@ -1,7 +1,34 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 03 Aug 2022 21:02:01 +0000
+! Last modified: Thu, 04 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+rabotaonl.com
+supergivs.top
+id1341.ru
+id1361.ru
+id13727.ru
+id1467.ru
+id1771.ru
+id1975.ru
+id3980.ru
+id3981.ru
+id3982.ru
+id3983.ru
+id3984.ru
+id3985.ru
+id7121.ru
+id7122.ru
+id7123.ru
+id7129.ru
+id7532.ru
+id76522.ru
+id7962.ru
+id8371.ru
+hdchekone.astromeda5wrigley.xyz
+hotwildberries.pw
+campdirtsquirt.com
+fxmcrypto.com
+excrypt.net
 out3dse-merches.ru
 3ds-cloudsourse.ru
 netinscruppet.com
