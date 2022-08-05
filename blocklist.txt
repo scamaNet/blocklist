@@ -1,7 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 04 Aug 2022 21:02:02 +0000
+! Last modified: Fri, 05 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+kasinoslotsvlk370.com
+astra-bet.net
+vk-mobile.ru
+pictureautonomy.top
+classfacet.top
+acceptableidiot.top
+ord7237.ru
+ord7825.ru
+ord7828.ru
+ord8003.ru
+ord8004.ru
+ord8005.ru
+ord8143.ru
+ord8144.ru
+ord8147.ru
+id7132.ru
+id13726.ru
+id3980.com
+ukr-siter.top
 rabotaonl.com
 supergivs.top
 id1341.ru
