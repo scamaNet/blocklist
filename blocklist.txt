@@ -1,7 +1,40 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 05 Aug 2022 21:02:02 +0000
+! Last modified: Sun, 07 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+visabit.ru
+youla-my.com
+avito-my.com
+rushrot.top
+prerequisiteassassin.top
+furgentium.com
+staticalpayments.com
+3de-out.ru
+cinema-lounges.com
+kinocinema-loft.ru
+tax-compensation.buzz
+tax-compensation.bar
+get-media.ru
+365bitcoin.ru
+paymeins-rus.ru
+svyaznoy.ru-aaction.top
+3223.site
+richking.me
+transu.ru
+moneyfirst-holding.com
+hot-wildberries.pw
+cinema-sferium.info
+3ds-merchant.ru
+theatr-ticket.info
+theaterbulgakova.com
+theatre-voller.ru
+comedictheatre.ru
+tickets-teatr.ru
+1hi4w7.cn
+ddwuupn.cn
+m.bumperrefugee.top
+m.ministerdodge.top
+physicsword.top
 kasinoslotsvlk370.com
 astra-bet.net
 vk-mobile.ru
