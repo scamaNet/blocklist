@@ -1,7 +1,60 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 07 Aug 2022 21:02:02 +0000
+! Last modified: Mon, 08 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+rabota.magnitt.ru.com
+cinema-voller.ru
+cinemapassion.ru
+3dspaysatir.ru
+connectpayonline.ru
+afisha-theaters.com
+dramtik-teatr.ru
+dramatik-teatr.ru
+giftss.me
+wildberriesmarket.pw
+adolescentcongregate.top
+candestined.top
+pro-chang.top
+rabota-info.club
+id-4001.ru
+id-4003.ru
+id-4008.ru
+id1351.ru
+id1531.ru
+id1581.ru
+id1593.ru
+id1597.ru
+id1631.ru
+id1731.ru
+id28174.ru
+id3990.ru
+id3991.ru
+id4524.ru
+id4624.ru
+id4858.ru
+id7133.ru
+id7134.ru
+id7135.ru
+id7137.ru
+id7138.ru
+id7139.ru
+id7140.ru
+id7141.ru
+id7142.ru
+id7143.ru
+id72131.ru
+id87621.ru
+id88129.ru
+id8878.ru
+id92668.ru
+id93452.ru
+ord8127.ru
+ord8910.ru
+ord8911.ru
+ord8915.ru
+websoof.com
+kassa-theatre.online
+ticketdram.com
 visabit.ru
 youla-my.com
 avito-my.com
