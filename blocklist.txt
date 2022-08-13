@@ -1,7 +1,47 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 12 Aug 2022 21:02:02 +0000
+! Last modified: Sat, 13 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+id1367.ru
+id1488.ru
+id1854.ru
+id213212.ru
+id21388.ru
+id7152.ru
+id7154.ru
+id7155.ru
+id765321.ru
+id81291.ru
+id-5001.ru
+id22291.ru
+id30291.ru
+id7158.ru
+id7159.ru
+id73910.ru
+id86012.ru
+id87732.ru
+id1591.ru
+id1621.ru
+id1641.ru
+id1671.ru
+id32739.ru
+id7160.ru
+id7161.ru
+id7162.ru
+ord8031.ru
+ord8235.ru
+ord8236.ru
+mastersfin-corp.com
+bibsi62.buzz
+trustpay.gold
+appsandtapslkn.com
+tonbitcoin.ru
+lehyshops.ru
+pay-form.ru
+cinema-wipe.com
+cinema-kings.ru
+try-spin.tk
+flipdash.wiki
 oplata-room.ru
 crd-3dsmerch.ru
 3ds-wallet.ru
