@@ -1,7 +1,17 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 13 Aug 2022 21:02:02 +0000
+! Last modified: Sun, 14 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+theatre-dramm.com
+theatreafisha-shows.ru
+kufar.by-transfer.ca
+y-kassir.ru
+cinema-west.ru
+uam-compensation.xyz
+crds-3dsmerch.ru
+prowildberries.pw
+double-cinema.ru
+cinemaluxe-loft.ru
 id1367.ru
 id1488.ru
 id1854.ru
