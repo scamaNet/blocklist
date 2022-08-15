@@ -1,7 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 14 Aug 2022 21:02:02 +0000
+! Last modified: Mon, 15 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+bitcoinsaller.ru
+youla-3ds.group
+0olut8.cn
+comparisonoutfit.co
+greaselimelight.co
+thisrare.click
+flychange.online
+easy-arbitrage.club
+leading-line.ru
+twenty-message.ru
+groupwildberries.pw
+os.topegolsd.top
 theatre-dramm.com
 theatreafisha-shows.ru
 kufar.by-transfer.ca
