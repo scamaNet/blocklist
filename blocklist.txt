@@ -1,7 +1,49 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 15 Aug 2022 21:02:02 +0000
+! Last modified: Tue, 16 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+bitcointransfer.ru
+id1128.ru
+id1551.ru
+id1921.ru
+id24293.ru
+id48172.ru
+id51293.ru
+id5848.ru
+id7164.ru
+id7166.ru
+id7169.ru
+id7170.ru
+id7171.ru
+id7172.ru
+id7173.ru
+id83910.ru
+id92121.ru
+idi1411.ru
+idi1421.ru
+idi1431.ru
+idi1481.ru
+ord-35453.ru
+ord-55453.ru
+ord-5980.ru
+ord-59809.ru
+ord-5981.ru
+ord-5982.ru
+ord-5983.ru
+ord-85453.ru
+ord-98453.ru
+ord8123.ru
+ord8941.ru
+ord8942.ru
+eventfularticulate.tech
+citenil.tech
+svyaznoy.ru-asg.top
+ukr-dopomog.top
+trust-gos.top
+rbj-survey.top
+prettygiv.one
+pravila.support
+wolty.ru
 bitcoinsaller.ru
 youla-3ds.group
 0olut8.cn
