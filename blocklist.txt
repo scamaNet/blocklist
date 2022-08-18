@@ -1,7 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 17 Aug 2022 21:02:02 +0000
+! Last modified: Thu, 18 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+onle-3dsmerch.ru
+theatrshow-ticket.ru
+vulkanonlinex.com
+armaanzeuae.com
+keysoff.store
+presmedia.site
+copysale.ru
+crypteka.com
+cryptaso.net
+deylybit.com
+bitxchain.net
+bitmeel.com
+bitsalo.com
+cybersport-play.com
+billingate.ru
 respectableassertive.tech
 dirtranch.tech
 commentaryaloft.tech
