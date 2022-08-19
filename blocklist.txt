@@ -1,7 +1,10 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 18 Aug 2022 21:02:02 +0000
+! Last modified: Fri, 19 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+liteshops.ru
+leetyshops.ru
+web24cc.com
 onle-3dsmerch.ru
 theatrshow-ticket.ru
 vulkanonlinex.com
