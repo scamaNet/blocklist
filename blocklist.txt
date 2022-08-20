@@ -1,7 +1,37 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 19 Aug 2022 21:02:02 +0000
+! Last modified: Sat, 20 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+id0425.ru
+id123129.ru
+id1922.ru
+id1923.ru
+id1925.ru
+id1926.ru
+id1929.ru
+id2031.ru
+id2342.ru
+id2442.ru
+id2542.ru
+id2772.ru
+id448392418.ru
+id46821.ru
+id7182.ru
+id7183.ru
+id7184.ru
+id7185.ru
+id82192.ru
+id83271.ru
+id867212.ru
+ord1761.ru
+ord1763.ru
+ord1765.ru
+my1-prize.click
+f2-wudfy.buzz
+pay-3.ru
+letishopes.ru
+onlybit.ru
+owep.ru
 liteshops.ru
 leetyshops.ru
 web24cc.com
