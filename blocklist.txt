@@ -1,7 +1,11 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 20 Aug 2022 21:02:02 +0000
+! Last modified: Sun, 21 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+two3-chance.click
+lemon-pay.online
+devicerefute.tech
+oofoe.cn
 id0425.ru
 id123129.ru
 id1922.ru
