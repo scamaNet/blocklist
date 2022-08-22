@@ -1,7 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 21 Aug 2022 21:02:02 +0000
+! Last modified: Mon, 22 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+your2-lucky.click
+mensbob.com
+pf07bjy.fun
+iootmtb8ot.fun
+bacon-games.com
+casinovulcanclub.com
+bitcoined.biz
+drama-satire.online
+ml-task.buzz
+ub-task.buzz
+letechops.ru
+royal-cash.top
+n-cupon.ru
+shibawex.biz
+businessfin.online
 two3-chance.click
 lemon-pay.online
 devicerefute.tech
