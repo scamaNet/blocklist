@@ -1,7 +1,17 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 22 Aug 2022 21:02:02 +0000
+! Last modified: Tue, 23 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+official-theatr.ru
+clbvlkasino.com
+lounge-loft.ru
+lytechops.ru
+buy3-rocks.click
+ogefer.com
+agern.ru
+смарткоин.рф
+walletas.ru
+bitreg.ru
 your2-lucky.click
 mensbob.com
 pf07bjy.fun
