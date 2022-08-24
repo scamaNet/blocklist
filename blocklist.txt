@@ -1,7 +1,56 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 23 Aug 2022 21:02:02 +0000
+! Last modified: Wed, 24 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+capital-letter.ru
+theatreafisha-online.ru
+id1125.ru
+id12154.ru
+id13752.ru
+id13753.ru
+id13756.ru
+id13757.ru
+id13758.ru
+id13759.ru
+id13760.ru
+id13761.ru
+id13762.ru
+id13763.ru
+id13764.ru
+id13765.ru
+id13766.ru
+id13767.ru
+id13768.ru
+id13769.ru
+id13780.ru
+id2048.ru
+id2049.ru
+id2050.ru
+id2232.ru
+id2301.ru
+id2303.ru
+id2304.ru
+id2372.ru
+id2732.ru
+id2892.ru
+id3958.ru
+id7192.ru
+id7193.ru
+id7194.ru
+id80001.ru
+id80002.ru
+id80003.ru
+id80004.ru
+id80005.ru
+id80006.ru
+id80007.ru
+id80008.ru
+id80009.ru
+ord1102.ru
+ord-8935.ru
+ord-8932.ru
+ord-8931.ru
+ord-8930.ru
 official-theatr.ru
 clbvlkasino.com
 lounge-loft.ru
