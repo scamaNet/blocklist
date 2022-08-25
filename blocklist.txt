@@ -1,7 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 24 Aug 2022 21:02:02 +0000
+! Last modified: Thu, 25 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+you2-make.click
+letysnops.ru
+leteshop.ru
+stand-up-tour.ru
+standupshows-online.ru
+buystandups.ru
+stand-ups.ru
+ticketstandup.ru
+3dsystempay.ru
+fast-3desmerch.ru
+theatr-drammat.com
+teatrcomedii.ru
+drammatheatre.ru
+tourdram-afisha.ru
+comtheatre.ru
+theatresafisha-online.ru
+theatre-comediya.ru
+ballandbets.com
+svyaznoy.ru-aws.ru
+usa-bitcoins.com
+wkccoin.com
+limisu.com
+coinscrow.net
+ranoxi.com
+big-moneyman.ru
+copypark.ru
 capital-letter.ru
 theatreafisha-online.ru
 id1125.ru
