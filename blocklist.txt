@@ -1,7 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 25 Aug 2022 21:02:02 +0000
+! Last modified: Fri, 26 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+id1284.ru
+id2051.ru
+id2053.ru
+id2054.ru
+id2435.ru
+id3183.ru
+id3283.ru
+id3483.ru
+id7198.ru
+id7199.ru
+id7200.ru
+id7205.ru
+id7206.ru
+pay-afisha.ru
+afishatickets.ru
+get1-dollar.click
 you2-make.click
 letysnops.ru
 leteshop.ru
