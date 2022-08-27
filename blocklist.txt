@@ -1,7 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 26 Aug 2022 21:02:02 +0000
+! Last modified: Sat, 27 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+vipwildberrles.pw
+4job.icu
+cashag.icu
+xycash.sbs
+hicash.icu
+gtcash.icu
+gtcash.sbs
+right-payer.ru
+fast-3desmrch.ru
+futurework-org.com
+leteshopc.ru
+theatre-drammatik.com
+classics-teatre.ru
+theatreshow-afisha.ru
+dram-satip.ru
+bitpro-autotrade.com
+goodbit.su
+mokle-pay.com
 id1284.ru
 id2051.ru
 id2053.ru
