@@ -1,7 +1,34 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 28 Aug 2022 21:02:02 +0000
+! Last modified: Mon, 29 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+simple-letters.ru
+boxwildberrles.pw
+id13122.ru
+id3123.ru
+id3124.ru
+id3423.ru
+id7207.ru
+id7208.ru
+id7209.ru
+id7214.ru
+id7216.ru
+id7218.ru
+id7221.ru
+id7223.ru
+id7224.ru
+id7225.ru
+id7226.ru
+id7227.ru
+id7228.ru
+id7229.ru
+id80017.ru
+id80018.ru
+ord-9521.ru
+pay-form.online
+cinema-kings.com
+arwiisiledeti.ml
+lecanonde.tk
 svyaznoy.ru-asy.xyz
 groupwildberrles.pw
 apollogrand.com
