@@ -1,7 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 29 Aug 2022 21:02:02 +0000
+! Last modified: Tue, 30 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+we-task.top
+esd-delsern.com
+smartgame.fun
+futurepaysmoon.com
+fast-3desmrh.ru
+dramma-theatre.com
+theatreshow-official.ru
+drams-theatra.ru
+letisheps.ru
+kassir-national.ru
+btcos.ru
+moretextov.ru
+temagold.com
+textm.ru
+luckyvideo.cc
+l4-earn.buzz
+fb-earn.buzz
+u2a-earn.buzz
+so-task.top
+d3-earn.buzz
+lj-task.top
 simple-letters.ru
 boxwildberrles.pw
 id13122.ru
@@ -27,6 +48,7 @@ id80018.ru
 ord-9521.ru
 pay-form.online
 cinema-kings.com
+rustand-inform.online
 arwiisiledeti.ml
 lecanonde.tk
 svyaznoy.ru-asy.xyz
