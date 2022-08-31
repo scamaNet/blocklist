@@ -1,7 +1,16 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 30 Aug 2022 21:02:02 +0000
+! Last modified: Wed, 31 Aug 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+youla-deal.org
+cat-mds.com
+svyaznoy.ru-asu.xyz
+dihcollection.com
+get3-prizes.click
+huntcoin.ru
+mars-bet.pro
+trasbn.ru
+surftop.club
 we-task.top
 esd-delsern.com
 smartgame.fun
