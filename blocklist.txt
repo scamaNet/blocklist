@@ -1,7 +1,10 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 31 Aug 2022 21:02:02 +0000
+! Last modified: Thu, 01 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+lectyshops.ru
+os.hid-eay.xyz
+metazeit.com
 youla-deal.org
 cat-mds.com
 svyaznoy.ru-asu.xyz
