@@ -1,7 +1,40 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 02 Sep 2022 21:02:03 +0000
+! Last modified: Sat, 03 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+algorithmvex.com
+cinema-komfort.info
+cinema-movie.ru
+cinemavillage.ru
+cinema-kassa.ru
+cinemaatmos.ru
+zalcinemahal.ru
+cinemagrand.ru
+cinema-daily.ru
+afisha-theatre-satir.ru
+afisha-standup-club.ru
+stand-up-tickets.ru
+sstand-up.ru
+afisha-standup.ru
+cinema-lounge.ru
+letishaps.ru
+goin-pay.ru
+platforma-pay.ru
+imp-pay.ru
+pay-well.ru
+theaters-dram.info
+dramat-or-teatr.ru
+teatrmurmansk.ru
+teatrcomediya.ru
+drams-theatre.ru
+afisha-dramatheatre.ru
+titanbet.pro
+workym.ru
+rovigo.ru
+resafe.ru
+dm.mirjob.ru.com
+binansxs.ru
+ppbitcoin.ru
 top2-lite.click
 stack-money.ru
 wj-task.top
