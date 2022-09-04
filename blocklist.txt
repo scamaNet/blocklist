@@ -1,7 +1,14 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 03 Sep 2022 21:02:02 +0000
+! Last modified: Sun, 04 Sep 2022 21:02:01 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+bitcoinminerscript.com
+youla-articles.com
+cash-youla.ru
+catik-short.com
+hhbit.ru
+clbgamevulkan.com
+algrtme.com
 algorithmvex.com
 cinema-komfort.info
 cinema-movie.ru
