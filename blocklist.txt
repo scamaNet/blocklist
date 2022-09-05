@@ -1,7 +1,57 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 04 Sep 2022 21:02:01 +0000
+! Last modified: Mon, 05 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+id-payment.ru
+id13133.ru
+id1477.ru
+id1949.ru
+id2418.ru
+id24382.ru
+id2736.ru
+id3113.ru
+id3213.ru
+id3313.ru
+id3473.ru
+id3819.ru
+id4028.ru
+id4225.ru
+id5422.ru
+id5482.ru
+id5813.ru
+id6040.ru
+id6382.ru
+id7248.ru
+id7250.ru
+id7252.ru
+id7253.ru
+id7254.ru
+id7255.ru
+id7256.ru
+id7258.ru
+id7259.ru
+id7260.ru
+id7261.ru
+id7262.ru
+id73193.ru
+id8571.ru
+id9101.ru
+id9102.ru
+id9103.ru
+id9104.ru
+id9105.ru
+id9106.ru
+id9108.ru
+id9111.ru
+id9369.ru
+id9439.ru
+id9489.ru
+найти-телефон.com
+kakao-pay.online
+grand2-king.click
+osoc.urae-sawc.buzz
+bynex.click
+complect-rus.site
 bitcoinminerscript.com
 youla-articles.com
 cash-youla.ru
