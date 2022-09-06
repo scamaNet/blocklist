@@ -1,7 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 05 Sep 2022 21:02:02 +0000
+! Last modified: Tue, 06 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+steamsells.ru
+tasku.ru
+bitrech.com
+cilnarix.com
+cryptosam.net
+regway.eu
+sodo.dero-macs.buzz
+midbet.pro
+vilaqq.com
+jalextrade.com
+dotxgas.com
+cointena.com
+fortestings.ru
+id8459.ru
 id-payment.ru
 id13133.ru
 id1477.ru
