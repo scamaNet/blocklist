@@ -1,7 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 06 Sep 2022 21:02:02 +0000
+! Last modified: Wed, 07 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+nhpay.ru
+dollar3-dash.click
+freelmsk.com
+tacka.ru
+completed-training.ru
+kukkipro.xyz
+payqiwi.ru
+theatredramma.ru
+svyaznoy.ru-asg.xyz
+global.topegolsd.top
+matadorauto.ru
 steamsells.ru
 tasku.ru
 bitrech.com
