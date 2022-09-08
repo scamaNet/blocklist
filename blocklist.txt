@@ -1,7 +1,47 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 07 Sep 2022 21:02:02 +0000
+! Last modified: Thu, 08 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+os.epe-ylaud.buzz
+wildberiesgifts.pw
+ru-newpay.ru
+betting-liga.com
+fotext.ru
+alcomig66.com
+gov-ukraine.club
+bind-gos.cc
+junior-gos.club
+big-uah.club
+ams-gos.top
+id1744560.ru
+id1744561.ru
+id1744562.ru
+id1744563.ru
+id1744564.ru
+id1744565.ru
+id1744567.ru
+id1744568.ru
+id1744569.ru
+ord-8910.ru
+ord-payment.ru
+ord3420.ru
+ord3421.ru
+ord3422.ru
+ord8436.ru
+ord8437.ru
+id14212.ru
+id2826.ru
+id7268.ru
+id7269.ru
+id7270.ru
+id7432.ru
+id9117.ru
+id9118.ru
+id9289.ru
+id9319.ru
+id9379.ru
+id9399.ru
+i21iu.bixahem.sbs
 nhpay.ru
 dollar3-dash.click
 freelmsk.com
