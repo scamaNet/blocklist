@@ -1,7 +1,15 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 08 Sep 2022 21:02:02 +0000
+! Last modified: Fri, 09 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+wildberiestop.pw
+successful-learning.ru
+diverashop.ru
+donate.cryptocoinsolar.online
+mine-exchanger.com
+cxema-3apabomka.club
+wocmy.uq-nsaku-rfwvo.buzz
+annadeg.com
 os.epe-ylaud.buzz
 wildberiesgifts.pw
 ru-newpay.ru
@@ -155,6 +163,7 @@ workym.ru
 rovigo.ru
 resafe.ru
 dm.mirjob.ru.com
+kuvaldashop.ru
 binansxs.ru
 ppbitcoin.ru
 top2-lite.click
