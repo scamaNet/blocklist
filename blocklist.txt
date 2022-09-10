@@ -1,7 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 09 Sep 2022 21:02:02 +0000
+! Last modified: Sat, 10 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+ru-newpay.online
+cash-youla.online
+mrcatikp.com
+prowildberies.pw
+green-gos.club
+bell-gos.club
+ukr-compens.top
+gigs-gos.top
+letyshosp.ru
+portroll.online
+yocoin.ru
+pay-qiwi.ru
+payment-operator.com
+payercheck.ru
+kof.servisefmp.top
+brose.nserogamos-epra.buzz
+help3-find.click
+performance-theater.ru
+teatrcomediia.ru
+theatre-of-dramer.ru
+theatreofdramm.ru
+bitjamex.com
+bitsefax.com
+bitrunex.com
+zaiftrade.com
+ressoft.shop
 wildberiestop.pw
 successful-learning.ru
 diverashop.ru
