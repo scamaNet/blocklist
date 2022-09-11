@@ -1,7 +1,45 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 10 Sep 2022 21:02:02 +0000
+! Last modified: Sun, 11 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+ci-uah.xyz
+bild-gos.club
+boom-gos.club
+shnoust.com
+niberling.com
+textco.ru
+letyshosp.online
+xycash.icu
+gtcash.xyz
+xxlmoney.cfd
+nermoney.xyz
+manmoney.xyz
+5money.xyz
+xlmoney.sbs
+xxlmoney.icu
+xxlmoney.sbs
+xlmoney.cfd
+xlmoney.icu
+lvmoney.xyz
+hsmoney.xyz
+kwmoney.xyz
+hlmoney.xyz
+bnmoney.xyz
+lsmoney.xyz
+psmoney.xyz
+fstmoney.sbs
+himoney.sbs
+hitmoney.one
+getmoney.cfd
+2money.cfd
+gtmoney.icu
+fstmoney.one
+fstmoney.cfd
+hitmoney.icu
+hitmoney.cfd
+2money.sbs
+bestworker-banks.com
+coins2-king.click
 ru-newpay.online
 cash-youla.online
 mrcatikp.com
