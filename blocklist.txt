@@ -1,7 +1,37 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 11 Sep 2022 21:02:02 +0000
+! Last modified: Mon, 12 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+wildberiesvip.pw
+vr-platforma.ru
+3dspayment-mir2connect.ru
+plati-qiwi.ru
+send-pay.space
+lpay.store
+spectacle-afisha.com
+pktheater.ru
+dramtick.ru
+theatreofdramatic.ru
+theatreofdrammatic.ru
+theatrcomedi.ru
+theatrebuys.ru
+theater-dream.ru
+tourtheatre-afisha.ru
+bolsh-teatres.ru
+dram-estrada.ru
+futurecoin.ru
+os.hid-ylaud.buzz
+cdgamebuy.ru
+nowxrp.net
+coinbase-found.com
+ethereum2022.com
+x2apple.org
+2xbonusnow.com
+ethgiv.me
+teslajust.org
+arkgo.info
+merge-ether.org
+arkluck.org
 ci-uah.xyz
 bild-gos.club
 boom-gos.club
