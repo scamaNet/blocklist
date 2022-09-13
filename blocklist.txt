@@ -1,7 +1,30 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 12 Sep 2022 21:02:02 +0000
+! Last modified: Tue, 13 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+money-youla.online
+kotikshort.com
+wildberiesmy.pw
+paysbbc.ru
+3ds-paymaster.com
+3ds-merch.ru
+fluse-pay.ru
+cinema-defaults.com
+cinema-scenes.ru
+cinemaromantica.ru
+themoviecinema.ru
+oasiscinema.ru
+cinemahalls.ru
+moderncinema.ru
+cinema-lobby.ru
+tencinema.ru
+romanticacinema.ru
+cinema-allerto.ru
+letishosp.ru
+megabafin-online.com
+aquilaoption.com
+classix-chasebank.com
+wusnsce.dziczoeo-udv.buzz
 wildberiesvip.pw
 vr-platforma.ru
 3dspayment-mir2connect.ru
@@ -735,6 +758,7 @@ staticalpayments.com
 3de-out.ru
 cinema-lounges.com
 kinocinema-loft.ru
+cryptoclouds.online
 tax-compensation.buzz
 tax-compensation.bar
 get-media.ru
