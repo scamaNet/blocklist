@@ -1,7 +1,41 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 13 Sep 2022 21:02:02 +0000
+! Last modified: Wed, 14 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+id35838.ru
+id4124.ru
+id4144.ru
+id5975.ru
+id6352.ru
+id71838.ru
+id7290.ru
+id7291.ru
+id7292.ru
+id9146.ru
+id9147.ru
+id13807.ru
+id13808.ru
+id13809.ru
+id13810.ru
+id13812.ru
+id13813.ru
+id13814.ru
+id13815.ru
+id13816.ru
+id13817.ru
+id13819.ru
+wildberies-gift.pw
+payer-online.ru
+pay-wix.ru
+3ds-mercher.ru
+opera-teatr.ru
+theatre-vollens.ru
+theatre-ticket.ru
+auridio.com
+stream-learn.ru
+wmbit.ru
+cryptcoin24.com
+du-ud.ra-shan-gan-m.xyz
 money-youla.online
 kotikshort.com
 wildberiesmy.pw
