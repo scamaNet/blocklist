@@ -1,7 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 14 Sep 2022 21:02:02 +0000
+! Last modified: Thu, 15 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+canadabled.com
+ru-paynew.online
+ru-money.online
+ord-11034.ru
+ord2412.ru
+ord2417.ru
+ord3927.ru
+ord3928.ru
+ord3930.ru
+ord8430.ru
+ord8441.ru
+ord8442.ru
+satire-dram.ru
+teatr-state.ru
+dramati-of-theater.ru
+santopays.com
+allspotgms.cf
+wkossi.pro
+ko-ssi.pro
+dumpishop.ru
+miround.ru
 id35838.ru
 id4124.ru
 id4144.ru
