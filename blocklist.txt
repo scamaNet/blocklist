@@ -1,7 +1,39 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 15 Sep 2022 21:02:02 +0000
+! Last modified: Fri, 16 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+wiidberriesbest.pw
+tskadn.click
+find1-cash.click
+search2-king.click
+wogitheal.com
+solexcoin.com
+bit-wide.com
+localytrade.com
+cryptoboge.com
+cryptosmarte.com
+moonly.team
+searlytrade.com
+krakenpoe.com
+dolfycrypto.com
+crypt-btc.site
+baoexchange.com
+cryptogame-24.ru
+torncrypto.com
+cryptofranch.com
+bitcoinup.in.net
+cryptoamplee.com
+cryptohevil.com
+heimbit.com
+dlxswap.com
+o5sronom.on75ons-snosno.xyz
+galaxyexchanger.com
+clenitbit.com
+crypto-wx.com
+cakecrypto.net
+bittransfer.space
+deeplebit.com
+cryptwex.com
 canadabled.com
 ru-paynew.online
 ru-money.online
