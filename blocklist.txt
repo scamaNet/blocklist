@@ -1,7 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 16 Sep 2022 21:02:02 +0000
+! Last modified: Sat, 17 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+osgold.epe-ylaud.buzz
+wiidberriesgift.pw
+letyshocs.ru
+chekbit.com
+emplye.ru
+transfer365.ru
+wallet-payment.ru
+theatrecomedy-kassa.ru
+teatr-dramaturg.ru
+gosdram-teatr.ru
+theteatre.ru
+express-youla.ru
+courier-youla.ru
+ww-youla.ru
+deals-youla.ru
+deal-youla.ru
+order-youla.ru
+earnvert.com
+bitexbro.com
+bittermex.com
 wiidberriesbest.pw
 tskadn.click
 find1-cash.click
