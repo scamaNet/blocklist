@@ -1,7 +1,14 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 17 Sep 2022 21:02:02 +0000
+! Last modified: Sun, 18 Sep 2022 21:02:01 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+wiidberriesboxes.pw
+bux-rabota.online
+letyshors.online
+luxsmallgm.ml
+bibcrypto.com
+flowxdot.com
+flowxcoin.com
 osgold.epe-ylaud.buzz
 wiidberriesgift.pw
 letyshocs.ru
