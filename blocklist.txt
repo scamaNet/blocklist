@@ -1,7 +1,38 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 18 Sep 2022 21:02:01 +0000
+! Last modified: Mon, 19 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+woolsocksu.site
+wiidberriesmy.pw
+wiidberriespro.pw
+id417.ru
+id7306.ru
+id7307.ru
+id7308.ru
+id8155.ru
+id8156.ru
+id8578.ru
+id8579.ru
+id9154.ru
+id9165.ru
+id9166.ru
+id9167.ru
+izi-changer.top
+sekret-info.club
+bitrudex.com
+bitspadex.com
+diamond3-vip.click
+coinbaza.com
+24bitwex.com
+bitverno.com
+cryptosryn.com
+bitsupl.com
+bank-bit-coin.com
+biteverex.org
+joolcrypto.com
+cryptoslim.org
+bitkinzo.com
+letyshors.ru
 wiidberriesboxes.pw
 bux-rabota.online
 letyshors.online
@@ -3708,6 +3739,7 @@ fenomen-pay.xyz
 cryptapro.ru
 mvd-oplata.press
 skybet.one
+cryptolir.com
 firemoon-shock.buzz
 koleso-official.ru
 tehnopark-official.online
@@ -4734,6 +4766,7 @@ vulcanzed.com
 gismari.gq
 video-he.xyz
 stegus.ru
+bithore.com
 vulcanhot.com
 olnfornedowntibtoms.gq
 feedaggravate.website
