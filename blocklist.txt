@@ -1,7 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 19 Sep 2022 21:02:02 +0000
+! Last modified: Tue, 20 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+gostate-teatr.ru
+states-teatre.ru
+gosdram-of-teatr.ru
+dramstheatre.ru
+comeditheatr.ru
+kassawixpay.online
+3-dspaymaster.com
+dramtheatrebel.com
+wiidberriesyou.pw
+shen4411.com
+filltivean.com
+kudor.net
+tolycap.com
+letyshopsc.online
+pushcoin.ru
+id-ticket.ru
 woolsocksu.site
 wiidberriesmy.pw
 wiidberriespro.pw
@@ -22,6 +38,7 @@ sekret-info.club
 bitrudex.com
 bitspadex.com
 diamond3-vip.click
+212281.lp.tobiz.net
 coinbaza.com
 24bitwex.com
 bitverno.com
@@ -147,6 +164,7 @@ stream-learn.ru
 wmbit.ru
 cryptcoin24.com
 du-ud.ra-shan-gan-m.xyz
+p2p-payeer.ru
 money-youla.online
 kotikshort.com
 wildberiesmy.pw
