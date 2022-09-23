@@ -1,7 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 22 Sep 2022 21:02:02 +0000
+! Last modified: Fri, 23 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+pomogaem.in.ua
+privatbank.cardpay.onl
+estrada-performance.online
+dramatictheatr.live
+theatre-pay.ru
+pay-pi.ru
+3ds-merches.ru
+spoko-pay.online
+kart-qiwi.ru
+espoko-pay.online
+pay-system.online
+romanticcinema.ru
+cinemafiji.ru
+cinema-waypark.ru
+lounge-jifi.ru
+cinema-moon.com
+cinemaromance.ru
+cinema-waypark.com
+wenshop.ru
+wiidberries-pro.pw
 cash2-prize.click
 ekf-oficiall.online
 letysheps.online
