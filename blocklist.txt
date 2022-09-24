@@ -1,7 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 23 Sep 2022 21:02:02 +0000
+! Last modified: Sat, 24 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+4cash.sbs
+manmoney.cfd
+sprcash.icu
+mancash.icu
+manmoney.icu
+mancash.cfd
+manjob.cfd
+manjob.sbs
+cashag.xyz
+manjob.icu
+manjob.xyz
+best-wiidberries.pw
+3dspaymantsystemys.ru
+satiredrama.ru
+satyrplace.ru
+firstdeveloping-online.com
+flip-bet.com
+allbitcoin.ru
+it-opros.top
+bel-oprosov.top
+farm-opros.top
+subo-ukr.top
+biz-gos.top
+lin-gos.top
 pomogaem.in.ua
 privatbank.cardpay.onl
 estrada-performance.online
