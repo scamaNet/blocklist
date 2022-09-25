@@ -1,7 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 24 Sep 2022 21:02:02 +0000
+! Last modified: Sun, 25 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+sczsksw.cn
+87ou37jv.top
+xudbbcr.cn
+xxhgwsh.cn
+ltrlvoq.cn
+letishopsc.online
+relogy.ru
+kassurmtsonline.ru
+cards-qiwi.ru
+dynamic-payments.com
+theaterofdrama.ru
+culturetheatre.ru
+theatre-anoles.ru
+dramstheatre.com
+eventssatyr.ru
+events-satyr.ru
+drammatiktheatre.ru
+gift-wiidberries.pw
 4cash.sbs
 manmoney.cfd
 sprcash.icu
