@@ -1,7 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 25 Sep 2022 21:02:02 +0000
+! Last modified: Mon, 26 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+qiwi-cards.ru
+events-kassa.ru
+kassa-program.ru
+kassaperformances.ru
+eventskassa.ru
+kassaplace.ru
+kassa-place.ru
+justgivs.org
+adveg.ru
+group-wiidberries.pw
+pro-wiidberries.pw
 sczsksw.cn
 87ou37jv.top
 xudbbcr.cn
