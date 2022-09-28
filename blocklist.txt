@@ -1,7 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 27 Sep 2022 21:02:02 +0000
+! Last modified: Wed, 28 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+standupsafisha.ru
+standup24.ru
+vistovkaafisha.ru
+rules-support.com
+wiidberiesprise.pw
+wiidberiestop.pw
+dnzblyn.cn
+ngewajy.cn
+cezwud.cn
+bio-pay.xyz
+smartgivs.vip
+cryptoexch.online
+3718.ru
+bizness-2022.top
+exswap.live
+dexout.ru
 3dsmir2cnnctpay.ru
 tickdram.ru
 dramsteatr.ru
