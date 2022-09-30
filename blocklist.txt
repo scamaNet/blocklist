@@ -1,7 +1,8 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 29 Sep 2022 21:02:02 +0000
+! Last modified: Fri, 30 Sep 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+premiumgiv.vip
 sixcolourz.com
 crypto-market.top
 tradestrategy.live
