@@ -1,7 +1,12 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 01 Oct 2022 21:02:02 +0000
+! Last modified: Sun, 02 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+smart-exchange.pro
+zarabotok-payeer.com
+wiidberies-top.pw
+24openpay.ru
+bortbps.com
 instatrader.net
 24cashmoney.top
 rabota-na-divane.life
