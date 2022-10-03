@@ -1,7 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 02 Oct 2022 21:02:02 +0000
+! Last modified: Mon, 03 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+mgmoney.cfd
+cryptomixer.online
+rus-caviar.com
+moon-cinema.ru
+cinema-start.ru
+jabon.ru
+getchampiononline.com
+lucky-bet.net
+oneshinycoin.com
+global-money.online
+eurotopays.com
+inkossi.online
+yorkshirepay.digital
+zetro.ru
+reverz.ru
+ku4atextov.ru
+max-line.net
+parl-bet.com
+1winline.com
+wiidberies-box.pw
+officiall.app
+d1-preycool.buzz
 smart-exchange.pro
 zarabotok-payeer.com
 wiidberies-top.pw
