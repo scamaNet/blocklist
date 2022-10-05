@@ -1,7 +1,41 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 04 Oct 2022 21:02:02 +0000
+! Last modified: Wed, 05 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+trustway.app
+hdpn.elsuk6decor.click
+famousest-finance.com
+sunsetverdict.cn
+120sd3.cn
+dietarycredibility.cn
+directoryenclosure.cn
+fuseobstruction.cn
+midwifecertify.cn
+reaptraumatic.cn
+recyclebishop.cn
+rivalflattery.cn
+yzsyvb.cn
+uglinessconcession.cn
+nws24.online
+niles.ru
+domfreell.com
+promork.ru
+wiidberies-you.pw
+id-payord.ru
+id1410.ru
+id1712.ru
+id5352.ru
+id5707.ru
+id6027.ru
+id6379.ru
+id7367.ru
+id7368.ru
+id7369.ru
+id9228.ru
+id9230.ru
+id9233.ru
+id9236.ru
+id9239.ru
 learning-resource.ru
 nova-study.ru
 hitpayments.ru
@@ -116,6 +150,7 @@ lagler.ru
 melby.ru
 ifweb.ru
 premiumgiv.vip
+monclick-instar.com
 sixcolourz.com
 crypto-market.top
 tradestrategy.live
