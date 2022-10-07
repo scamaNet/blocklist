@@ -1,7 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 06 Oct 2022 21:02:02 +0000
+! Last modified: Fri, 07 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+shrewdgreed.cn
+1bh4v4e.cn
+streamlot.cn
+laughabsurdity.cn
+columnportrayal.cn
+cryptoget.online
+swift-deal.click
+pink-media.net
+chilestgo.online
+2022starlink.com
+xrp-hold.com
+elonmusk.trade
+mergecelebrations.online
+starlink-spacex.com
+xrp-ceo.info
+etherbonus.live
+doublemyeth.com
+eththemerge.org
+arnich.com
+box-wiidberies.pw
+boxes-wiidberies.pw
+elotto.link
 rebeccamay.cn
 alikeopaque.cn
 appearjurisdiction.cn
