@@ -1,7 +1,10 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 07 Oct 2022 21:02:02 +0000
+! Last modified: Sat, 08 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+pro-wiidberies.pw
+diski-plus.ru
+happydaygiv.click
 shrewdgreed.cn
 1bh4v4e.cn
 streamlot.cn
