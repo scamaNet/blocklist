@@ -1,7 +1,15 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 08 Oct 2022 21:02:02 +0000
+! Last modified: Sun, 09 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+3ow0am.cn
+stubbornmosquito.cn
+payrollconfer.cn
+sneakunderlie.cn
+your-payments.ru
+dipbit.ru
+swaptobuy.click
+hrsale.biz
 pro-wiidberies.pw
 diski-plus.ru
 happydaygiv.click
