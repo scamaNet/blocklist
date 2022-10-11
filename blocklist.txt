@@ -1,7 +1,60 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 10 Oct 2022 21:02:02 +0000
+! Last modified: Tue, 11 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+sotmoney.cfd
+fatmoney.cfd
+sprcash.cfd
+sprjob.icu
+sprjob.xyz
+tlzhuocheng.cn
+childantonym.cn
+fundaloft.cn
+competitivecynicism.cn
+aptradiator.cn
+focoin.ru
+nkossi.network
+wiidberlesprise.pw
+wiidberlestop.pw
+premium-investment.us
+perfect-study.site
+firstindustry.site
+expert-course.space
+money-nestas.com
+halyk-bank.net
+goodlifestylist.com
+investment-negotiatse.com
+famouscorporation.icu
+standup-buytickets.ru
+buy-stand-up.ru
+stand-up-comedy.ru
+loft-cinema.info
+cinema-show.ru
+cinema-beget.ru
+cinema-grand.ru
+faster-cinema.ru
+cinema-hot.ru
+cinema-way.ru
+black-cinema.ru
+dolbycinema.ru
+cinemabrule.ru
+oplata-tickets.ru
+24-pays.ru
+qiwi-afisha.ru
+mix-payeer.ru
+xfi-pay.ru
+alfa-paywell.online
+flusec-pay.ru
+paydolbycinema.ru
+paycinemabrule.ru
+theather-dram.info
+satyr-originale.ru
+opera-theatre.ru
+afisha-satir.ru
+theatre-afisha-ticket.ru
+ruscomedy-theatre.ru
+theatre-hall-offisial.ru
+quickgivs.one
 rrhvaz.cn
 zttprus.cn
 fluentinterrogation.cn
