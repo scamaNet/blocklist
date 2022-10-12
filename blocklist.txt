@@ -1,7 +1,38 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 11 Oct 2022 21:02:02 +0000
+! Last modified: Wed, 12 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+id747.ru
+id-49156.ru
+id-offer.ru
+id7381.ru
+traineroverflow.cn
+knotilliteracy.cn
+printamend.cn
+offencequart.cn
+juokzda.cn
+attractivemetaphor.cn
+adversityjargon.cn
+smuggleshepherd.cn
+youla-cash.online
+mistercatik.com
+paparegatta.com
+parquet-lux.com
+saleoutlet.su
+bkvlk24.com
+cryptosend.online
+simplequick.buzz
+hitmoney.sbs
+xlamoney.xyz
+crkmoney.cfd
+manmoney.sbs
+agamoney.cfd
+hommoney.cfd
+flimoney.cfd
+agmoney.cfd
+ftmoney.cfd
+magmoney.cfd
+gtmoney.cfd
 sotmoney.cfd
 fatmoney.cfd
 sprcash.cfd
