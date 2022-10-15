@@ -1,7 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 14 Oct 2022 21:02:02 +0000
+! Last modified: Sat, 15 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+theatre-ticket.pro
+satyroriginale.ru
+afisha-estrade.ru
+letyshons.online
+dzbunion.com
+bux-dollars.online
+mobx.digital
+sultansauna.click
+sauna-nightdream-kz.xyz
+walletru02.ru
+laboru.ru
+cryptorain.online
+z82ff.fukuwij.cfd
+z82ff.sycevev.cfd
+hdpn.choice3fancy.click
+hdpn.choice5lord.click
+wiidberles-prise.pw
+wiidberles-gift.pw
 vnpay.ru
 landvipgiv.buzz
 dogmadenote.cn
