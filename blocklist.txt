@@ -1,7 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 16 Oct 2022 21:02:02 +0000
+! Last modified: Mon, 17 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+yeargivs.buzz
+slotcoin.ru
+amazisbtc.com
+bequence.com
+binqwix.com
+bitbyit.com
+bitferio.com
+bitinvest24.com
+bitizum.info
+bitlexer.com
+bitranked.in.net
+bitrix.live
+clacryptix.com
+clizerix.com
+cloctrix.com
+coinborg.co
+cryptoexchanger.fun
+crytptoxtrade.com
+dexcryptex.com
+fixbtchange24.com
+iontrade.shop
+quickbtc.space
+sonexbit.com
+specterex.com
+tercrypto.com
+timemoneyy.ru
+trademing.com
+tradex-wallet.com
+222295.lp.tobiz.net
 sprjob.cfd
 sprmoney.sbs
 sprcash.sbs
