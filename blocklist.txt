@@ -1,7 +1,49 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 17 Oct 2022 21:02:02 +0000
+! Last modified: Tue, 18 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+kx3nf6.cn
+chunkrepertoire.cn
+centralisecomposite.cn
+componentsurveillance.cn
+gigvog.cn
+diverseobsess.cn
+magnetpreceding.cn
+wiidberles-pro.pw
+wellstreet.site
+invest-acridda.com
+artstink.com
+ton-aboard.com
+money-magscrew.com
+invest-theirsda.com
+kintech.digital
+severalart.com
+primeindustry.site
+topwall1.icu
+perfect-study.space
+2money.icu
+4job.cfd
+4job.sbs
+4money.one
+fivmoney.xyz
+germoney.xyz
+getmoney.sbs
+gtcash.cfd
+himoney.cfd
+mancash.xyz
+prvcash.cfd
+shlmoney.xyz
+sprmoney.xyz
+xxlmoney.one
+xycash.cfd
+xycash.xyz
+parri-bet.com
+tipico365.org
+188-bet.win
+zoxycoin.com
+sbr-trade.com
+autask.ru
+kingtopgiv.buzz
 yeargivs.buzz
 slotcoin.ru
 amazisbtc.com
