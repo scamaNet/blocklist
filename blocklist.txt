@@ -1,7 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 18 Oct 2022 21:02:02 +0000
+! Last modified: Wed, 19 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+insertionflank.cn
+fillingbewilder.cn
+dimjgvo.cn
+cyvoxd.cn
+cometx.ru
+prise-wiidberles.pw
+onpays.ru
+buffcoin.ru
+cryptoprimes.online
+1sale-shop-test.demorosait.ru
+just-giv49.buzz
 kx3nf6.cn
 chunkrepertoire.cn
 centralisecomposite.cn
