@@ -1,7 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 19 Oct 2022 21:02:02 +0000
+! Last modified: Thu, 20 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+pinkberrymiddleeast.com
+memorialpeck.cn
+lobbyistwatt.cn
+education-square.ru
+liberalour-banking.com
+grandindustry.fun
+trademonrod.in.net
+bitgeer.com
+bitslead.com
+bitmaslo.com
+coinix.pro
+fincryptobuy.com
+your-giv99.buzz
+agwwy6q8.eu
+coffee2022.zzz.com.ua
 insertionflank.cn
 fillingbewilder.cn
 dimjgvo.cn
