@@ -1,7 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 20 Oct 2022 21:02:02 +0000
+! Last modified: Fri, 21 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+pro-wiidberles.pw
+boxes-wiidberles.pw
+clever-exchange.com
+cryptodrom24.com
+bestcryptochange24.com
+blast-money.pro
+alfabit24.com
+fast-changebit24.com
+ramoncash24.com
+wm-exchange24.com
+solobit24.com
+btcgenerator.io
+bit-cryptex.com
+toecrypt.com
+uspcoins.com
+bitexch.online
+cryptogod.in.net
+cryptosuorin.com
+bitcoinag.ru
+nicex.site
+bynex.online
+catbit.click
+garantex.click
+www-koleso.com
+isrc2.jyfonuj.cfd
+slm6qahr.eu
+колесо-всем.рф
+gamestoped.pro
+os.hid-olaud.buzz
 pinkberrymiddleeast.com
 memorialpeck.cn
 lobbyistwatt.cn
