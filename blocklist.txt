@@ -1,7 +1,45 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 21 Oct 2022 21:02:02 +0000
+! Last modified: Sat, 22 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+bit-bonuses.pw
+bromoney.cfd
+agcash.sbs
+morcash.cfd
+twocash.cfd
+cashjob.cfd
+isjob.cfd
+ltmoney.sbs
+liberalbank.ru
+pressbit.ru
+wix-pay.ru
+robotpaymts.ru
+payments-qiwi.ru
+3dspaysys.ru
+official-drama.ru
+afishasatirik.ru
+comtheatrebuy.ru
+buycomtheatre.ru
+satir-tickets.ru
+satyr-sight.ru
+satyrsight.ru
+satyrflair.ru
+satyr-flair.ru
+satyrart.ru
+satyr-art.ru
+afishasatyrik.ru
+afishacultur.ru
+afishasight.ru
+afisha-sight.ru
+afishaflair.ru
+afisha-flair.ru
+afishaart.ru
+afisha-art.ru
+theatral-bilets.ru
+theatre-allegro.ru
+jobtx.ru
+z82ff.fyhural.cfd
+f02a36g3cxa1.eu
 pro-wiidberles.pw
 boxes-wiidberles.pw
 clever-exchange.com
