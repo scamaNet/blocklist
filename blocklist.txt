@@ -1,7 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 22 Oct 2022 21:02:02 +0000
+! Last modified: Sun, 23 Oct 2022 21:02:01 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+scannerpoultry.cn
+offeringreminiscence.cn
+justcardinal.cn
+drasticherbal.cn
+denialprosecution.cn
+compassionateadversary.cn
+caterlimp.cn
+belongimpromptu.cn
+mainweek.cn
+letyshobs.ru
+liberalour-banking.online
+diontrast-banking.com
+wildberriesspro.pw
+wildberriessgroup.pw
+berryberr.ru
+hfv84.bisahix.cfd
 bit-bonuses.pw
 bromoney.cfd
 agcash.sbs
