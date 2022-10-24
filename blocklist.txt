@@ -1,7 +1,38 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 23 Oct 2022 21:02:01 +0000
+! Last modified: Mon, 24 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+empressembroidery.cn
+ornamentalbeak.cn
+accumulativeeye.cn
+conspicuousderail.cn
+departurecumulative.cn
+existingappraise.cn
+headquarterslime.cn
+refusalcontrive.cn
+3dsmirmoneypay.ru
+payment-arc.ru
+pays2card.ru
+asterm-pay.ru
+paycinemagarage.ru
+paycinema.ru
+holecinema.ru
+cinema-kinging.ru
+cinemakaif.ru
+cinemaplx.ru
+cinema4you.ru
+cinema-curix.ru
+cinema-ixfilm.ru
+dolbyatmoscinema.ru
+cinema2you.online
+arcanebet.pro
+nova-start.ru
+walletq202.ru
+wildberriess-best.pw
+privatbank.getmoney.es
+frond.ru
+oh2n7c2.eu
+money-pro.net
 scannerpoultry.cn
 offeringreminiscence.cn
 justcardinal.cn
