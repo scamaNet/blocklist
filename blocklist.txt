@@ -1,6 +1,6 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 25 Oct 2022 21:02:02 +0000
+! Last modified: Wed, 26 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 kqu1jg.eu
 wn82fy.eu
