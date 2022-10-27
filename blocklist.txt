@@ -1,7 +1,14 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 26 Oct 2022 21:02:02 +0000
+! Last modified: Thu, 27 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+bestchang.site
+obmencrypto.site
+box-wildberriess.pw
+sel-youla.online
+technomatix.store
+100stankoff.ru
+samsung-store-ru.com
 kqu1jg.eu
 wn82fy.eu
 yoimiya.live
