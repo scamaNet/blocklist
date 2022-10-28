@@ -1,7 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 27 Oct 2022 21:02:02 +0000
+! Last modified: Fri, 28 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+hlpcash.sbs
+hot-ex.top
+crypto-expert.work
+feedcoin.ru
+zoombit.ru
+adviserscrap.cn
+attachmentsuffice.cn
+everybodysuite.cn
+hidecoincidence.cn
+prosperityambiguous.cn
+moistintuition.cn
+respectivedeport.cn
+glimpsesynthesize.cn
+ransy.ru
+grenux.ru
+100loto.pw
+loanmortgage.digital
 bestchang.site
 obmencrypto.site
 box-wildberriess.pw
