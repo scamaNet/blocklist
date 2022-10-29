@@ -1,7 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 28 Oct 2022 21:02:02 +0000
+! Last modified: Sat, 29 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+redkite-airdrop.info
+youtubereo.top
+youtuberki.top
+alfachange24.com
+exhub24.com
+solvertex24.com
+nftoption24.com
+silence-exchange.org
+space-crypt24.com
+armchange24.com
+bitswap24.ru
+2022-pay.online
+cryptorun.ru
+markuc-pay.ru
+3ds-merchew.ru
+cinema-sferum.ru
+cinema-monreo.ru
+glove-cinema.ru
+cinema-midas.ru
+bitcoin-cheats.com
+global.eper.buzz
+wildberrlesspro.pw
+wildberrlessmy.pw
+hks0rhk.eu
 hlpcash.sbs
 hot-ex.top
 crypto-expert.work
