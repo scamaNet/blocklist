@@ -1,7 +1,35 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 29 Oct 2022 21:02:02 +0000
+! Last modified: Sun, 30 Oct 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+id481829.ru
+id8647.ru
+id8629.ru
+id8627.ru
+id8625.ru
+youla-money.com
+blablacar-pay365.ru
+3dspayment.ltd
+techniciantoil.top
+resistancecollision.top
+materializeoperative.top
+sketchdegradation.cn
+sewburglary.cn
+replyexpedition.top
+founderabide.top
+objectvegetation.top
+conceptiontribe.cn
+dolphinsuffice.top
+payer-qiwi.ru
+wix-paid.online
+afisha-arts.ru
+afisha-talents.ru
+afishatalents.ru
+afishaarts.ru
+dram-theatre.online
+cashobmen.top
+dengi-online.life
+wildberrless-prise.pw
 redkite-airdrop.info
 youtubereo.top
 youtuberki.top
