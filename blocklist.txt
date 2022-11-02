@@ -1,7 +1,37 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 01 Nov 2022 21:02:02 +0000
+! Last modified: Wed, 02 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+afishaartistic.ru
+satyrtalent.ru
+satyr-artists.ru
+satyrartists.ru
+satyrartistic.ru
+satyr-artistic.ru
+satyrarts.ru
+satyrtalents.ru
+satyr-talents.ru
+satyrboard.ru
+satyr-board.ru
+satyr-talent.ru
+dram-ticka.ru
+kassirbilet.ru
+faster-pay.ru
+3ds-merchan.ru
+paygate-qiwi.ru
+3dsmerch24proiab.ru
+hookah-room.ru
+goldencinema.ru
+cinemapik.ru
+cinemamay.ru
+cinemadex.ru
+cinema-moonlun.ru
+lumi-wallet.com
+cryptogreen.online
+bzjlxjt.one
+wildberrless-gift.pw
+rb-gos.top
+trusted-gos.top
 tentmaneuver.cn
 regulatepretext.top
 providesmuggling.top
