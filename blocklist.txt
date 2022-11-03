@@ -1,7 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 02 Nov 2022 21:02:02 +0000
+! Last modified: Thu, 03 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+betterpredatory.cn
+latermoan.cn
+cloglongevity.top
+retiredchord.top
+tigerwatt.top
+sanitaryzeal.cn
+interestwield.cn
+aksha.online
+kaz-finance.online
+2prof.fintodayai.skin
+soundu.ru
+copydocs.ru
+abound3citied.eu
+hfv84.nybenub.cfd
+wildberrless-pro.pw
 afishaartistic.ru
 satyrtalent.ru
 satyr-artists.ru
