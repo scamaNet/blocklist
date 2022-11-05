@@ -1,7 +1,16 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 04 Nov 2022 21:02:02 +0000
+! Last modified: Sat, 05 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+only3ds.ru
+recorderbuffer.top
+epn.ernest3costa.click
+fexpro.ru
+dcmeqa.eu
+lawbankas.com
+regardcoin.ru
+white-exchanger.com
+onlycrypto-exchange.com
 idpay-online.ru
 id8726.ru
 slowemulate.cn
