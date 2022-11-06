@@ -1,7 +1,14 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 05 Nov 2022 21:02:02 +0000
+! Last modified: Sun, 06 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+whistlekidney.cn
+raincoatempirically.cn
+sundaytranquility.cn
+despiteperpetuate.top
+wildberrless-vip.pw
+smart-triangle.ru
+2o6m5.lulodiv.cfd
 only3ds.ru
 recorderbuffer.top
 epn.ernest3costa.click
