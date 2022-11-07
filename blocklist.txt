@@ -1,7 +1,40 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 06 Nov 2022 21:02:02 +0000
+! Last modified: Mon, 07 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+opayment.ru
+3ds-morchant.ru
+process-3ds.ru
+3ds-process.ru
+process-service.ru
+3ds-payment-system.ru
+kivo-love.ru
+cinema-4you.ru
+cinema-story.ru
+cinema-polemer.ru
+relax-cinema.ru
+cinema-park24.ru
+movie-light.ru
+movie-kassa.com
+cinema-official.ru
+urce.chana-menon.buzz
+hamburgerdenunciation.cn
+adversaryinsulation.cn
+accuseallot.cn
+crouchaudit.cn
+dispenseaffirmation.cn
+mostman.cn
+enthusiasmshred.cn
+pillowrevenge.cn
+respondentmerge.cn
+veilinnumerable.cn
+narrowlyobsessive.cn
+journalismultra.cn
+huntingrevival.cn
+eligiblebuddhist.cn
+cb63ay.eu
+7hmudp.eu
+8wr5q.xavaguv.cfd
 whistlekidney.cn
 raincoatempirically.cn
 sundaytranquility.cn
