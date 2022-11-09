@@ -1,7 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 08 Nov 2022 21:02:02 +0000
+! Last modified: Wed, 09 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+ultimative-bank.com
+brave-exchange.com
+exclusivetrade.pro
+webpay-online.ru
+wildberriessprise.pw
+wildberriessgift.pw
+pretextperplex.cn
+atmospheretread.cn
+disruptoverturn.cn
+distributionevade.cn
+jetscornful.cn
+neutralizedissertation.cn
+scratchamplify.cn
+luxury-fin.com
+rootreach.info
+hfv84.xabamep.cfd
+dbhsm6.eu
+yourberry.ru
+yagoberry.ru
+yago-b.ru
+ya-berr.ru
 advantageousyearn.cn
 blundermalice.cn
 bootstationery.cn
