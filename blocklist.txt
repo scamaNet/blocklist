@@ -1,7 +1,63 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 09 Nov 2022 21:02:02 +0000
+! Last modified: Thu, 10 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+codbuy.ru
+shadebit.com
+meta-trade5.com
+gapcryptoex.com
+mytradehome.com
+3tu9oc.cn
+baldserial.cn
+bottomturnout.cn
+breweryridge.cn
+buttervicious.cn
+camperosion.top
+chorestagnation.cn
+coatgrill.cn
+concreteextraction.cn
+confidentequate.cn
+confirmbrace.cn
+convertibleoath.cn
+desirousdrawback.cn
+economicalcradle.cn
+entrepreneurrepute.cn
+erodebureaucracy.top
+excerptworld.cn
+expendituremagistrate.cn
+flockdiscreet.cn
+foreverthorn.cn
+givecredential.cn
+gripdread.top
+homeworkplaza.cn
+implementaggregate.cn
+informlash.cn
+intelligenceoptical.top
+keenassimilate.top
+landendow.cn
+lapallude.top
+legaliselounge.cn
+lettemptation.top
+logicallatitude.top
+lunarturbulent.top
+managerialaloft.cn
+narrativeprosperity.top
+ninthoar.cn
+nourishversatile.cn
+offervice.cn
+orchestrabenevolent.cn
+overcoatsulphur.cn
+overtakefringe.cn
+personfoam.cn
+pubpatrol.top
+recordingdepreciation.top
+secretarialaffiliation.cn
+theyscramble.cn
+baha-pay.online
+dotext.ru
+8wr5q.luvejaj.cfd
+wildberriessboxes.pw
+8oii4d.eu
 ultimative-bank.com
 brave-exchange.com
 exclusivetrade.pro
