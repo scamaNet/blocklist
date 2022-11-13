@@ -1,7 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 12 Nov 2022 21:02:02 +0000
+! Last modified: Sun, 13 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+moyn.ru
+borevi.com
+biz10.ru
+top-euro-volt.com
+developpeel.cn
+dishcongregation.cn
+fellowshipreputable.cn
+maskmartyr.cn
+r.centralizesymmetry.cn
+r.grievousfabulous.cn
+r.monkeyleniency.top
+stylishendowment.cn
+treathypocrisy.cn
+linkto.buzz
+cryptofull.online
+sslbit.ru
+24xcoin.ru
+vlkgameonline.com
 helps-youla.com
 check-fin.eu
 bellysober.cn
