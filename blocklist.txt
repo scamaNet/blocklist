@@ -1,7 +1,61 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 13 Nov 2022 21:02:02 +0000
+! Last modified: Mon, 14 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+standup-tour-tickets.ru
+stand-up-go.ru
+easy-pay.icu
+system-connect.ru
+paypi-go.ru
+theatre-afisha.pro
+theatre-afisha.me
+theatre-drammer.ru
+estrada-drama.ru
+dram-arena.ru
+dramteatral.ru
+i-happy.eu
+yb-berry.ru
+bopbit.ru
+videomoney.me
+videomoney.live
+videomoney.info
+usquest.xyz
+id-onlinepayment.ru
+id2023.ru
+id2024.ru
+id2025.ru
+id2026.ru
+id2027.ru
+id2028.ru
+id2281.ru
+id2283.ru
+id2284.ru
+id2286.ru
+id2287.ru
+id3210.ru
+id3214.ru
+id3515.com
+id4824.com
+id5285.ru
+id5395.ru
+id5695.ru
+id5795.ru
+id7412-pay.ru
+id85924.ru
+id9093.ru
+id9094.ru
+id9095.ru
+id9096.ru
+id9097.ru
+sh10291.ru
+sh10293.ru
+sh10295.ru
+sh10298.ru
+sh10299.ru
+sh20290.ru
+sh20291.ru
+sh20292.ru
+yoodo.ru
 moyn.ru
 borevi.com
 biz10.ru
@@ -758,6 +812,8 @@ vtback.ru
 officialvulcanclub.com
 vkasiogame.com
 good-live3.click
+master-pay.online
+qiwimerchant.ru
 theatre-ticket.pro
 satyroriginale.ru
 afisha-estrade.ru
