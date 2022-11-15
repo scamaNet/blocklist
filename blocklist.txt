@@ -1,7 +1,49 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 14 Nov 2022 21:02:02 +0000
+! Last modified: Tue, 15 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+mskfreelance.com
+fortxt.ru
+r.marvelouslegend.cn
+r.bronzelongevity.cn
+r.envelopevicinity.cn
+r.garagefragile.cn
+r.overduemonopolize.cn
+r.happydispense.cn
+r.manipulativeprecede.cn
+giveaway-day.eu
+youtuberww.top
+fun-video.xyz
+sdsmoney.cfd
+yamoney.cfd
+wermoney.cfd
+ibcash.cfd
+stomoney.sbs
+bgmoney.cfd
+dfmoney.xyz
+folmoney.xyz
+hotmoney.cfd
+sprmoney.icu
+hlpmoney.xyz
+cryphox.com
+cryptobarter.tech
+bitrikas.com
+ilonbit.com
+royalpoolminers.com
+cryptorpea.in
+stablex.pw
+wwytrade.com
+gainfxcoinstreamtrade.org
+getbitpro.com
+criptosmarter.com
+xest-coin.com
+onswaps.com
+uniswapz.org
+livecrypt.org
+bitpoe.online
+cryptoneox.com
+bit-seed.com
+wildberriess-gift.pw
 standup-tour-tickets.ru
 stand-up-go.ru
 easy-pay.icu
