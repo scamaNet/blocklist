@@ -1,7 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 17 Nov 2022 21:02:02 +0000
+! Last modified: Fri, 18 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+citex.group
+bikwim.com
+bstbik.com
+cryptocoins-wallet.com
+gablycoin.com
+gablytrade.com
+oktodex.com
+optimusxbit.com
+varbytrade.com
+hit-btc24.com
+backyardhover.cn
+r.rigourhumane.top
+supervisecoincidence.cn
+online-siti.ru
+stacke-pay.online
+titanteh.site
+ind-gate3.click
+43vpy050.life-away6.click
 tennisi24.com
 bitlerium.com
 bitup.online
