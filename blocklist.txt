@@ -1,7 +1,59 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 18 Nov 2022 21:02:02 +0000
+! Last modified: Sat, 19 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+id-1521.ru
+id-3125.ru
+id-5294.ru
+id-9482.ru
+id1923128.ru
+id192372.ru
+id4680.ru
+id4681.ru
+id54732.ru
+id71561.ru
+id7544.ru
+id7545.ru
+id7546.ru
+id7548.ru
+id7549.ru
+id7550.ru
+id7551.ru
+id7552.ru
+id7553.ru
+id7554.ru
+id7555.ru
+id7556.ru
+id84632.ru
+id853891.ru
+id857891.ru
+id9401.ru
+id9403.ru
+id9405.ru
+id9406.ru
+id9407.ru
+id9409.ru
+id9410.ru
+id9411.ru
+r.gumallusion.cn
+r.tractamplification.cn
+r.intelligentregiment.cn
+yagoda-and-berry.ru
+yag-be.store
+vulkanof4.com
+readycoin.ru
+aliexpress.diskount20.fun
+xndlbqdpil.com
+prise-wildberriess.pw
+43vpy050.trust-coin.pw
+trust-club.pw
+camoney.sbs
+cancash.cfd
+dfmoney.sbs
+gbrcash.sbs
+gtxmoney.cfd
+ukcash.sbs
+yescash.cfd
 citex.group
 bikwim.com
 bstbik.com
