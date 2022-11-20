@@ -1,7 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 19 Nov 2022 21:02:02 +0000
+! Last modified: Sun, 20 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+osgold.epeo.buzz
+r.abideemancipate.cn
+r.enrolilliterate.cn
+r.somewherestab.cn
+watertack.cn
+indignationincorporate.cn
+safe-life.pw
+fowork.ru
+aureo.ru
+wildberrlessprise.pw
+43vpy050.smile-day.pw
 id-1521.ru
 id-3125.ru
 id-5294.ru
