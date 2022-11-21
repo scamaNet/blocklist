@@ -1,7 +1,54 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 20 Nov 2022 21:02:02 +0000
+! Last modified: Mon, 21 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+inter-100gb-lb2.buzz
+tit-education.ru
+cinemasgine.ru
+cinemasriviera.ru
+film-cinemas.ru
+hallscinema.ru
+romantocinema.ru
+satyr-premieres.ru
+satyrpremieres.ru
+shunecinema.ru
+start-cinema.ru
+startcinema.ru
+king-pay.ru
+onipay.ru
+paymaster-pay.ru
+payonlinekassaaa.ru
+purpay.ru
+qiwi-genre.ru
+wixtoprekceed.ru
+spectacle-theatr.ru
+theatr-spectacle.ru
+satyr-genre.ru
+satyrgenre.ru
+satyrpreview.ru
+satyr-preview.ru
+satyretoile.ru
+satyr-etoile.ru
+satyrrevue.ru
+satyr-revue.ru
+afisha-culture.ru
+afishagenre.ru
+afisha-genre.ru
+preview-afisha.ru
+afishapreview.ru
+afisha-preview.ru
+rudramtheatre.ru
+try-money.net
+r.buginvalid.cn
+r.enthusiasticrecede.cn
+r.exhaustionbuffer.cn
+r.fixmidwife.cn
+r.livestockambiguous.cn
+r.remedialexcerpt.cn
+taviskyned.com
+sale-wildberriess.pw
+g7-leonsctack.buzz
+pt3m335.eu
 osgold.epeo.buzz
 r.abideemancipate.cn
 r.enrolilliterate.cn
