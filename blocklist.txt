@@ -1,7 +1,10 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 22 Nov 2022 21:02:02 +0000
+! Last modified: Wed, 23 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+mtsbank.ru-web1.online
+alfa-act.nwinjurylaw.com
+eaf20ql.eu
 ms5hf7.cn
 r.ridgepastry.cn
 r.stabilizecrow.cn
