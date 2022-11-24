@@ -1,7 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 23 Nov 2022 21:02:02 +0000
+! Last modified: Thu, 24 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+futuremoonthr.com
+glory-pay.online
+moovie-imperial.com
+cinemaromant.ru
+cinema-funny.ru
+cinema-fun.ru
+assertionbrigade.cn
+infcjal.cn
+r.bubbleyacht.cn
+r.cunningmercury.cn
+r.rojmjgjffg.cn
+43vpy050.ylmsgob.eu
+once.around-ball.bond
+pay1f.icu
+teleistok.site
+0vzdgkf.eu
 mtsbank.ru-web1.online
 alfa-act.nwinjurylaw.com
 eaf20ql.eu
