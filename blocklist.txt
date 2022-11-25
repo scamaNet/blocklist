@@ -1,7 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 24 Nov 2022 21:02:02 +0000
+! Last modified: Fri, 25 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+icon-text.ru
+keybit.ru
+aerialsaturate.cn
+r.commatrumpet.cn
+r.nearpoint.cn
+r.regulatoryshred.cn
+r.wrinklepersecution.cn
+romanceeloquence.top
+spongyleniency.cn
+o-pay.eu
+widmo.ru
+bitlara.com
+coinomypay.com
+coireex.com
+cryptforall.com
+exsubit.com
+guruxtrade.com
+sloonse.com
+43vpy050.ylike.eu
+43vpy050.mgjfxhj.eu
+i-giv.eu
+p2p-money.site
 futuremoonthr.com
 glory-pay.online
 moovie-imperial.com
@@ -2121,6 +2143,9 @@ ukr-compens.top
 gigs-gos.top
 letyshosp.ru
 portroll.online
+vilbit.com
+bitbelo.com
+stoxbit.com
 yocoin.ru
 pay-qiwi.ru
 payment-operator.com
