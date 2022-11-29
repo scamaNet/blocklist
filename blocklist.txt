@@ -1,7 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 28 Nov 2022 21:02:02 +0000
+! Last modified: Tue, 29 Nov 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+casecinema.ru
+wixprefghy.site
+insnake-pay.ru
+oplatavintenet.ru
+vk3ds-kassir.ru
+vkpay-kassir.ru
+theatredramma.com
+dramateatr-ofisial.ru
+theatrkassa.ru
+rutheatre.ru
+theatr-gold.ru
+satyrrole.ru
+satyrsoffit.ru
+satyr-soffit.ru
+satyr-role.ru
+satyrpicture.ru
+satyr-picture.ru
+vkvotes.site
+pay-today.online
+btccap.site
+taskp.ru
+givme.eu
+pro-wildberrless.pw
+wildberies-gift.top
 vase-education.ru
 r.scenarioconstrain.cn
 r.tearpredominate.cn
