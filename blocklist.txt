@@ -1,7 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 01 Dec 2022 21:02:02 +0000
+! Last modified: Fri, 02 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+bilitex.com
+bitflipex.com
+bithobo.com
+bitqzine.com
+debitl.com
+itcoinex.com
+jarextrade.com
+maviscoin.com
+r.almightyconstituency.cn
+r.ashpotent.cn
+r.chillydeadlock.cn
+r.interactivetranscend.cn
+r.movedeport.cn
+r.pairadjacent.cn
+r.routehowl.cn
+r.sustainablejolly.cn
+39bybw.click
+cjcz1g8.eu
+doearn.ru
+o-grand.ru
 special-order.info
 get-bonus.ru
 p2p-pay.site
