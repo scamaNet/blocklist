@@ -1,7 +1,40 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 02 Dec 2022 21:02:02 +0000
+! Last modified: Sat, 03 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+bitconveno.com
+bitfidax.com
+bitgerax.com
+bitsadax.com
+bitschainex.com
+bitwairex.com
+bitzafix.com
+bitzimex.com
+cryptoroniex.com
+exgolds.com
+qarixbit.com
+tinexido.com
+save-education.ru
+calanobit.me
+coinwexbit.com
+iscobit.com
+verxbit.com
+lionithams.cf
+gaimaliga.cf
+r.destinybrood.cn
+r.genderconfederation.cn
+r.oversightavert.cn
+230478.lp.tobiz.net
+24bitcoin.su
+frecash.sbs
+gtxcash.cfd
+hrcash.cfd
+htjob.cfd
+jdcash.cfd
+lajob.sbs
+morcash.sbs
+usacash.cfd
+fido1j.click
 bilitex.com
 bitflipex.com
 bithobo.com
