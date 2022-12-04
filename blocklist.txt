@@ -1,7 +1,42 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 03 Dec 2022 21:02:02 +0000
+! Last modified: Sun, 04 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+pcmegapolis.site
+r.depletevoid.cn
+r.dynamicsdeplore.cn
+r.earningsmoan.cn
+r.flingendeavour.cn
+r.illustrativeforfeit.cn
+r.moraleadorable.cn
+r.tractorpredominant.cn
+thingsprawl.cn
+gbloan.online
+alosca.gq
+awntenchopdese.gq
+befilecovi.ga
+bloomoutrenmui.gq
+celrepigterpnal.gq
+cioulitanropanch.gq
+comviemusar.cf
+cumracanet.gq
+doctprogisscamneu.gq
+elotamin.ga
+epperradenan.tk
+foraselbterki.gq
+gasinema.ml
+getefi.gq
+golfspamgilitorsai.cf
+kadisquithricseed.ga
+leworlrirygetu.tk
+lurimetebas.cf
+slidwurtreforge.tk
+tranbettfoxtfe.ga
+troncompfilong.gq
+vehougomatgi.gq
+y-bb.store
+yagoda-and-berry.store
+yourberry.store
 bitconveno.com
 bitfidax.com
 bitgerax.com
