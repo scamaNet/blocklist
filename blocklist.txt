@@ -1,7 +1,68 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 05 Dec 2022 21:02:02 +0000
+! Last modified: Tue, 06 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+r.antiqueshepherd.cn
+r.characteriseoutrageous.cn
+r.importparrot.cn
+r.pizzaurine.cn
+r.provincialscorn.cn
+dkbm-web.autoinsm.net
+xpndn8.click
+dnsscript.ru
+un-script.ru
+acewbamul.gq
+arrecour.gq
+atales.gq
+calsongmicknwid.ml
+cionigi.ga
+cuolissichinsni.gq
+diapresurnur.gq
+fitrankbe.gq
+fitsnoswise.ml
+fracsofweichris.gq
+geostertatingteko.ga
+gunskaha.gq
+knowsaicoowar.gq
+lebopunkresub.gq
+matbankknapesev.ga
+micorchoseer.gq
+necahar.ml
+piapliclihamtola.ga
+porjingmebina.gq
+quirganverworkskel.cf
+ragidlemensicong.cf
+remasringpearl.gq
+rifolcoreteli.gq
+ritanereen.gq
+spacgenzeadurfcing.ga
+stataxinumperterg.ga
+stinesoc.ml
+tkolratismutiti.ml
+travecraunome.gq
+verrite.tk
+verwalltinistsuzo.gq
+wattwatzriwonlealap.ml
+wertfremel.ml
+wiipresgelohar.ml
+avivainvest.org
+id25631.ru
+id43642.ru
+id7597.ru
+id7598.ru
+id7599.ru
+id7606.ru
+id7608.ru
+id7609.ru
+id871.ru
+id9462.ru
+id9464.ru
+id9467.ru
+id9468.ru
+id9469.ru
+id9470.ru
+id9472.ru
+id9473.ru
 r.breakdownshatter.cn
 r.debutreferee.cn
 r.deviateterminate.cn
@@ -2831,6 +2892,7 @@ dihcollection.com
 get3-prizes.click
 huntcoin.ru
 mars-bet.pro
+futurumpb.com
 trasbn.ru
 surftop.club
 we-task.top
