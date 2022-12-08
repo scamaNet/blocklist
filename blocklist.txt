@@ -1,7 +1,62 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 07 Dec 2022 21:02:02 +0000
+! Last modified: Thu, 08 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+bitleed.com
+bitlukas.com
+bitfawix.com
+bitferix.com
+bitfijax.com
+bitfitnex.com
+bitruma.com
+bitwano.com
+bitwermix.com
+bitwimex.com
+bitxop.com
+cemexbit.com
+coinann.com
+cryptojix.com
+cryptowairex.com
+cryptowimex.com
+cryptowizex.com
+swapcexron.com
+pinigu-pasaulis.com
+vulkanzgame.com
+paru-bet.com
+licpayment.ru
+merch-pay.ru
+paloadrepaym.ru
+paywal-3ds.ru
+safer-pay.online
+sande-pay.ru
+wall-pay.online
+cinema-robinson.online
+big-cinema.ru
+cinema-filion.ru
+cinema-kanvas.ru
+cinema-pantera.ru
+cinema-rialto.ru
+cinema-tween.ru
+onlicinema.ru
+pictcinema.ru
+premier-cinema.ru
+taynacinema.ru
+elite-rooms.ru
+24dex.ru
+texno-mir.online
+lotoss.xyz
+btcbind.com
+cryptobitex.io
+cryptoswop24.com
+kufrux.com
+perlycoin.com
+qarlytrade.com
+xandybit.com
+zoteex.com
+totask.ru
+coinethera.com
+mindtrade.net
+safechange.pro
 moneyeasily-yp.top
 tit-notebook.ru
 satyrboard.com
