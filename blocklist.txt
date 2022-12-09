@@ -1,7 +1,35 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 08 Dec 2022 21:02:02 +0000
+! Last modified: Fri, 09 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+r.differdisregard.cn
+r.gradualjack.cn
+r.ninefracture.cn
+vibit.ru
+neopayments.ru
+oyk-task.top
+dramteatrs.ru
+cryptoarm.online
+cryptocurs.online
+cryptofast.online
+online-kassir.ru
+visitdengi.ru
+sky-education.ru
+absoliut.site
+curs.expert
+exchanqesumo.com
+365obmen.ru
+barter-cash.org
+barter-service.com
+coincalypso.com
+cryptovector.com
+currexchanger.com
+enterbit.ru
+excellent-swap.com
+godcrypto.com
+client.evituch.net
+favorableranch.info
+5t0k9f.click
 bitleed.com
 bitlukas.com
 bitfawix.com
