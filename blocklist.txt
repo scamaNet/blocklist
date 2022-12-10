@@ -1,7 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 09 Dec 2022 21:02:02 +0000
+! Last modified: Sat, 10 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+r.commandfiscal.cn
+r.enclosecivic.cn
+r.enquiryrecur.cn
+r.enterprisingwaive.cn
+r.impositionescalate.cn
+r.impressdispatch.cn
+r.indoorsaffirmative.cn
+r.keepprosper.cn
+r.mingleamiable.cn
+cash-pay.tech
+zondaglobal.uk
+omey.ru
+exactradx.com
+quantumsledger.com
+silversuncryptofx.com
+cryptonfx.net
+jarbycoin.com
+trustbitt.com
+cryptocheep.com
+ros-kassa.com
+tdantey.com
+egqatk.shop
 r.differdisregard.cn
 r.gradualjack.cn
 r.ninefracture.cn
@@ -7194,6 +7216,7 @@ premium-box.cloud
 pro-service24.pro
 alloe-survey.top
 world-payment.online
+bytopttorg.ru
 video-du.xyz
 kr-video.xyz
 zecorp.ru
