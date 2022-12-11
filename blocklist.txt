@@ -1,7 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 10 Dec 2022 21:02:02 +0000
+! Last modified: Sun, 11 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+narbycoin.com
+zarbycoin.com
+r.proceedaide.cn
+r.tryformidable.cn
+r.wonderpreceding.cn
+pay-afisha.com
+satyr-etude.com
+god-system.net
+exchange-poe.com
+swappoe.com
+cryptoseastore.com
+changercoin.ru
+cjknltxfsb.com
 r.commandfiscal.cn
 r.enclosecivic.cn
 r.enquiryrecur.cn
