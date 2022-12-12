@@ -1,7 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 11 Dec 2022 21:02:02 +0000
+! Last modified: Mon, 12 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+coinmate.biz
+bitrapa.com
+bitrata.com
+buybit.space
+garden33.buzz
+r.demolinguistic.cn
+r.imaginativereciprocal.cn
+r.meadowrig.cn
+r.onfeat.cn
+r.overalldiversion.cn
+r.suspensehuddle.cn
+r.whoeverjeopardy.cn
+safe-youla.ru
+parbycoin.com
+qarbycoin.com
+sarbycoin.com
+cbbit.ru
+exchangergo.ru
+awdlb8.shop
+centralpay.in
 narbycoin.com
 zarbycoin.com
 r.proceedaide.cn
