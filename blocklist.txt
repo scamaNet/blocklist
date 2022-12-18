@@ -1,7 +1,14 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 17 Dec 2022 21:02:02 +0000
+! Last modified: Sun, 18 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+tradecoinbox.com
+troex.ru
+522nck.shop
+coinnemo.com
+bitsbit.ru
+hundredbitcoin.com
+8r2j3v.shop
 nonexbit.com
 xarbycoin.com
 easy-pay.me
