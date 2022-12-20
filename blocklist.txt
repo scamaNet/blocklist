@@ -1,7 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 19 Dec 2022 21:02:02 +0000
+! Last modified: Tue, 20 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+defitrade.exchange
+sanlytrade.com
+premium-poe.com
+24bits.ru
+tradecrypt.online
+casinovlkan.com
+top-giv.me
+fs3546030633.ru
+baltims67.buzz
+redmired.ru
+info-prize.me
+yordam-fondi.nz
+afisha-genre.com
+ticketafisha.ru
 moneyeasily-bm.top
 3ds-afisha.com
 satyr-genre.com
