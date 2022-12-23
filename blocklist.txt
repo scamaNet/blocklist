@@ -1,7 +1,53 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 22 Dec 2022 21:02:02 +0000
+! Last modified: Fri, 23 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+q49k4c.cyou
+r.rewardherb.cn
+r.cosmopolitandough.cn
+r.barometerdespatch.cn
+it-rabota.top
+р2р-заработок.рф
+bitzux.com
+truebitex.com
+market-coins.com
+technoworld-inst.com
+1bits.ru
+letsgobit.ru
+surmex.ru
+dialgarant.ru
+ptfi.ru
+bellotoginsti.ml
+abtaiversvonchi.ml
+adirmedech.gq
+cacartamix.gq
+ceilore.tk
+diaringman.gq
+dibtisinelelu.ga
+fensijarluledrii.gq
+gaihandmisreacaver.gq
+hausenhathe.tk
+hosisurmo.gq
+ingcarinboana.gq
+inkeynakisga.ga
+ivmicacumugest.cf
+kaithinseogevib.ml
+momandcundesc.gq
+pabjareto.gq
+perpocepfighrunpo.gq
+potlanssi.gq
+prurorder.gq
+rcitnigaci.ga
+reguscahw.gq
+remewarostlanpu.gq
+slurtionestlu.cf
+tacite.tk
+tertworbotfti.gq
+tioriohostconscrazlod.gq
+torzelandjoranla.tk
+trasuposcar.gq
+i-givs.me
+smart-exchange.trade
 wixdefer.site
 rutheatre.online
 texjob.ru
