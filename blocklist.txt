@@ -1,7 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 23 Dec 2022 21:02:02 +0000
+! Last modified: Sat, 24 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+safe-money.online
+qkima-pay.online
+high-teaching.ru
+01exchanger.com
+globalecwiring.ru
+moffy-pay.online
+bigcinema-fernand.ru
+bigcinema-relax.ru
+bigcinema-rialto.ru
+cinema-royale.ru
+cinema-venus.ru
+dallas-cinema.ru
+newycinema.ru
+parkccinema.ru
+high-inc.com
+vulkan51.com
+flenix.ru
+letsgoswap.ru
+easy-earn.org
 q49k4c.cyou
 r.rewardherb.cn
 r.cosmopolitandough.cn
