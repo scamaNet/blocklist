@@ -1,7 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 24 Dec 2022 21:02:02 +0000
+! Last modified: Sun, 25 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+gtbks2.cn
+r.allusionhawk.cn
+r.seniorityinaugurate.cn
+dramtheatre-official.ru
+afishaart.com
+touringsperformances.ru
+touringsperformancess.ru
+paymentsystem.online
+payer-afisha.com
+lounge-movie.online
+hostbits.ru
+sale-wildberrless.pw
 safe-money.online
 qkima-pay.online
 high-teaching.ru
