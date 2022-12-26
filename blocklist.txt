@@ -1,7 +1,47 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 25 Dec 2022 21:02:02 +0000
+! Last modified: Mon, 26 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+mexc.site
+bitmexc.com
+bitsatax.com
+coinanno.com
+ioqtrade.com
+oplacedex.com
+placeobit.com
+rabotafrl.com
+fuovi.com
+outpay3ds.site
+theater-afisha.site
+aprilbit.com
+bbit.space
+bitdexrey.com
+bitlyciax.com
+btcheine.com
+claderbit.com
+cladexion.com
+equitypave.com
+minnersgate.live
+torexcrypto.com
+zeubit.com
+hbpnnz.cyou
+r.clamphome.cn
+r.destroyquery.cn
+r.fridayevacuation.cn
+r.metaphorape.cn
+r.negotiableelaborately.cn
+r.proposeschool.cn
+r.websniff.cn
+stojob.sbs
+pravildostavki.ru
+43vpy050.vip-giv.me
+giv-like.me
+cuspiditecra.ga
+factpetlosumpfrit.gq
+lilpatar.cf
+punsiti.cf
+tainogbiocreasvun.ga
+vennecon.cf
 gtbks2.cn
 r.allusionhawk.cn
 r.seniorityinaugurate.cn
