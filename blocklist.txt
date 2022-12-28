@@ -1,7 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 27 Dec 2022 21:02:02 +0000
+! Last modified: Wed, 28 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+stlmoney.cfd
+traidmastery.com
+hd3r5z.cyou
+r.clearreciprocal.cn
+r.delegationakin.cn
+r.denotationplea.cn
+r.fabricateluminous.cn
+r.nervedistortion.cn
+ilo5xd.shop
+garantstandart.ru
+beorn.ru
+coinbg.ru
+satyr-place.com
+cardmontbank.ru
+ultra-pay.online
+fernex.ru
+mmoev9.shop
+crypto-site.online
 bitfamex.com
 chainxspace.com
 darwinbits.com
