@@ -1,7 +1,44 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 28 Dec 2022 21:02:02 +0000
+! Last modified: Thu, 29 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+5ongtd.shop
+bitsmine.ru
+n00943.ru
+traster-official.com
+evmcrypto.com
+dampy.ru
+accash.sbs
+cotmoney.xyz
+crocash.xyz
+esyjob.xyz
+fcash.sbs
+fotmoney.xyz
+ftcash.xyz
+ftjob.cfd
+hlmoney.cfd
+kscash.sbs
+lagcash.xyz
+lcash.sbs
+letcash.xyz
+lgcash.xyz
+lmcash.sbs
+logmoney.xyz
+lotcash.xyz
+mjob.sbs
+mocash.cfd
+momoney.cfd
+momoney.sbs
+msmoney.cfd
+mymoney.cfd
+occash.cfd
+omcash.cfd
+pjob.cfd
+sysjob.xyz
+tcash.cfd
+tlmoney.xyz
+tolcash.xyz
+xmoney.cfd
 stlmoney.cfd
 traidmastery.com
 hd3r5z.cyou
