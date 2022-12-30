@@ -1,7 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 29 Dec 2022 21:02:02 +0000
+! Last modified: Fri, 30 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+sevenbitcoins.com
+thefastcoin.com
+banlychange.com
+nd1f5f.cyou
+r.cardinaldetriment.cn
+r.cowardiceadjacent.cn
+r.worthwhileswap.cn
+future-wrk.com
+paymentafisha.com
+drammat-teatre.com
+afisha-genres.com
+irwqow.shop
+lmoney.sbs
+sclas.mugaboc.cfd
 5ongtd.shop
 bitsmine.ru
 n00943.ru
