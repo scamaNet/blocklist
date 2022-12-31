@@ -1,7 +1,11 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 30 Dec 2022 21:02:02 +0000
+! Last modified: Sat, 31 Dec 2022 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+you-wildberrless.pw
+cyberusa.ltd
+cloud-ex.best
+house-trx.click
 sevenbitcoins.com
 thefastcoin.com
 banlychange.com
