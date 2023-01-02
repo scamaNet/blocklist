@@ -1,7 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 01 Jan 2023 21:02:02 +0000
+! Last modified: Mon, 02 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+cacash.sbs
+fomoney.sbs
+ftmoney.sbs
+hljob.sbs
+hrdcash.xyz
+itcash.sbs
+jojob.sbs
+lkcash.xyz
+mamcash.xyz
+stocash.xyz
+hitbtc.trade
+butolinex.com
+coinsbimex.com
+cryptofiwex.com
+cryptogax.com
+kuroxcoin.com
+x1-exchange.com
 eyzxxc.shop
 smailbtc-bonuses.site
 rabotay-doma.online
