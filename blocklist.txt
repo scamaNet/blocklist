@@ -1,7 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 02 Jan 2023 21:02:02 +0000
+! Last modified: Tue, 03 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+wlnvwg.cyou
+r.foolishhoist.cn
+r.dischargepyramid.cn
+0r0ooy.shop
+bityuxchange.com
+coingarex.com
+impulschange.space
+owlexchanger.com
+high-inc.online
+bitsun.ru
+fown.ru
 cacash.sbs
 fomoney.sbs
 ftmoney.sbs
