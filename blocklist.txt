@@ -1,7 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 03 Jan 2023 21:02:02 +0000
+! Last modified: Wed, 04 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+order-id.info
+r.illstipulation.cn
+r.nickellubricate.cn
+websites-abn2.buzz
+3da-payment.ru
+afisha-payments.ru
+satyr-perfect.ru
+satyrperfect.ru
+cinema-perfect.ru
+perfect-cinema.ru
+room-romantick.ru
+teslaxmas.net
 wlnvwg.cyou
 r.foolishhoist.cn
 r.dischargepyramid.cn
