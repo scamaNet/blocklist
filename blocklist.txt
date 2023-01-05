@@ -1,7 +1,57 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 04 Jan 2023 21:02:02 +0000
+! Last modified: Thu, 05 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+coinflex.cash
+cryptoswap.cz
+cryptounionexchange.com
+cryptoway.exchange
+cryptus.exchange
+ecodefine.com
+flash-obmen.net
+mdank.online
+onechange.link
+point-exchange.com
+spot-exchange.com
+tixbooked.com
+3llep5.shop
+flasco.ru
+afisha-pay3ds.ru
+satyr-revue.com
+tuochien.online
+creekexchange.com
+domoney.sbs
+flmoney.cfd
+fstcash.sbs
+futmoney.mom
+gbmoney.sbs
+hicash.sbs
+hijob.cfd
+lemoney.sbs
+lomoney.sbs
+lsjob.cfd
+lvjob.cfd
+lyjob.cfd
+memoney.sbs
+mnjob.cfd
+mscash.sbs
+nomoney.sbs
+omgjob.sbs
+plmoney.sbs
+psmoney.cfd
+rajob.cfd
+rotmoney.xyz
+stjob.cfd
+tecjob.cfd
+tehjob.sbs
+thsmoney.cfd
+trcash.sbs
+tufmoney.sbs
+usjob.cfd
+vfmoney.cfd
+wtmoney.cfd
+wyjob.cfd
+kassa-touring.ru
 order-id.info
 r.illstipulation.cn
 r.nickellubricate.cn
