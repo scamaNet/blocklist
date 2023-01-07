@@ -1,7 +1,35 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 06 Jan 2023 21:02:02 +0000
+! Last modified: Sat, 07 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+qutonb.com
+bit-swap.io
+bitzeros.com
+diaxchange.com
+cinema-forty.ru
+cinema-perfecto.ru
+freecinema24.ru
+perfecto-cinema.ru
+space-cinema.ru
+3ds-walet.ru
+3dspaysaintmarch.ru
+big-pay.online
+fuse-pay.online
+wixdefoier.online
+world-servec.ru
+show-afisha-standup.ru
+standup-premiers.ru
+standups-billets.ru
+afisha-foyer.ru
+afisha-perfecto.ru
+afishafoyer.ru
+alltheatre.ru
+rustheatre.ru
+satiredram.ru
+theatre-forty.ru
+thetrals-afisha.ru
+38hwgn.shop
+253306.lp.tobiz.net
 domtehnik.site
 my-wildberrless.pw
 btcbonus.click
