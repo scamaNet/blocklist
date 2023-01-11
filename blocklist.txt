@@ -1,7 +1,34 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 10 Jan 2023 21:02:02 +0000
+! Last modified: Wed, 11 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+cinema-leaf.ru
+cinemaleaf.ru
+loft-cinema.ru
+pay3ds-afisha.ru
+kassa-drama.ru
+satyr-debut.ru
+satyr-image.ru
+satyr-program.com
+satyrart.com
+satyrdebut.ru
+satyrimage.ru
+phemex.group
+bitt-coins.com
+ecobitex.com
+cryptocut.online
+much-people.com
+maxline-bet.com
+moneyeasily-cqe.top
+tehnowow.ru
+naerax.com
+iehaon.com
+kekusmail.com
+redlabelmail.com
+shkurkaguide.com
+teleferry.com
+yourlanierwheeblog.com
+fd8mvd.shop
 lukoil22ru.web.app
 bitdelux.com
 bitraxup.com
