@@ -1,7 +1,49 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 11 Jan 2023 21:02:02 +0000
+! Last modified: Thu, 12 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+earn-gda435.beauty
+article-youla.com
+avidfy.com
+b2b-crypto.com
+change-crypto.com
+hoperbit.com
+tradecripto.net
+atomic-rockpaper.com
+jamehuo.info
+mintkreate.net
+money-easilylqg.buzz
+money-easilypny.buzz
+money-easilyrup.buzz
+money-easilysne.buzz
+moneyeasily-bmi.top
+moneyeasily-dfx.top
+moneyeasily-ftb.top
+moneyeasily-jhn.top
+moneyeasily-ltm.top
+moneyeasily-mli.top
+moneyeasily-odz.top
+moneyeasily-slp.top
+moneyeasily-sne.top
+moneyeasily-ubi.top
+moneyeasily-uii.top
+moneyeasily-vgf.top
+moneyeasily-vos.top
+moneyeasily-wym.top
+moneyeasily-yffx.top
+grand-mg.ru
+aox5xb.shop
+afisha-standups.ru
+payment3ds-afisha.ru
+satyretude.com
+afisha-image.ru
+afishaimage.ru
+afishes-teatr.ru
+greatcrypt.com
+quick-exchange.pro
+dmlxbh.shop
+b-trade.site
+m-trade.site
 cinema-leaf.ru
 cinemaleaf.ru
 loft-cinema.ru
