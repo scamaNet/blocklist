@@ -1,7 +1,42 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 12 Jan 2023 21:02:02 +0000
+! Last modified: Fri, 13 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+websites-abn.buzz
+satyr-mask.ru
+satyrmask.ru
+global-kassa.ru
+margan-pay.ru
+bigcinema-veirus.ru
+cinema-kinopolis.ru
+cinema-real.ru
+cinema-verse.ru
+cinemareal.ru
+kinoplexx.site
+live-xrp.io
+money-easilyfhe.buzz
+money-easilygvq.buzz
+moneyeasily-eye.top
+moneyeasily-fdr.top
+moneyeasily-fzy.top
+moneyeasily-hoa.top
+moneyeasily-ibw.top
+moneyeasily-mdg.top
+moneyeasily-ubw.top
+moneyeasily-wmfc.top
+moneyeasily-wuq.top
+moneyeasily-ysg.top
+moneyeasily-ysw.top
+promocodoff.com
+qgwpej9.cn
+r.cognitiveproximate.cn
+r.ug0zek.cyou
+r.scr4du.cyou
+fsb-htraf-online24.su
+eg8t8n.shop
+1sxqxc.shop
+security-pay.tech
+start-global.net
 earn-gda435.beauty
 article-youla.com
 avidfy.com
