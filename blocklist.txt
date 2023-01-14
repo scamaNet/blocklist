@@ -1,7 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 13 Jan 2023 21:02:02 +0000
+! Last modified: Sat, 14 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+limebeton.com
+money-easilyapn.buzz
+money-easilylij.buzz
+money-easilywuk.buzz
+moneyeasily-dlm.top
+moneyeasily-nro.top
+moneyeasily-oeom.top
+moneyeasily-pycy.top
+moneyeasily-qfu.top
+moneyeasily-wgu.top
+moneyeasily-ybi.top
+greetbitcoin.com
+royalasset-trade.com
+tradeother.com
+tradersmy.com
+xarbychange.com
+goline.su
 websites-abn.buzz
 satyr-mask.ru
 satyrmask.ru
