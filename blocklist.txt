@@ -1,7 +1,44 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 15 Jan 2023 21:02:02 +0000
+! Last modified: Mon, 16 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+bitwum.com
+brallexbit.com
+dextrade.com
+legalfxmining.com
+bexchang.com
+make-crypto.com
+exchegen.org
+bitseax.com
+crypto-solid.com
+dashedge.com
+fsb-htrafo-online24.su
+eatqjx.shop
+dropofatom.network
+money-easilybkv.buzz
+money-easilynuq.buzz
+moneyeasily-crh.top
+moneyeasily-haf.top
+moneyeasily-juf.top
+moneyeasily-lij.top
+moneyeasily-lyo.top
+moneyeasily-uou.top
+moneyeasily-ydg.top
+moneyeasily-zsj.top
+yourviewpost.com
+afisha-foyers.ru
+afisha-mask.ru
+afisha-theatre.pw
+afishafoyers.ru
+afishamask.ru
+y-kassir.online
+relaxing-pay.ru
+art-payers.ru
+films-lounges.ru
+movie-lounge.ru
+paragis-cinema.ru
+romantick-rooms.ru
+cryptotradefxt.org
 junucoin.com
 wise-exchange.org
 satyr-foyers.ru
