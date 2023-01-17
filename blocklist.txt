@@ -1,7 +1,53 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 16 Jan 2023 21:02:02 +0000
+! Last modified: Tue, 17 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+money-easilyfkx.buzz
+money-easilygid.buzz
+money-easilyibk.buzz
+money-easilyiph.buzz
+money-easilyjsd.buzz
+money-easilymdg.buzz
+money-easilyoxb.buzz
+money-easilyqhy.buzz
+money-easilyspj.buzz
+money-easilyvbr.buzz
+money-easilyvpn.buzz
+money-easilywsw.buzz
+money-easilyxjn.buzz
+money-easilyzzl.buzz
+moneyeasily-ebb.buzz
+moneyeasily-efp.top
+moneyeasily-lpi.top
+moneyeasily-rkz.top
+moneyeasily-tjz.buzz
+moneyeasily-tlv.top
+moneyeasily-twg.top
+moneyeasily-uhn.top
+faster-ticket.ru
+cinema-diamond.ru
+cinema-vdvoem.ru
+cinemadiamond.ru
+kinoplexx.online
+r.1rbccl.cyou
+r.6ajr94.cyou
+r.nmfgl2.cyou
+r.p7zm63.cyou
+r.reciprocalmerchandise.cn
+r.udl873.cyou
+r.w15o9a.cyou
+bu0p8p.shop
+worldcoin.su
+reguscoin.com
+fifan.ru
+ru-pay.tech
+skuperchar.buzz
+gref08redi.com
+invest-managers.ru
+tinkprofit.site
+yourantichay.com
+yourtradingpostllc.com
+smarts-tools.com
 bitwum.com
 brallexbit.com
 dextrade.com
