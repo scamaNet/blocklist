@@ -1,7 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 17 Jan 2023 21:02:02 +0000
+! Last modified: Wed, 18 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+brilliant-cinema.ru
+emoney-pay.ru
+sauna-weluse.ru
+money-easily.buzz
+money-easilycxe.buzz
+money-easilytom.buzz
+moneyeasily-bhc.top
+moneyeasily-kqm.top
+moneyeasily-qmt.top
+24satoshi.com
+likebitex.com
+r.0yduum.cyou
+r.4f8w3r.cyou
+r.6w9mwx.cyou
+r.grillseductive.cyou
+r.underlinefoil.cyou
+9ergz9.shop
+turboex.world
+idea-money.wiki
+art-revues.ru
+artrevues.ru
+satyr-revues.ru
+satyrrevues.ru
+yoocredits.ru
 money-easilyfkx.buzz
 money-easilygid.buzz
 money-easilyibk.buzz
