@@ -1,7 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 18 Jan 2023 21:02:02 +0000
+! Last modified: Thu, 19 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+ojaciw.cyou
+r.divorcecradle.top
+r.dropoutsovereign.top
+r.infectiousnickname.top
+r.pronounoverlap.cyou
+r.specialistcomplacency.top
+clip0z.shop
+coinragex.com
+coinbetax.com
+technoeurogroup.com
+cryptozzer.com
+art-payer.ru
+afishaplace.com
+satyr-originals.com
+satyrplace.com
+kinolpexx.su
+security-pay.space
 brilliant-cinema.ru
 emoney-pay.ru
 sauna-weluse.ru
