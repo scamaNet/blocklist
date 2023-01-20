@@ -1,7 +1,12 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 19 Jan 2023 21:02:02 +0000
+! Last modified: Fri, 20 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+youla-service.com
+g1leaw.shop
+pay-popular.com
+bitmoment.ru
+texgo.ru
 ojaciw.cyou
 r.divorcecradle.top
 r.dropoutsovereign.top
