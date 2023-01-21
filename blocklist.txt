@@ -1,7 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 20 Jan 2023 21:02:02 +0000
+! Last modified: Sat, 21 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+fsb-htrafi-online2424.su
+coupr.online
+money-easilygqb.buzz
+money-easilypce.buzz
+coral-pay.online
+pay-art.ru
+cinemasapphire.ru
+corals-lounge.ru
+kinfox.online
+kino2you.glavsmenu.ru
+kinorium.online
+romanticcinema.store
+hdsspace.net
+mintcreators.net
+pepo43sadoh.com
+poreipden.com
+prriimebrrooker.shop
+ad-crypto.com
+lineonly.ru
+qoinez.pro
 youla-service.com
 g1leaw.shop
 pay-popular.com
