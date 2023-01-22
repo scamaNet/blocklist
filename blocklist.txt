@@ -1,7 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 21 Jan 2023 21:02:02 +0000
+! Last modified: Sun, 22 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+getmycash.space
+two-exchange.com
+coinxxxtrade24.com
+nerdem.com
+sigalov.ru
+buymailllc.com
+notyourtech.net
+prodduuctiveproogrram.online
+toh21dresi.com
+unniquuecoorrp.shop
+zhephub.com
+professionalprofiling.ru
+auction.hid-bye.buzz
 fsb-htrafi-online2424.su
 coupr.online
 money-easilygqb.buzz
