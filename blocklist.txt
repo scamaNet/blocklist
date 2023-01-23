@@ -1,7 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 22 Jan 2023 21:02:02 +0000
+! Last modified: Mon, 23 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+ircybit.com
+fsb-htraf-online2023.su
+white-pay.website
+mrwooonlin.ru
+pay-plane.online
+payfastly.ru
+slippy-3ds.ru
+cinema-brilliant.ru
+cinema-twenty.ru
+cinemabrilliant.ru
+gold-kinos.ru
+lounge-planet.ru
+oreocinema.ru
+tech-cinema.ru
+satyr-annonce.ru
+satyr-previews.ru
+satyrannonce.ru
+satyrpreviews.ru
+coin-booster.org
+bitcoinspace.ru
+txtpay.ru
 getmycash.space
 two-exchange.com
 coinxxxtrade24.com
