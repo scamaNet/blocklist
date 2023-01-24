@@ -1,7 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 23 Jan 2023 21:02:02 +0000
+! Last modified: Tue, 24 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+afisharevue.com
+satyrplacard.ru
+3d-roompayment.ru
+emoney-pay.online
+payments-art.ru
+cinema-oneway.ru
+room-cinemaromantic.ru
+opeqijored.com
+zheping.net
+bet-boom.win
+bngfinance.com
+7tq2jz.shop
+tsla-invest.com
+tslx-invest.com
+stackscoin.net
+tricoin.net
+protoncoin.net
+bitgyro.com
+minatrix.ru
 ircybit.com
 fsb-htraf-online2023.su
 white-pay.website
@@ -1007,6 +1026,7 @@ trust-pilot.online
 floringo.ru
 ru-oplatarus.ru
 sharkexchanger.com
+cryptoncoin.net
 prize-info.me
 changetoday.ru
 bityavo.com
