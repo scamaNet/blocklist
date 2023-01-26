@@ -1,7 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 25 Jan 2023 21:02:02 +0000
+! Last modified: Thu, 26 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+go-exchanges.com
+lansychange.com
+one-keyboard.ru
+bn7muh.shop
+ej5949.craftum.io
+bsh-pay.online
+atlantic-crypto.com
+bittfex.com
+bitwayne.com
+tokens-market.com
+aticrypto.com
+bitvexmax.com
+cryptogive.online
 satyr-affiche.ru
 satyraffiche.ru
 cinema-topaz.ru
