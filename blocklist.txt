@@ -1,7 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 26 Jan 2023 21:02:02 +0000
+! Last modified: Fri, 27 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+buypravdallc.com
+globaltoverdesign.com
+kadri33vok.com
+kytorcenter.com
+cinema-intrigue.ru
+cinema-premiers.ru
+cinemaintrigue.ru
+room-romantickcinema.ru
+better-student.ru
+first-open.com
+coincash-exchange.com
+lonechange.com
+copyrating.ru
+centrsouz.ru
+giv-quick.shop
+supertrade24.com
 go-exchanges.com
 lansychange.com
 one-keyboard.ru
