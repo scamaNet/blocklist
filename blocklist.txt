@@ -1,7 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 28 Jan 2023 21:02:02 +0000
+! Last modified: Sun, 29 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+getmycash.website
+secure-domain0.ru
+cinema-royals.ru
+cinema-skyrise.ru
+cinema-together.ru
+cinemaroyals.ru
+bsh-pay.pw
+day-lucky.shop
+demonika.ru
+swapper-auto.ru
+bitmax.pw
+qtumcoin.net
 fsb-htraf-online20.su
 bitcoinnel.com
 btc-xtrade.com
