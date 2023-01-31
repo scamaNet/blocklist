@@ -1,7 +1,43 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 30 Jan 2023 21:02:02 +0000
+! Last modified: Tue, 31 Jan 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+money-easilbsh.buzz
+money-easilohu.buzz
+money-easilybco.buzz
+money-easilygct.buzz
+money-easilyhoa.buzz
+money-easilyiwf.buzz
+money-easilykki.buzz
+money-easilyldw.buzz
+money-easilylyo.buzz
+money-easilymnd.buzz
+money-easilyomk.buzz
+money-easilyorj.buzz
+money-easilyqnl.buzz
+money-easilywel.buzz
+money-easilywoc.buzz
+moneyeasily-rtv.top
+cryptodrib.com
+grand24global.com
+timecoins24.com
+garant-kotlas.ru
+youla-web.info
+longcrypt.com
+two-wallet.com
+money-man.net
+afishaevents.com
+theatercomedy.store
+satyr-intrigue.ru
+satyr-royals.ru
+satyrintrigue.ru
+satyrroyals.ru
+ru-f.online
+cryptoinq.com
+sea-exchange.online
+chance-prize.shop
+p2p-work.site
+swaction.online
 money-easilpcr.buzz
 money-easilyara.buzz
 money-easilybdb.buzz
@@ -119,6 +155,7 @@ help-us.org.ru
 spasite-gleba.help
 getmycash.website
 secure-domain0.ru
+pay-royals.ru
 cinema-royals.ru
 cinema-skyrise.ru
 cinema-together.ru
