@@ -1,7 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 02 Feb 2023 21:02:02 +0000
+! Last modified: Fri, 03 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+money-easilswe.buzz
+money-easiltmb.buzz
+money-easilubw.buzz
+fyza.ru
+kingnews.shop
+completo-ru.site
+ok-obmen.shop
+5000.works
+amazisbtc.site
+joybitcoin.com
+coinregen.com
+cromytrade.space
+wexanty.com
+alpinacrypt.com
+finprokapitalbank.ru
 money-easilqzj.buzz
 money-easilyaff.buzz
 money-easilybgi.buzz
