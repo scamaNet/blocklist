@@ -1,7 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 03 Feb 2023 21:02:02 +0000
+! Last modified: Sat, 04 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+larbychange.com
+money-easilyamb.buzz
+money-easilymmd.buzz
+money-easilyrtv.buzz
+estateagentllc.com
+lybiriu.info
+nomhub.net
+tinkstepen.info
+wixery.net
+i-pay.store
+platina-pay.ru
+art-teatr.com
+satyrstages.ru
+satyr-stages.ru
+cawono.ru
+premium-ozon-ru.lornumusfaver.tk
+sclas.nozabyq.cfd
+quit-rv.xyz
 money-easilswe.buzz
 money-easiltmb.buzz
 money-easilubw.buzz
