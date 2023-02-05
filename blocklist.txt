@@ -1,6 +1,6 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 04 Feb 2023 21:02:02 +0000
+! Last modified: Sun, 05 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 larbychange.com
 money-easilyamb.buzz
