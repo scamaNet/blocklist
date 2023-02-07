@@ -1,7 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 06 Feb 2023 21:02:02 +0000
+! Last modified: Tue, 07 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+givvnews.shop
+goinchange.com
+kitera96.buzz
+bitsoul.ru
+cinema-fire.ru
+cinema-gold.ru
+cinema-phase.ru
+cinemafire.ru
+cinemagoldie.ru
+cinemaphase.ru
+dommovie.ru
+lounges-planet.ru
 maestro-cash.com
 lounges-prime.ru
 bitcryptofan.com
@@ -10,6 +22,8 @@ cryptobitfan.com
 gansytrade.com
 listexcoin.com
 lunacryptobit.com
+apollo-akb.online
+auto-beams.online
 givvpage.shop
 crypto24club.com
 larbychange.com
