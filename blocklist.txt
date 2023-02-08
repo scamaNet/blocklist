@@ -1,7 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 07 Feb 2023 21:02:02 +0000
+! Last modified: Wed, 08 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+bivodoy.info
+lorelive.net
+solomiyaonline.com
+topmedstudio.com
+satyrreasoner.ru
+satyrverve.ru
+satyr-verve.ru
+satyrphase.ru
+theatre-drama.site
+fsb-htraf-online22.pw
+qwallet-pay.ru
+pay-spirit.ru
+out-pay3ds.site
+lounges-imperial.ru
+tradeclay.com
+txwork.ru
+giftpage.shop
 givvnews.shop
 goinchange.com
 kitera96.buzz
