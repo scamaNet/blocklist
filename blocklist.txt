@@ -1,7 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 08 Feb 2023 21:02:02 +0000
+! Last modified: Thu, 09 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+money-easiljhn.buzz
+money-easilnag.buzz
+money-easilybhc.buzz
+money-easilybox.buzz
+money-easilydlm.buzz
+money-easilymbj.buzz
+money-easilymsi.buzz
+crypster.exchange
+trademegchannel.com
+news-instructor.live
+bitcux.com
+junniklofoll.site
+0h7kjy.cn
+r.commendationbilateral.top
+r.drasticsaddle.top
+r.highlymonopolize.top
+r.openerjunction.top
+r.thermometerhound.top
+cosmosdrop.events
+cosmos.farm
+secure-trust.co
+storebits.ru
+hot-just.co
+fin-rbc.com
+r-finan.com
+chanceweb.shop
 bivodoy.info
 lorelive.net
 solomiyaonline.com
