@@ -1,7 +1,30 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 09 Feb 2023 21:02:02 +0000
+! Last modified: Fri, 10 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+bitxkom.com
+bookexbit.com
+boomxbits.com
+btc-trade.io
+flowxdivi.com
+hasverbit.com
+jiloxbit.com
+sadkobit.com
+taslybit.com
+giv-just.co
+giveaway-hot.co
+futureclassik.com
+vulkantsk.com
+satyr-reason.ru
+satyrreason.ru
+tickets-theatres.ru
+gnaw.deskslaver.top
+cryptoopay.store
+bittaxup.com
+giveaway-trust.co
+starcheer.net
+topyouthteam.com
+hard-game.online
 money-easiljhn.buzz
 money-easilnag.buzz
 money-easilybhc.buzz
