@@ -1,7 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 10 Feb 2023 21:02:02 +0000
+! Last modified: Sat, 11 Feb 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+cinema-fly.ru
+cinema-magic.ru
+cinema-modern.ru
+cinema-pluse.ru
+cinema-ruby.ru
+cinemafly.ru
+cinemaruby.ru
+cinemashore.ru
+kino-imperial.ru
+room-thecinema.ru
+cheershop.net
+websites-marketplace2.buzz
+event-key.ru
+oxygen-smart.ru
+swap-trade24.com
+giveawaysecure.co
+pay-sapphire.ru
+3ds-kassaonline.ru
+dwallet-pay.online
+pay-ruby.ru
+loadiutcract.ru
+theatre-classik.com
+satyr-halls.ru
+satyrhalls.ru
+theatre.ru-50.ru
+art-reason.ru
+roskassa.site
+domashniy24.com
+get-hot.co
 bitxkom.com
 bookexbit.com
 boomxbits.com
