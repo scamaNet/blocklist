@@ -1,7 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 11 Feb 2023 21:02:03 +0000
+! Last modified: Sun, 12 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+r.collapseobscure.top
+r.depictionoutlaw.top
+r.mentionplace.top
+r.noticeablecorrelation.top
+r.ringstray.top
+help-baby.pw
+help-childs.org.ru
+help-my-child.org.ru
+girfex.com
+bit24hr.com
+offermxc.com
+up-bit.com
+0ldpay.com
+blue-table.ru
+satyr-composer.ru
+art-theaters.ru
+opera-event.ru
+24pay.su
+auction.hid-byr.buzz
+vulkan97.com
+coinbox-exchange.com
+change-obmen.ru
+doublecash.ru
+santelectro.ru
 cinema-fly.ru
 cinema-magic.ru
 cinema-modern.ru
