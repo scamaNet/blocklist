@@ -1,7 +1,38 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 12 Feb 2023 21:02:02 +0000
+! Last modified: Mon, 13 Feb 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+cryptoapm.ru
+cryptoalian.com
+help-child.pw
+help-child.sbs
+bitexcapitals.com
+r.backequator.top
+r.daylightnurture.top
+r.embroiderywarranty.top
+r.givebeset.top
+r.imperativelawsuit.top
+r.impossibilityrepression.top
+r.nervemint.top
+r.perplexvulgar.top
+r.reactionarydespise.top
+r.ridunification.top
+get-giv.co
+centerkitch.online
+absolute-study.ru
+satyr-theaters.ru
+satyrtheaters.ru
+art-task.ru
+amber-pay.ru
+kinohalll.online
+cinema-glory.ru
+cinema-rise.ru
+cinemaglory.ru
+cinemarise.ru
+awardbonus.co
+donybay.info
+globalforonline.com
+hd.mspp.sbs
 r.collapseobscure.top
 r.depictionoutlaw.top
 r.mentionplace.top
