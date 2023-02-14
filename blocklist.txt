@@ -1,7 +1,47 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 13 Feb 2023 21:02:03 +0000
+! Last modified: Tue, 14 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+money-easilfdc.buzz
+money-easilujg.buzz
+money-easilyjgr.buzz
+money-easilyqd.buzz
+money-easilyzwo.buzz
+adweto.ru
+r.centralilliteracy.top
+r.contractorbinoculars.top
+r.devotesoothe.top
+r.insanitysalutation.top
+r.insteadblackmail.top
+r.intruderwicked.top
+r.learngospel.top
+r.levelallotment.top
+r.millionherbal.top
+r.navigateescalator.top
+r.outputmolecular.top
+r.outstandingwhereabouts.top
+r.relyconsulate.top
+r.rodstunning.top
+r.underlyingoptimum.top
+r.unilateralunification.top
+coinsget.com
+cryptexmania.com
+exkubit.com
+bitlewro.com
+taskdo.ru
+optimal-learn.ru
+cxie3.kuqeror.cfd
+backupdropby.com
+dolinarosess.ru
+orofer.net
+target-investment.ru
+topfordesign.com
+vamicee.info
+bonus-web.co
+award-web.co
+award-trust.co
+os.hid-byr.buzz
+coinregens.com
 cryptoapm.ru
 cryptoalian.com
 help-child.pw
