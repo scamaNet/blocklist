@@ -1,7 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 14 Feb 2023 21:02:02 +0000
+! Last modified: Wed, 15 Feb 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+cryptochanger.online
+ru-pay15512.ru
+coinexburn.com
+xtrade-btc.com
+cosmosdrop.me
+nixwex.com
+rex94i.shop
+prch.7dgcnr.shop
+bitswer.com
+heavenbit.com
+rofertech.com
+wde.arewio.motorcycles
+5-book.ru
 money-easilfdc.buzz
 money-easilujg.buzz
 money-easilyjgr.buzz
