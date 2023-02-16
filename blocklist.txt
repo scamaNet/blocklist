@@ -1,7 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 15 Feb 2023 21:02:03 +0000
+! Last modified: Thu, 16 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+premium-exchange.com
+cadgoldmining.com
+munabit.com
+3ds-kassaticket.ru
+pex-pay.online
+iwallet-pay.ru
+mymego.ru
+cinema-arthouse.ru
+lounge-imperials.ru
+primes-cinema.ru
+room-cinemalounge.ru
+liberty-cinema.ru
+ruffi.website
+student-level.ru
+cryptid.su
+scripto-key.ru
+myfinestudio.com
+help-child.site
+help-baby.top
+help-baby.sbs
 cryptochanger.online
 ru-pay15512.ru
 coinexburn.com
