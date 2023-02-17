@@ -1,7 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 16 Feb 2023 21:02:02 +0000
+! Last modified: Fri, 17 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+tgaut.online
+gotask.ru
+copyfix.ru
+betxchanger.com
+koertech.net
+cognactop.com
+globalaustralianwine.com
+hinecognaccompany.com
+labelrocks.com
+webwhitetagusa.com
+help-childs.top
+help-for-child.top
 premium-exchange.com
 cadgoldmining.com
 munabit.com
