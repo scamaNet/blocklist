@@ -1,7 +1,43 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 18 Feb 2023 21:02:02 +0000
+! Last modified: Sun, 19 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+bitfinexbit.com
+r.compulsoryelectoral.cyou
+r.jlkjlhk.cyou
+r.recurrenceritual.top
+yooservices.ru
+cryptocexchangee.com
+bitcoinprice.works
+money-easilpye.buzz
+money-easilypye.buzz
+cinema-kudos.ru
+cinema-luster.ru
+cinema-mults.ru
+cinema-sool.ru
+cinema-staging.ru
+cinema-unions.ru
+cinemafilms.ru
+cinemakudos.ru
+cinemaluster.ru
+cinemarelax.ru
+cinemastaging.ru
+lounges-imperials.ru
+premiers-cinema.ru
+3dswallet.ru
+etude-pay.ru
+securecode-payments.ru
+worldgorld.ru
+ywallet-pay.ru
+afishe-thetrals.ru
+arts-afishe.ru
+theatr-afishes.ru
+theatre-sool.ru
+glockturm-pay.pw
+rrui.net
+clipx.wlogfund.foundation
+five-prise.pw
+otpravkamail.online
 loandpro.ru
 bitento.com
 finder-wallet.com
