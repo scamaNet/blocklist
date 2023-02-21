@@ -1,7 +1,42 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 20 Feb 2023 21:02:02 +0000
+! Last modified: Tue, 21 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+cimoney.cfd
+cumoney.cfd
+fimoney.sbs
+hypmoney.sbs
+kimoney.sbs
+kumoney.cfd
+micash.cfd
+mimoney.sbs
+nimoney.sbs
+pimoney.cfd
+rimoney.cfd
+sicash.cfd
+ticash.cfd
+timoney.sbs
+ximoney.cfd
+zimoney.cfd
+bitxsom.com
+crypto-cex.com
+kansytrade.com
+tradeswap-crypto.com
+future-whswork.com
+ywallet-pay.online
+dom-theatre.com
+film-and-us.ru
+cinema-imperials.ru
+grandpoll.site
+q-ask.webflow.io
+onepay365.ru
+bftjbi.shop
+crypto.bmlabs.ru
+esfatumlook.site
+terhub.net
+childs-help.site
+childs-life.site
+help-for-childs.site
 student-road.ru
 cinema-repose.ru
 cinemarepose.ru
@@ -12,6 +47,8 @@ cryptonex.click
 sepmoney.cfd
 sopmoney.sbs
 ucash.sbs
+24top-change.ru
+cashlic.com
 money-easilmpw.buzz
 money-easilyhia.buzz
 money-easilykqm.buzz
