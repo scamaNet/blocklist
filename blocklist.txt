@@ -1,7 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 22 Feb 2023 21:02:02 +0000
+! Last modified: Thu, 23 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+tinkoffpay.com
+worldpayyes.ru
+cinema-loos.ru
+cinemafoods.ru
+cadgoldmining.com
+abinal.com
+bemarketbit.com
+coinbring.com
+okkobit.com
+forum-bits-media.online
+award-giveaway.pro
+bonus-trust.pro
+vlkclick.com
+brandloft.ru
+plexon.ru
+save-connect.ru
+vbztech.net
+acvr-svco.biz
+4qwa0.bifyqid.cfd
 money-easilynnd.buzz
 money-easilyprf.buzz
 money-easilytdi.buzz
