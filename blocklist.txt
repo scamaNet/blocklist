@@ -1,7 +1,16 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 23 Feb 2023 21:02:02 +0000
+! Last modified: Fri, 24 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+wixfek.site
+newtheatreafisha.ru
+theatrals-afisha.ru
+theatre-loos.ru
+coin-vip.pro
+fasterpay24.tech
+high-one.ru
+bellagioatcasino.com
+allupcenter.com
 tinkoffpay.com
 worldpayyes.ru
 cinema-loos.ru
