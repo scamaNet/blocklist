@@ -1,7 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 24 Feb 2023 21:02:02 +0000
+! Last modified: Sat, 25 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+cinema-encore.ru
+checkpaycard.com
+fly-pay.ru
+estrada-theatre.com
+satyr-roles.ru
+satyr-encore.ru
+trf-exits.com
+coinhqx.com
+coinans.com
+bitawex.com
+exchange-pro.online
+qezex.com
+to-exchange.org
+ru-verifer.ru
+evmcrypto.online
+crypto-nix.com
+scan-stake.pw
+swap24.org
+cointruck.org
+swaptocrypto.com
+lightexchanger.com
+bitzacer.com
+exchangesmart.org
+myatom.network
+wiidberrlessbest.pw
+allitstudio.com
 wixfek.site
 newtheatreafisha.ru
 theatrals-afisha.ru
@@ -9,6 +35,7 @@ theatre-loos.ru
 coin-vip.pro
 fasterpay24.tech
 high-one.ru
+trustgame24.ru
 bellagioatcasino.com
 allupcenter.com
 tinkoffpay.com
