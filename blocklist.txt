@@ -1,7 +1,17 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 25 Feb 2023 21:02:02 +0000
+! Last modified: Sun, 26 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+cryptoviex.com
+polynexbit.com
+coin-lucky.pro
+maxigame24.ru
+mygame24.ru
+realgame24.ru
+sportgame24.ru
+bitcoindomen.ru
+drgn1n.casino
+theymart.net
 cinema-encore.ru
 checkpaycard.com
 fly-pay.ru
@@ -36,6 +46,7 @@ coin-vip.pro
 fasterpay24.tech
 high-one.ru
 trustgame24.ru
+softgame24.ru
 bellagioatcasino.com
 allupcenter.com
 tinkoffpay.com
