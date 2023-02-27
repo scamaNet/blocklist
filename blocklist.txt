@@ -1,7 +1,34 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 26 Feb 2023 21:02:02 +0000
+! Last modified: Mon, 27 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+westgame24.ru
+stone-study.ru
+mnc-electronicsworld.com
+cinema-certosa.ru
+tap-pay.online
+sauna-ocean.ru
+btcrea.com
+premium-xtrade.com
+bitfloat.org
+architrade.org
+bitnavix.com
+currentna.com
+deltrato.com
+exchange24coin.com
+exchanger.website
+liveforexautions.net
+bitxlist.com
+kdfxtrade.pro
+sablytrade.com
+trust-swap.com
+fast-get.shop
+bonus-coin.pro
+help4babies.site
+casino-vulkano.online
+webweonline.com
+pkuostyn.nnew-wcsw.biz
+video-e2.buzz
 cryptoviex.com
 polynexbit.com
 coin-lucky.pro
