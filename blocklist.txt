@@ -1,7 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 27 Feb 2023 21:02:02 +0000
+! Last modified: Tue, 28 Feb 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+drop-media.com
+ex-crypto.pro
+icecryptos.com
+dom-vistavka.com
+cool-standup.ru
+culturthatr.ru
+mircultur.ru
+video-s1.buzz
+bitcryptys.com
+btc-swaper.com
+caplify.com
+cryptobinom.com
+cryptolir.space
+cyberbitem.com
+deeprou.com
+fournex.com
+monterbit.com
+ocprime.online
+opdeo.com
+kdgstyrw.ncsu-ucua.biz
 westgame24.ru
 stone-study.ru
 mnc-electronicsworld.com
