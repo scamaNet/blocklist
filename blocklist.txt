@@ -1,7 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 28 Feb 2023 21:02:02 +0000
+! Last modified: Wed, 01 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+money-easilyucj.buzz
+money-easilyvzo.buzz
+moneyeasily-fdc.top
+xgreen-exchange.com
+coinkubit.com
+dotxvane.com
+token-trade.io
+paytx.ru
+chance-gift.pro
+theater-spectacle.ru
+theaters-shows.ru
+com-pay.pw
+trade-green.com
+tradein.pw
+bitmax.top
+p2p-top.site
+ertyandassociates.com
+rotrace.online
+vadywyy.info
+click-special.shop
 drop-media.com
 ex-crypto.pro
 icecryptos.com
@@ -57,6 +77,7 @@ mygame24.ru
 realgame24.ru
 sportgame24.ru
 bitcoindomen.ru
+bnrtrade.online
 drgn1n.casino
 theymart.net
 cinema-encore.ru
