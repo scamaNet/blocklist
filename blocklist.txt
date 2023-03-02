@@ -1,7 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 01 Mar 2023 21:02:02 +0000
+! Last modified: Thu, 02 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+movchey.com
+rate-pay.ru
+cinema-coop.ru
+cinema-flory.ru
+cinema-teasers.ru
+imperials-cinema.ru
+romantik-cinema.ru
+bitexfomo.com
+coinicu.com
+cryptoblast24.com
+flowxbtc.com
+homexbits.com
+sweatswap.uk.com
+sitap.ru
+vitario.ru
+bonus-giv.shop
+power-pay.pw
+eapldl.cyou
+r.actionsolicitor.top
+r.artistelastic.top
+sportpesa.pw
+bestvipgroup.com
+guzisye.info
+realviplive.com
+rukigou.info
+wujoqyy.info
+mthea.aunw-uoeo.biz
+luxhookahs.ru
+bonus-rus.shop
 money-easilyucj.buzz
 money-easilyvzo.buzz
 moneyeasily-fdc.top
