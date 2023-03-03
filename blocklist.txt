@@ -1,7 +1,51 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 02 Mar 2023 21:02:02 +0000
+! Last modified: Fri, 03 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+coinexmania.com
+moonlebit.com
+art-pacing.ru
+artpacing.ru
+satyr-pacing.ru
+fast-secure.shop
+primecallcentre.tilda.ws
+almusbank.com
+altybank.com
+banqueworld.com
+beamchase.com
+cfgroups.online
+citiboc.com
+civicunion.online
+commonwealthfnltd.online
+ctfint.live
+earfb.com
+ecocredittrust.com
+fbntc.com
+fcjfunding.com
+fetfinance.com
+gbank.biz
+goldabank.com
+grantedbank.com
+infinitytrustholdings.com
+myword-b.com
+nationalsplc.com
+onesavingsint.com
+paradoxevault.com
+rbceservices.com
+shellinvestmentb.com
+spfibs.com
+standardchaseb.com
+standardtrustremit.com
+stecbk.com
+viserbank.net
+whiteinternationalbank.com
+xendtrust.com
+marten24.com
+copyraytor.ru
+unsupma.cwqe9d-hie.shop
+actionrent.ru
+goldeni.ru
+walletstart.org
 movchey.com
 rate-pay.ru
 cinema-coop.ru
