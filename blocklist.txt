@@ -1,7 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 03 Mar 2023 21:02:02 +0000
+! Last modified: Sat, 04 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+3ds-shopwallet.online
+bizs-pay.online
+getpay.creditcard
+cinema-pool.ru
+cosmos-cinema.ru
+lounge-cinemas.ru
+relax-roomcinema.ru
+gold-hit.shop
+greenexchanger.com
+lastbits.ru
+true3ds.ru
+bdobos.pw7hme-searc.shop
+buyviplive.com
+cubyxay.info
+dyqojui.info
+eexxpertsaffetty.online
+gerdeals.com
+gerguru.com
+herrental.com
+mywhtclub.com
+reremii.info
 coinexmania.com
 moonlebit.com
 art-pacing.ru
