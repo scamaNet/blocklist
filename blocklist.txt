@@ -1,7 +1,66 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 04 Mar 2023 21:02:02 +0000
+! Last modified: Sun, 05 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+crypto-max.store
+p2p-work.creatium.site
+conancoln.com
+vlkisoclub.com
+blue-mount.ru
+card3ds.ru
+1lifefinancial.com
+abudhabinterbank.com
+affixtb.co.uk
+arabcreditsub.com
+astrabankplc.com
+bank.zarin.solutions
+beamountcu.com
+capitalannex.com
+centen.vitalclick.com.ng
+centennialbk.com
+chrysolitefinance.com
+cib-corporate.com
+cleffinancialbank.com
+crystalcommunitybank.com
+crystalinebank.com
+diamondstarbk.com
+financialtrustbanks.com
+firstdbk.com
+firstreliantbank.com
+grindlayltd.com
+guarantytrustfinace.com
+habibcapitalfunds.com
+hashifinancial.com
+ifcbk.com
+libertytrust-bank.com
+loftbank.live
+mubintraders.com
+nationalsavings.us
+nextfinancialbnk.com
+oneation-corporation.com
+paysann.com
+peoplesbase.com
+primewaysaving.us
+privatestandardbank.com
+rbswealth.com
+redabank.com
+ruba.cash
+santendr.com
+shalabank.com
+standardtustcreditunions.com
+suissebanking.com
+suisseunion.com
+unitedftb.com
+westerfinance.com
+westfidbank.com
+westraspargroup.online
+wmc-bank.com
+worldcommunityreserve.online
+zenithspringban.com
+wintotal24.online
+moqaloi.info
+realaeropresstore.com
+yourwht.com
 3ds-shopwallet.online
 bizs-pay.online
 getpay.creditcard
