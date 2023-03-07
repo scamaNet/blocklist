@@ -1,7 +1,40 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 06 Mar 2023 21:02:02 +0000
+! Last modified: Tue, 07 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+wise-land.ru
+iogo.su
+satyr-culture.ru
+24pay-systems.ru
+outs-pay.online
+24cinema-visit.ru
+cinema-culture.ru
+cinemas-lounge.ru
+exchange-green.com
+genesiswallet.top
+cryptoboom24.com
+fomoscoin.com
+click-gift.shop
+dwuupn.cn
+tagamdic.com
+r.alwayscompilation.top
+r.provocationsuffice.top
+r.momentpresume.top
+ablexpred.com
+adv36.ru
+apps-time.cloud
+drivedallas.com
+musk-capital.uno
+pranoes.com
+robot-money.xyz
+tesla-x.info
+teslaso.shortinside.site
+tsl3.projectrs.site
+whishime.com
+xm.softfor.xyz
+texov.ru
+fgopro.com
+rstrace.online
 360eurocredit.com
 abcnbank.com
 anonymitybank.com
