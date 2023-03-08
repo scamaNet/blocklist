@@ -1,7 +1,38 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 07 Mar 2023 21:02:02 +0000
+! Last modified: Wed, 08 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
+c-change.ru
+letter-edge.ru
+cybbet.pw
+faster-ticket.online
+ewallet-pay.online
+cinema-komfort.ru
+cinema-neons.ru
+app-cashe.app
+app-cent.cash
+app-x-cent.ru
+appcash.app
+appccent.com
+appcent.ltd
+applcash.com
+appscash.app
+appx-cent.ru
+sicura.ru
+bonus-king.shop
+shmeihellab.com
+thefgollc.com
+twsdleads.com
+leona.biggiesmalls.motorcycles
+24-exchange.org
+btcoine.com
+bit24hrr.com
+btchi.tech
+coinlave.com
+exchanege.com
+swap-trade24.org
+dexelos.com
+bitrobex.com
 wise-land.ru
 iogo.su
 satyr-culture.ru
@@ -530,6 +561,7 @@ r.jlkjlhk.cyou
 r.recurrenceritual.top
 yooservices.ru
 cryptocexchangee.com
+apps-cash.app
 bitcoinprice.works
 money-easilpye.buzz
 money-easilypye.buzz
@@ -1615,6 +1647,8 @@ quick-exchange.pro
 dmlxbh.shop
 b-trade.site
 m-trade.site
+apcash.ru
+appcashr.ru
 cinema-leaf.ru
 cinemaleaf.ru
 loft-cinema.ru
