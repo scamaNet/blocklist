@@ -1,10 +1,37 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 10 Mar 2023 21:02:02 +0000
+! Last modified: Sat, 11 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)axito.ru
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)lansytrade.com
+exchange-xcoin.com
+topworkline.ru
+bet-365.pro
+parliament-pay.pw
+arbejdernes-international.com
+thebestday.quest
+cryptowallet-l.ru
+domalaw.com
+onecentrecenter.com
+satyr-hole.ru
+satyr-renaissance.ru
+24pays-wizard.ru
+juisi-pay.ru
+seven-pay.ru
+waves-pay.ru
+24cinema-chill.ru
+bigcinema-candy.ru
+bigcinema-romeo.ru
+cinema-candys.ru
+cinema-hole.ru
+cinema-kinoman.ru
+cinema-pandora.ru
+cinema-renaissance.ru
+cinema-romeo.ru
+cinema-showtic.ru
+lounges-cinemas.ru
+axito.ru
 eviga.ru
 gift-giveaway.shop
 gift-givs.shop
