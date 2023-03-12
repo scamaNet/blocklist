@@ -1,10 +1,35 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 11 Mar 2023 21:02:02 +0000
+! Last modified: Sun, 12 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)lansytrade.com
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)coin-usd.shop
+casinobingo24.ru
+dropcosmos.events
+nft-gener.online
+key-assist.ru
+knowledge-island.ru
+hariss92.buzz
+goldvlk.com
+hellexchange.com
+netex.top
+50usd.info
+bitbigex.com
+crypt-market.com
+crypto-market.live
+fast-wallet.com
+upp-bit.com
+coinsapt.net
+payfullcoin.com
+coinpairoption.com
+banklyforextrade.com
+xgreen-coin.com
+shina-russia-shop.ru
+auto-newmarket.ru
+miningpro.top
+coinflape.com
+lansytrade.com
 exchange-xcoin.com
 topworkline.ru
 bet-365.pro
@@ -788,6 +813,7 @@ cinema-glory.ru
 cinema-rise.ru
 cinemaglory.ru
 cinemarise.ru
+cointency.com
 awardbonus.co
 donybay.info
 globalforonline.com
