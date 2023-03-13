@@ -1,10 +1,45 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 12 Mar 2023 21:02:02 +0000
+! Last modified: Mon, 13 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)coin-usd.shop
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)xarodex.com
+ex-swap.cc
+work23.top
+accesspride.com
+britzfinance.net
+capitalprimeplc.com
+finance-truist.com
+futureem-pire.com
+imtfremit.com
+oneaccessflow.com
+online.privatefinancial.ch
+primewaysunion.com
+viloassets.com
+bitcoinwelets.com
+bituys.com
+drama-philharmonic.ru
+national-satira.ru
+satyr-charge.ru
+24cinema-relax.ru
+cinema-charge.ru
+cinemas-lounges.ru
+24pay-wizard.ru
+qwik-pay.online
+3dsyspay.online
+sbi2pay.ru
+wild-pay.ru
+stand-up-go.online
+c-bet.net
+exchangclub.com
+owner-crypto.com
+express-rus.shop
+aertuuynxxer.site
+alllandonline.com
+bugssocial.com
+miningplus.top
+coin-usd.shop
 casinobingo24.ru
 dropcosmos.events
 nft-gener.online
