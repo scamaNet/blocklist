@@ -1,10 +1,60 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 13 Mar 2023 21:02:02 +0000
+! Last modified: Tue, 14 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)xarodex.com
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)click-givv.shop
+keppchecg.ru
+culturmir.ru
+bitscoins.exchange
+cryptosls.com
+charonbit.com
+market-btc.com
+payregcoin.com
+valvecoin.org
+coinwiex.com
+bimoney.sbs
+catmoney.sbs
+dimoney.sbs
+fepmoney.cfd
+fypmoney.cfd
+gimoney.sbs
+hipmoney.sbs
+hitcash.cfd
+hmoney.sbs
+jimoney.sbs
+jmoney.cfd
+kimoney.cfd
+lepmoney.sbs
+lopmoney.cfd
+lopmoney.sbs
+lotmoney.sbs
+lupmoney.cfd
+lupmoney.sbs
+lypmoney.sbs
+mmoney.sbs
+nosmoney.cfd
+pypmoney.sbs
+qmoney.cfd
+sepmoney.sbs
+sipmoney.sbs
+sopmoney.cfd
+supmoney.sbs
+sysmoney.sbs
+vimoney.sbs
+vsmoney.sbs
+ysmoney.sbs
+zimoney.sbs
+zmoney.cfd
+a5k8pv0i.rus-usd.shop
+tv-flat-hd.best-sales2023.ru
+allbed24.com
+bitsbulochka.com
+thesasa-house.com
+yourgbcinc.com
+express-lucky.shop
+xarodex.com
 ex-swap.cc
 work23.top
 accesspride.com
