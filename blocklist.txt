@@ -1,10 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 14 Mar 2023 21:02:02 +0000
+! Last modified: Wed, 15 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)click-givv.shop
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)todotx.ru
+bceao-togo.com
+freendiabank.com
+garanltbk.com
+newwavetb.org
+primesavingsny.online
+thefirstfamilybank.com
+cryptorop.com
+cryptwithn3.ru
+mycosmos.click
+myatom.click
+finansoption.com
+mulgan-pay.ru
+cinema-recency.ru
+cinema-urgra.ru
+mulgan-cinema.ru
+planet-cinema.ru
+secrets-cinema.ru
+knitted-high.ru
+youtuber.cool
+youtuber-video.monster
+bingo-boom.win
+mininglife.xyz
+buldogtech.com
+parnercousin.com
+online124.site
+click-givv.shop
 keppchecg.ru
 culturmir.ru
 bitscoins.exchange
@@ -165,6 +191,7 @@ glockturmpay.pw
 mininggroup.xyz
 cardinalmaster.com
 xekoppologre.site
+mchange.xyz
 one-swap.com
 freexchange.pro
 encybit.com
