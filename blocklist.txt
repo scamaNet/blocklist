@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 15 Mar 2023 21:02:02 +0000
+! Last modified: Thu, 16 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)todotx.ru
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)bitparet.com
+bittellor.com
+izex.io
+finlaxbank.com
+your-author.ru
+vulkanhot.com
+a5k8pv0i.givv-web.shop
+award-express.shop
+drg-com.co
+trade.drg-com.net
+buylandblog.com
+fertuuynxxer.site
+fliesstore.com
+theanglicandoma.com
+girenu.com
+todotx.ru
 bceao-togo.com
 freendiabank.com
 garanltbk.com
@@ -658,6 +673,7 @@ florri.site
 better-head.ru
 change24.cc
 vulckasino.com
+ocdfinances.net
 fast-web.pro
 getpishpashuonline.com
 pashuglobal.com
