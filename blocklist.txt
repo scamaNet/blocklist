@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 16 Mar 2023 21:02:02 +0000
+! Last modified: Fri, 17 Mar 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)bitparet.com
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)day-prizes.shop
+chisepal.com
+bulltrust.online
+byscoins.com
+epay-service.ru
+gertuuynxxer.site
+getsunclub.com
+onesunlive.com
+bepbit.com
+bitparet.com
 bittellor.com
 izex.io
 finlaxbank.com
@@ -604,7 +613,6 @@ realgame24.ru
 sportgame24.ru
 bitcoindomen.ru
 bnrtrade.online
-drgn1n.casino
 theymart.net
 cinema-encore.ru
 checkpaycard.com
