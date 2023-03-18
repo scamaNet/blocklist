@@ -1,10 +1,13 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 17 Mar 2023 21:02:03 +0000
+! Last modified: Sat, 18 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)day-prizes.shop
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)lendableloan.com
+ultraskytrust.com
+hertuuynxxer.site
+day-prizes.shop
 chisepal.com
 bulltrust.online
 byscoins.com
