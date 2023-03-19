@@ -1,10 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 18 Mar 2023 21:02:02 +0000
+! Last modified: Sun, 19 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)lendableloan.com
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)rev-bot.com
+revonline.co
+dkbm-web.autoinsm.org
+adscash-vpn.buzz
+bolmoney.cfd
+gosmoney.sbs
+vemoney.sbs
+xmoney.sbs
+get-xtrade.com
+xcoin-trade.com
+exetraders.com
+spectatrade.com
+coinexfom.com
+coinswap.uk.com
+maxline-bet.net
+sparekassen-online.com
+chancegiv.shop
+fyhefyy.info
+kertuuynxxer.site
+yoursolcenter.com
+wavescoin.net
+lendableloan.com
 ultraskytrust.com
 hertuuynxxer.site
 day-prizes.shop
