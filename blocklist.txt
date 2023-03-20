@@ -1,10 +1,35 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 19 Mar 2023 21:02:02 +0000
+! Last modified: Mon, 20 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)rev-bot.com
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)bigcinema-house.ru
+cinema-arena.ru
+cinema-artblue.ru
+cinema-artic.ru
+cinema-breezy.ru
+cinema-hols.ru
+cinema-shade.ru
+3ds-ticketshop.ru
+satyr-breezy.ru
+satyr-shade.ru
+tour-dramakassa.ru
+artstandup-bilets.ru
+bar-stand-up.ru
+gostandup-bilets.ru
+tradex-coin.com
+stroytelny.com
+bonusgivv.shop
+kzstep.live
+oilplat.online
+transplatform.online
+bitlans.com
+bestcreativeclub.com
+globaldomshop.com
+yournamnow.com
+bonussuper.shop
+rev-bot.com
 revonline.co
 dkbm-web.autoinsm.org
 adscash-vpn.buzz
