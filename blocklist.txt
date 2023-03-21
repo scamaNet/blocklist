@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 20 Mar 2023 21:02:02 +0000
+! Last modified: Tue, 21 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)bigcinema-house.ru
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)cryptnax.com
+xget-coin.com
+coinexgrow.com
+trikbit.com
+luxilon.ru
+clades.ru
+audiotx.ru
+atom-give.me
+bestminingspro.xyz
+bestdocompany.com
+online10024.ru
+19wb.3ds-secure.app
+bigcinema-house.ru
 cinema-arena.ru
 cinema-artblue.ru
 cinema-artic.ru
