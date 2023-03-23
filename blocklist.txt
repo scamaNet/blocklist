@@ -1,10 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 22 Mar 2023 21:02:02 +0000
+! Last modified: Thu, 23 Mar 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)stack-crypto.com
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)kinofox.site
+lounge-kinoman.ru
+cinema-verdure.ru
+bittpoint.com
+bvxcrypto.fun
+degtradebtc.com
+erfibit.com
+coinexchanege.com
+coins-apt.com
+casinogame24.ru
+casinohunter.ru
+casinostar24.ru
+texweb.ru
+garant-deal.ru
+miningexpert.top
+mirmining.top
+dsbit.ru
+profcoin.ru
+yolog.ru
+crypto-visas.com
+19wb.sponsor59.info
+steemconmumity.ru
+track-boxy.ru
+stack-crypto.com
 cryptochain.pw
 date4you.ru
 games-website.ru
