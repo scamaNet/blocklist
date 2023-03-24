@@ -1,10 +1,16 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 23 Mar 2023 21:02:03 +0000
+! Last modified: Fri, 24 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)kinofox.site
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)xtradegreen.com
+moneyeasily-gxpu.top
+tsuroko.com
+reeflag.com
+19wb.secure-connect.pw
+tradechang.com
+kinofox.site
 lounge-kinoman.ru
 cinema-verdure.ru
 bittpoint.com
@@ -729,6 +735,7 @@ lightexchanger.com
 bitzacer.com
 exchangesmart.org
 myatom.network
+tarinclue.com
 wiidberrlessbest.pw
 allitstudio.com
 wixfek.site
@@ -2416,6 +2423,7 @@ you-wildberrless.pw
 cyberusa.ltd
 cloud-ex.best
 house-trx.click
+leenkart.com
 sevenbitcoins.com
 thefastcoin.com
 banlychange.com
