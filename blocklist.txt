@@ -1,10 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 24 Mar 2023 21:02:02 +0000
+! Last modified: Sat, 25 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)xtradegreen.com
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)adscash-npa.buzz
+golmoney.cfd
+kermoney.cfd
+netquiz.top
+shcash.sbs
+cinema-elegant.ru
+rommantic-cinema.ru
+cinema-float.ru
+bigcinema-mirage.ru
+better-pay.ru
+3ds-shopkass.ru
+reneva-pay.online
+afishatour-gastrol.ru
+comedi-gastroll.ru
+satyr-elegant.ru
+satyr-float.ru
+satyr-verdure.ru
+stanislavsky-dram.ru
+p2p-ru.site
+bitsgo.ru
+19wb.gift-60.pw
+xtradegreen.com
 moneyeasily-gxpu.top
 tsuroko.com
 reeflag.com
