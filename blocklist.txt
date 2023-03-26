@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 25 Mar 2023 21:02:02 +0000
+! Last modified: Sun, 26 Mar 2023 21:02:01 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)adscash-npa.buzz
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)steamcommuurntiy.com
+crypto-ee.store
+satyr-check.ru
+teatr-art.com
+luckyway.buzz
+sweepstakeswinner.buzz
+buzzlottery.buzz
+fortunefrenzy.buzz
+raffleroyale.buzz
+luckylottery.buzz
+winwheels.buzz
+adscash-npa.buzz
 golmoney.cfd
 kermoney.cfd
 netquiz.top
