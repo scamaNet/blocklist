@@ -1,10 +1,47 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 27 Mar 2023 21:02:02 +0000
+! Last modified: Tue, 28 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)crystal-play.online
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)bitexchanege.com
+sauna-lounges.ru
+sky-lounges.ru
+roofic-skyloves.ru
+bigcinema-blure.ru
+cinema-check.ru
+cinema-wernand.ru
+cinemaxxonix.ru
+imperialounge.fun
+lounges-kinoman.ru
+romantick-roomcinema.ru
+thecinemahalls.ru
+3ds-shopkass.online
+alerts-pay.online
+myout-pay3ds.online
+oneway-pay.online
+cryptoeng.online
+myticket-theater.site
+satyr-diligent.ru
+theater-afishe.ru
+ampkat.com
+betraio.com
+getswap.ru
+bepbits.com
+cryptohomepay.com
+currantbit.com
+exscrooge.com
+klofexchanger.com
+proftx.ru
+bitvexy.com
+stamfinace.cfd
+mining-cloud.top
+01lottery.starway.pw
+abboveewwaall.online
+bertuuynxxer.site
+onescponline.com
+yourzijonline.com
+crystal-play.online
 xget-exchange.com
 place-wallet.com
 lakstack-fer.buzz
