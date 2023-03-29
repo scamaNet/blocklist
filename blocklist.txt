@@ -1,10 +1,35 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 28 Mar 2023 21:02:02 +0000
+! Last modified: Wed, 29 Mar 2023 21:02:01 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)bitexchanege.com
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)the.planetofshoes.site
+steamcomunlilty.com
+staemcomunnity.com
+obmenkin.cfd
+rabota23.one
+perevod-online024.ru
+flowcoin.ru
+crypto-tech.store
+bitwux.com
+24btc.online
+bitcurren.net
+bitexchange.space
+bityanik.com
+bradtrade.space
+crypheine.com
+exbit24.net
+firstbit.space
+wenocrypto.com
+affloo.ru
+mining-clouds.top
+01lottery.wigglee.pw
+cvblive.com
+yourgbcnow.com
+yourviewmail.com
+zyhmart.com
+bitexchanege.com
 sauna-lounges.ru
 sky-lounges.ru
 roofic-skyloves.ru
@@ -83,6 +108,8 @@ satyr-verdure.ru
 stanislavsky-dram.ru
 p2p-ru.site
 bitsgo.ru
+lestin.ru
+slafix.ru
 19wb.gift-60.pw
 xtradegreen.com
 moneyeasily-gxpu.top
