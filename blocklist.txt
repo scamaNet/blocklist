@@ -1,10 +1,41 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 29 Mar 2023 21:02:01 +0000
+! Last modified: Thu, 30 Mar 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)the.planetofshoes.site
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)sky-fantastic.ru
+deskrill-pay.ru
+bigcinema-multiplex.ru
+cinema-panora.ru
+cinema-design.ru
+furgan-cinema.ru
+cinema-diligent.ru
+blue-fence.ru
+left-wing.ru
+side-entrance.ru
+billiexchang.com
+time-crypto.com
+deals-site.ru
+gasonly-onn.buzz
+adacrypt.co
+blttpoint.com
+coindot.us
+mtechno-top.com
+intm365.ru
+start-coin.ru
+centr-mining.top
+miningexp.top
+01lottery.trustfuly.net
+01lottery.trustbrowse.org
+bestbedstudio.com
+certuuynxxer.site
+dananao.info
+goiguru.com
+jouweriport.com
+kuasx.com
+wepago.com
+the.planetofshoes.site
 steamcomunlilty.com
 staemcomunnity.com
 obmenkin.cfd
@@ -12,6 +43,7 @@ rabota23.one
 perevod-online024.ru
 flowcoin.ru
 crypto-tech.store
+baluu-agents.com
 bitwux.com
 24btc.online
 bitcurren.net
@@ -807,6 +839,7 @@ help4babies.site
 casino-vulkano.online
 webweonline.com
 pkuostyn.nnew-wcsw.biz
+baluuagent.com
 video-e2.buzz
 cryptoviex.com
 polynexbit.com
