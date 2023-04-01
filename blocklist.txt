@@ -1,10 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 31 Mar 2023 21:02:02 +0000
+! Last modified: Sat, 01 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)woczqs.cn
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)xred-trade.com
+bayyblockmine.live
+steamncommnutiy.com
+barstandup-media.online
+barstandup-lounge.ru
+01lottery.invest12.pw
+safast.website
+gogobit.ru
+hdm.5kabox.online
+skill-wing.ru
+bitgox.online
+avanziz.com
+techno-logos.ru
+miningportal.top
+vtyqwe.com
+booking-mood.com
+invest-m.one
+woczqs.cn
 w.hostagehockey.cyou
 introducedeplore.cn
 steanconmuninty.ru
