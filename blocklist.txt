@@ -1,10 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 01 Apr 2023 21:02:02 +0000
+! Last modified: Sun, 02 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)xred-trade.com
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)mwork247.com
+mwork365.online
+forza-forza.com
+powbet.pro
+arvimagett.com
+wm-bt.site
+trikbit.co
+tapbiz.online
+triplercrypto.com
+premium-xcoin.com
+mainebit.com
+cryptmask.com
+vlkcfonilne.com
+ticket-online-process.online
+recent-pay.ru
+myticket-theater.online
+satyr-novel.ru
+five-trans.com
+super-mining.top
+miuyqq.com
+bafuqio.info
+xred-trade.com
 bayyblockmine.live
 steamncommnutiy.com
 barstandup-media.online
