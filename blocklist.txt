@@ -1,10 +1,32 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 02 Apr 2023 21:02:02 +0000
+! Last modified: Mon, 03 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)mwork247.com
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)steamcomrnmuity.com
+bitluw.com
+enocrypt.com
+excoinway.com
+crypto-join.store
+jexibit.com
+cinema-novel.ru
+cinematic-house.ru
+cinematic-lounge.ru
+elect-pay.ru
+winrose-pay.ru
+east-celling.ru
+my-ticket-theater.site
+satyr-platinum.ru
+01lottery.rewardspin.pw
+apps24.ru
+cointamp.com
+mirminingpro.top
+grootballow.com
+mlinaaaa.com
+vfszz.com
+aorrijjotumnil.site
+mwork247.com
 mwork365.online
 forza-forza.com
 powbet.pro
