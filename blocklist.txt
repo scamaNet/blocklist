@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 04 Apr 2023 21:02:02 +0000
+! Last modified: Wed, 05 Apr 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)chemesi-asa.buzz
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)allcoinapp.com
+cryptogemma.com
+cryptosinex.com
+giftbounty.pw
+eq-pay.pw
+ola-pay.xyz
+assist-wallet.com
+axebit.ru
+yeasy-skill.ru
+01lottery.giftbounty.pw
+firstmining.top
+sakass.host
+siribot.fun
+mvideo.icu
+chemesi-asa.buzz
 steamcommaunlty.com
 exhina.ru
 bitmetex.com
