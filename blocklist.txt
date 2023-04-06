@@ -1,10 +1,49 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 05 Apr 2023 21:02:03 +0000
+! Last modified: Thu, 06 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)allcoinapp.com
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)yhci3.kyzileq.top
+xcoin-trading.com
+bitbackop.com
+colletcvip.fun
+advmoney.cfd
+agmoney.sbs
+bosmoney.sbs
+clsmoney.cfd
+demoney.sbs
+dosmoney.sbs
+fasmoney.cfd
+hasmoney.cfd
+hmoney.cfd
+hosmoney.sbs
+jasmoney.cfd
+lasmoney.cfd
+lbsmoney.cfd
+ledmoney.cfd
+licash.cfd
+nmoney.sbs
+nsdmoney.cfd
+qosmoney.sbs
+smoney.sbs
+sosmoney.sbs
+vsmoney.cfd
+yesmoney.sbs
+ymoney.sbs
+zenmoney.sbs
+octoraterus.com
+taskco.ru
+cryptoway.store
+sweepstakes.pw
+gjfpas.com
+erdacorp.com
+systemct.com
+wcrjzs.co
+zynevent.com
+zynevente.co
+zynevente.net
+allcoinapp.com
 cryptogemma.com
 cryptosinex.com
 giftbounty.pw
