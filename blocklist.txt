@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 07 Apr 2023 21:02:02 +0000
+! Last modified: Sat, 08 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)mollibit.com
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)snakebits.ru
+textok.ru
+encybits.com
+bitgo24.com
+bymirc.com
+smartchange.world
+steamcommmnuity.ru
+popup-pay.online
+standupclub-afisha.ru
+standupclubs-afishe.ru
+double-smart.ru
+cdm.lucky-jobs.site
+winawards.pw
+mollibit.com
 offerapt.com
 satyr-emergent.ru
 satyr-sinai.ru
