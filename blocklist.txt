@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 11 Apr 2023 21:02:02 +0000
+! Last modified: Wed, 12 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)zarabank.org
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)koshelek.site
+cryptoneria.com
+one-cast.ru
+smart-dual.ru
+well-toss.ru
+cryptolync.com
+freespoter.com
+foqymap.pw
+protect-06.pw
+official-64.pw
+waxcoin.biz
+zarabank.org
 cryptbase.net
 flipcoine.com
 godt-invest.company
