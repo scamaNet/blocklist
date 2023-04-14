@@ -1,10 +1,37 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 13 Apr 2023 21:02:02 +0000
+! Last modified: Fri, 14 Apr 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)steamconmmuuntiy.com
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)satyr-piero.ru
+satyr-sheen.ru
+mimes-pay.ru
+orange-pay.online
+mirgan-pay.ru
+golden-pay.ru
+24multiplaxcinema.ru
+bigcinema-universe.ru
+by-stores.online
+cinema-filmora.ru
+cinema-jewel.ru
+cinema-piero.ru
+cinematic-city.ru
+furgans-cinema.ru
+loungex-cinema.ru
+bitsemix.com
+nortgame12.ru
+landchange.ru
+txmoney.ru
+head-level.ru
+logimjp.pw
+agentbeneficiar.com
+milswitch.com
+norrijjotumnil.site
+cloud-protect.pw
+support-live.pw
+jabkers.com
+steamconmmuuntiy.com
 steanconmmunlity.ru
 stearncormnunlty.com
 auxlim.com
