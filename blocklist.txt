@@ -1,10 +1,37 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 14 Apr 2023 21:02:03 +0000
+! Last modified: Sat, 15 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)satyr-piero.ru
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)goblintown.online
+sell-btc.com
+listen-cash.online
+crypto-home.store
+angerholding.com
+bit-nexus.com
+bitastrox.com
+bitmef.net
+bitpolaris.com
+buexbit.com
+coinwave.org
+dexhotby.com
+lefirex.com
+moondex.club
+mulxepro.com
+op-trade.com
+qubybit.com
+platigold.online
+kinoplexx.space
+lounges-cinemax.ru
+loan-pay.pw
+blitzcoin.ru
+quickget.store
+accounts-sale.ru
+mvideo.sbs
+officiall.pw
+payment61.info
+satyr-piero.ru
 satyr-sheen.ru
 mimes-pay.ru
 orange-pay.online
@@ -245,6 +272,7 @@ grootballow.com
 mlinaaaa.com
 vfszz.com
 aorrijjotumnil.site
+vitexeo.com
 mwork247.com
 mwork365.online
 forza-forza.com
