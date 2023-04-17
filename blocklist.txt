@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 16 Apr 2023 21:02:02 +0000
+! Last modified: Mon, 17 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)bitenis.com
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)matom-give.me
+steemcomnmuniity.com
+serf-bot.pw
+bitrapux.com
+trianglelineonline.com
+bizlize.com
+home-road.ru
+mount-cast.ru
+quick29.pw
+defend56.pw
+bitenis.com
 murswap.com
 a-technoworld.com
 bitdowngrade.com
