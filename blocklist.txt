@@ -1,10 +1,38 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 18 Apr 2023 21:02:02 +0000
+! Last modified: Wed, 19 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)steamcomnmunlity.ru
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)wiidberrlessvip.pw
+bititrox.com
+cinema-loungex.ru
+cinema-prosmotr.ru
+cinema-wipe.ru
+cinemamultiplax24.ru
+cinematic-arthouse.ru
+dooblescinema.ru
+relax-kinoroom.ru
+mainoplata.online
+mate-finance.ru
+3ds-kassabuy.online
+estradashow.online
+coin-flex.com
+reservebits.com
+bitnominex.com
+bitstenly.com
+bitrofix.com
+stone-tell.ru
+toss-up.ru
+fellow-oyj.com
+cryptoexch.store
+a-venda.ru
+kenzie.ru
+marketwebsell.online
+mvideo.wiki
+glob.flo-site.top
+pinguinarticleweb.com
+steamcomnmunlity.ru
 steancormunilty.ru
 spec-proect.ru
 alts-coin.com
