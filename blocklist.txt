@@ -1,10 +1,53 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 19 Apr 2023 21:02:02 +0000
+! Last modified: Thu, 20 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)wiidberrlessvip.pw
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)artmovie-cinema.ru
+cinema-glow.ru
+artstandup-afishe.ru
+artstandup-afishes.ru
+kvstandup-afisha.ru
+standup-afishabillet.ru
+standup-billetafisha.ru
+standupbillet-afisha.ru
+standupx-afisha.ru
+future-artwork.com
+platishort.online
+afisha-billets.ru
+artculture-afisha.com
+placeshow-afisha.ru
+p2p-site.site
+flyswap.io
+fly-exchange.com
+adscash-ste.buzz
+adscash-jxi.buzz
+steamcomnmumiity.com
+redcliffe-capital.online
+chelmsford-fund.online
+cryptocashpays.com
+avnbit.com
+bit-prime.com
+cryptocoln.website
+bitgo24.org
+coinsven.com
+crestobit.com
+crypto-exch.com
+hofbit.com
+bimerix.com
+bitspen.com
+ozonhend.pp.ru
+10-500rubley.blogspot.com
+virtual00.pw
+ggrreattestplaattform.online
+mypleasecomfortnumb.com
+pleasedonotdesign.com
+herrespgest.tk
+lessdenge.cf
+prenpurtolearro.cf
+reirosbumblas.ml
+wiidberrlessvip.pw
 bititrox.com
 cinema-loungex.ru
 cinema-prosmotr.ru
