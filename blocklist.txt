@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 20 Apr 2023 21:02:02 +0000
+! Last modified: Fri, 21 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)artmovie-cinema.ru
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)cryptolitx.com
+mdexcapital.com
+mixtcrypto.com
+symbol-nk.site
+changebitcoin24.online
+coinarbit.com
+steamconmmunrtiy.com
+pointbit.ru
+protect55.pw
+communityjoyful.com
+satisfactionsunnyonline.com
+suitelse.com
+swapchange.com
+wallone.cab
+artmovie-cinema.ru
 cinema-glow.ru
 artstandup-afishe.ru
 artstandup-afishes.ru
