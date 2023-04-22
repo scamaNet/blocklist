@@ -1,10 +1,42 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 21 Apr 2023 21:02:02 +0000
+! Last modified: Sat, 22 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)cryptolitx.com
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)bet-classic.com
+globalbtc.ru
+your-mount.ru
+mvideo.loan
+atom-drop.me
+n-tnk.com
+bitmet.net
+kvstandup-afishes.ru
+kvstandup-bilet.ru
+showbar-standup.ru
+standuptourticket.ru
+standupx-kassa.ru
+cinema-multiplax24.ru
+cinema-primex.ru
+cinema-sparkly.ru
+cinema-warm.ru
+cinematic-flex.ru
+lord-pay.ru
+platiseen.ru
+vodafone-pay.online
+caufrisunti.ml
+dodo-pizza-refid-1753.geclinigh.gq
+myget-else.com
+register45.pw
+biterscoin.com
+deo-afisha.ru
+gastrol-theater.ru
+satyr-warm.ru
+teatral-shows.ru
+teatralshow-kassa.ru
+theatres-afishe.ru
+theatrs-afishe.ru
+cryptolitx.com
 mdexcapital.com
 mixtcrypto.com
 symbol-nk.site
