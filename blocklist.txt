@@ -1,10 +1,62 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 24 Apr 2023 21:02:03 +0000
+! Last modified: Tue, 25 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
-! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)optionhot.net
+! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)double-wing.ru
+clubvulcant.com
+bitantrax.com
+moncryptos.com
+amcoin-btc.com
+exchetrade.com
+finbit.us
+bitpeax.com
+p2p-in.site
+steamcomnmuiity.ru
+steanmcommuninlty.ru
+steamcommunilty.com
+coins-liquidity.com
+ycryptas.com
+tipton-banks.com
+battlearbd.space
+instrutbft.space
+tuhscan.ru
+whatsappsbot.flarsgroup.com
+s41sg.sosazeh.top
+future-owh.com
+star-pay.online
+trust-pay.online
+rus-vistavka.com
+satyr-genuine.ru
+vistavki-afisha.ru
+vistavki-bilets.ru
+vistavkishow.ru
+4eth.ru
+truebitcoin.ru
+cost-pay.pw
+sendy-safet.online
+hog-beef.com
+bifnix.com
+biftex.io
+bitfirium.com
+bitlei.com
+bitlest.com
+bytuno.com
+cacoine.com
+cointufex.com
+cryptyse.com
+dizzywallet.com
+dollarexo.com
+firiumcoin.com
+inholds.com
+koxbit.com
+larbidex.com
+robaldex.com
+runebtc.com
+trxua.com
+zanmex.com
+optionhot.net
 defend99.pw
 support66.pw
 laiye.ru
