@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 26 Apr 2023 05:23:02 +0000
+! Last modified: Wed, 26 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mrathome.online
+just-payeer.com
+our-level.ru
+crypto-buy.store
+toyama.pro
+final10.pw
+king88.pw
+shukacar.com
 double-wing.ru
 clubvulcant.com
 bitantrax.com
