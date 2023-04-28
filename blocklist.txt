@@ -1,10 +1,69 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 27 Apr 2023 21:02:02 +0000
+! Last modified: Fri, 28 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+adsmoney.cfd
+ahmoney.sbs
+casmoney.cfd
+clrmoney.cfd
+cscash.sbs
+fcash.cfd
+gasmoney.cfd
+htmoney.sbs
+ikmoney.sbs
+ipmoney.cfd
+klmoney.cfd
+lkmoney.sbs
+lomoney.cfd
+lscash.sbs
+mamoney.sbs
+mdmoney.sbs
+memoney.cfd
+mgmoney.sbs
+mhmoney.sbs
+mjmoney.sbs
+mkmoney.sbs
+mlmoney.sbs
+mosmoney.cfd
+mxmoney.sbs
+mymoney.sbs
+mzmoney.sbs
+nedmoney.cfd
+okmoney.cfd
+opmoney.cfd
+qtmoney.sbs
+shwcash.sbs
+somoney.cfd
+sosmoney.cfd
+utmoney.sbs
+vosmoney.sbs
+wldmoney.cfd
+wscash.sbs
+xcash.sbs
+xpmoney.cfd
+xvmoney.cfd
+xwmoney.cfd
+xzmoney.cfd
+yhmoney.sbs
+coinsallex.com
+coinsfresh.com
+cryptofonix.com
+canaboyz.io
+mvideo.date
+town-wallet.com
+online-obmen.cc
+bitexchanger.exchange
+inform38.pw
+secureme62.pw
+buyelep-gapra.com
+elpholera.com
+jyuhhnovertuui.site
+legko.trade
+crypto-play.store
+teatre-kassa.com
 bigcinema-galaxy.ru
 cinema-pacer.ru
 cinema-roxy.ru
