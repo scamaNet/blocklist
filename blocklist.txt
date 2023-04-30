@@ -1,10 +1,35 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 29 Apr 2023 21:02:02 +0000
+! Last modified: Sun, 30 Apr 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitvsx.com
+luxcryp.com
+btc-sale.biz
+autext.ru
+adscash-esf.buzz
+adscash-nwb.buzz
+adscash-ooq.buzz
+adscash-wbu.buzz
+adscash-wby.buzz
+fomoney.cfd
+ktmoney.sbs
+wamoney.sbs
+cbonus.like-shop.site
+platadoom.online
+east-box.ru
+bigcinema-fantasy.ru
+bigcinema-movie.ru
+cinema-resolute.ru
+cinemashot.ru
+lounges-movies.ru
+movie-together.ru
+ozonhend.net.ru
+webcoilhike.com
+happygiv94.pw
+rollingbit.ru
 feedback17.pw
 casinoton.ru
 abc-technovolt.com
@@ -135,6 +160,7 @@ paratrainus.com
 thecasenow.com
 thefloeship.com
 your-blog-group.com
+zzzzzzzzz221.blogspot.com
 mrathome.online
 just-payeer.com
 our-level.ru
