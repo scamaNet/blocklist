@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 30 Apr 2023 21:02:02 +0000
+! Last modified: Mon, 01 May 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+freelance-services.ru
+steamcomnmunilty.com
+ao-capital.ru
+bitscore.ru
+lomeexch.online
+pharbit.com
+sf-b.pw
+financee.pw
+givme45.pw
+gekkon-colibrishop.com
+quiteclub.ru
+rustolica.online
+thegekkon-colibri.com
+tornbtc.com
+vanipex.com
 bitvsx.com
 luxcryp.com
 btc-sale.biz
@@ -1757,6 +1772,7 @@ vistovki-show.ru
 vistavka-sool.ru
 b6mynv.shop
 help-my-child.net.ru
+crystal-exchange.co
 jovun.pw
 babysober.com
 bestretllc.com
