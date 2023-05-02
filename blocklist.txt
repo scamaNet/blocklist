@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 01 May 2023 21:02:02 +0000
+! Last modified: Tue, 02 May 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+crestobit.net
+enrybit.com
+spartbit.com
+pypayeer.site
+level-side.ru
+ru.sellingonline.site
+cosmos-drop.me
+thanaizz.com
+bin-go-boom.com
+payholdline.online
+flychange.pro
+montana.exchange
+alcrobit.com
+cbonus.loto-box.shop
+inviteme29.pw
+gomoneystalker.com
+lyuhhnovertuui.site
+moneystalkeronline.com
+u1v2a.kivojuw.top
 freelance-services.ru
 steamcomnmunilty.com
 ao-capital.ru
