@@ -1,10 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 02 May 2023 21:02:02 +0000
+! Last modified: Wed, 03 May 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mintechfinance.com
+trustprimes.com
+usdbfinance.com
+easy-profit.cc
+bitrexis.com
+cashbitrex.site
+vlkstartgame.com
+ozongifts.pw
+better-line.ru
+fin-otpravka.ru
+tinkoff-account.ru
+casinobarriere.ru
+casinomer.ru
+casinoram.ru
+casinowod.ru
+firstgame12.ru
+gotegame12.ru
+nicegame12.ru
+tentionpay.online
+cryptorobotfx.pro
+finbook.info
+mega-gives.store
+perfect92.pw
+card34.pw
+probrilliantwaste.com
+usefinboutiqu.bond
 crestobit.net
 enrybit.com
 spartbit.com
