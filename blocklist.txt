@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 03 May 2023 21:02:02 +0000
+! Last modified: Thu, 04 May 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+fotask.ru
+blestbit.com
+mining-star.site
+skaosi.host
+extension-ring.ru
+talk-entrance.ru
+child-help.site
+help-childs.pw
+crystalsys.online
+globalsixopestatellc.com
+goldcoin21.pw
 mintechfinance.com
 trustprimes.com
 usdbfinance.com
