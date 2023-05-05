@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 04 May 2023 21:02:02 +0000
+! Last modified: Fri, 05 May 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+second-fling.ru
+moon-bit.net
+buytonex.cx.ua
+jablytrade.com
+allsixop-estate.com
+summerbonus.store
+type-c.pw
+bitfels.com
 fotask.ru
 blestbit.com
 mining-star.site
