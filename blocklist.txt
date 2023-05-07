@@ -1,10 +1,17 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 06 May 2023 21:02:02 +0000
+! Last modified: Sun, 07 May 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+steemconnunlty.ru
+wakors.com
+token-buyer.com
+silver-skill.ru
+cdm.loto-box.shop
+buycmonfil.com
+wiki-king-51.pw
 platabeer.ru
 vodafone-finance.ru
 coinraza.com
