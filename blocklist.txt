@@ -1,10 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 07 May 2023 21:02:02 +0000
+! Last modified: Mon, 08 May 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitlerz.com
+bitnelix.com
+coinwarm.site
+cryptopul.com
+cryptostag.online
+zoomexer.com
+alphyex.com
+bimescrypto.com
+bitcane.com
+bitmorc.com
+bitnescrypto.com
+bytmes.com
+coindron.com
+coinofrepublic.com
+nexus-exchange.store
+ranteis.com
+sainwex.com
+youkoine.com
+zelaxce.com
+cefi-exchange.com
+major-banks.com
+start-campstore.com
+opentruefn.quest
+zebridinis.com
+book-pad-29.pw
+bitmatexx.com
 steemconnunlty.ru
 wakors.com
 token-buyer.com
