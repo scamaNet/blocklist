@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 09 May 2023 21:02:02 +0000
+! Last modified: Wed, 10 May 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+coin-bro.com
+korbitr.com
+true-exchange.pro
+zeoncoin.com
+double-fling.ru
+cryptgates.com
+youtuber-cash.boats
+more-info69.pw
+bestbusinesssuccess-first.com
+feslist.com
+rusguanoinfo.ru
+start-autostopusa.com
 coincheck-exchange.com
 mel-bet.org.ua
 thallumaala.online
