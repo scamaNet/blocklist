@@ -1,10 +1,16 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 13 May 2023 21:02:03 +0000
+! Last modified: Sun, 14 May 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+4nv0h.vedukuf.top
+fopterrusnnert.site
+help-work15.pw
+btonesave.site
+btonesave.top
+bitflaers.com
 steamncommunity.com
 support-me39.pw
 dopterrusnnert.site
