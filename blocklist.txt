@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 17 May 2023 21:02:02 +0000
+! Last modified: Thu, 18 May 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+disarmbit.com
+coinreck.com
+frombit.ru
+mvideo.m-promo.ink
+vulksjangaming.com
+miningbitone.online
+gerneeebumkao.site
+add2info.pw
+luck2top.store
 sapfex.com
 qoinez.pw
 coinkexo.com
