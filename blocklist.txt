@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 18 May 2023 21:02:02 +0000
+! Last modified: Fri, 19 May 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+global.epe-olaud.top
+naqoneo.com
+cashcome-uou.buzz
+draxbit.com
+tokenvise.com
+account.miningok-pros.top
+nerneeebumkao.site
+get2free.ru
+app5today.pw
+portal2off.pw
+notification9.pw
+tap0now.pw
 disarmbit.com
 coinreck.com
 frombit.ru
