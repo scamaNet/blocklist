@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 19 May 2023 21:02:02 +0000
+! Last modified: Sat, 20 May 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+sumdestech.org
+faversharm-capital.online
+bitrezol.com
+buentex.online
+fincullt.com
+betaroxs.com
+furrozikanadolle.site
+nxtplace.online
+marketsites.online
 global.epe-olaud.top
 naqoneo.com
 cashcome-uou.buzz
