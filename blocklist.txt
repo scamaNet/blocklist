@@ -1,10 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 22 May 2023 21:02:02 +0000
+! Last modified: Tue, 23 May 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+sales-wave.ru
+ao-capital.online
+crapton.net
+depingr.space
+frswap.com
+janusproject.org
+tecrionex.com
+xunybit.com
+ivglarup.com
+heisensoft.com
+bitpromining.bond
+gertoppmikklof.site
+resultfinders-teslatop.com
+mega-hits.store
+2m5z.pw
+u2a2.pw
 temubread.com
 forxbits.com
 help4baby.pw
