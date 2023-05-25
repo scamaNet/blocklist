@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 24 May 2023 21:02:02 +0000
+! Last modified: Thu, 25 May 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bankofomega.online
+mega-action.ru
+bitsmartapp.com
+changelly.pw
+monetka.trade
+working.ink
+vertoppmikklof.site
+theadvancedmarkt.icu
+mlostcredon.com
+bitcmining.website
+84if.pw
+sb97.pw
+tutsoft.online
 forealbit.com
 money-easilyhuk.buzz
 one-change.ru
