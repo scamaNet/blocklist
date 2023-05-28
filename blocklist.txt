@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 27 May 2023 21:02:01 +0000
+! Last modified: Sun, 28 May 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+versbit.com
+hubochang.com
+bitsland.ru
+payment-for-you.online
+movie-cascade.ru
+miningcryptopro.pw
+hv94.pw
+slide43.pw
+crypto033.online
 bytfox.com
 serviceprocess.online
 astromovie.online
