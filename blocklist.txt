@@ -1,10 +1,15 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 30 May 2023 21:02:02 +0000
+! Last modified: Wed, 31 May 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+princessbet.ac
+altinj.ru
+mainbitmining.site
+top10prize.ru
+mystery3gift.top
 bankofomega.pro
 moneyeasily-has.top
 binswap.net
