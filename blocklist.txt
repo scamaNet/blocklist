@@ -1,10 +1,34 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 31 May 2023 21:02:03 +0000
+! Last modified: Thu, 01 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bit-score.us
+growexbit.com
+bitceo.us
+bitrapit.com
+cryptoflaxy.com
+wazeriex.com
+bifiscrypto.com
+bitlaun.com
+cashrevisited.com
+whitecoiner.com
+mvideo.m-promo.pw
+online-24hours.com
+t-options.com
+elleser-ca.xyz
+lpay.website
+theatr.website
+vulkgamres.com
+moldingbanks.com
+arvrgroup.com
+casinodin.ru
+cstar.hend.eu.org
+extra10hits.store
+like4me.top
+payeer-surf.com
 princessbet.ac
 altinj.ru
 mainbitmining.site
