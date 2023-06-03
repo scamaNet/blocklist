@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 02 Jun 2023 21:02:02 +0000
+! Last modified: Sat, 03 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+cinemagolden.ru
+cinemagrands.ru
+platsozons.online
+2vb3ds.ru
+cinema-panorama.online
+teatr-gastrol.ru
+theaters-afishas.ru
+nsbit.ru
+arbdoge-defi.com
+best7lee.cloud
+coinbap.com
+9bxgf.tyxetic.top
 exobtcapp.com
 getcryptogood.com
 goldwix.com
