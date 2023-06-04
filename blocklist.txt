@@ -1,10 +1,16 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 03 Jun 2023 21:02:02 +0000
+! Last modified: Sun, 04 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+tankirepley.ru
+doubleproduct.shop
+probitmining.online
+probitmining.site
+action10go.ru
+secure1me.cloud
 cinemagolden.ru
 cinemagrands.ru
 platsozons.online
