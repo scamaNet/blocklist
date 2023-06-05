@@ -1,10 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 04 Jun 2023 21:02:02 +0000
+! Last modified: Mon, 05 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitmorg.com
+cryptogos.com
+bybtrade.com
+exbycrypto.online
+hdm.cash-mix.site
+apexio.pro
+bytech.space
+exflybit.com
+fonbex.com
+jastway.com
+trackbit.io
+typeplester.com
+sonders.ru
+bitnetmining.pw
+giv4you.cloud
+king6secure.cloud
+action2go.store
 tankirepley.ru
 doubleproduct.shop
 probitmining.online
