@@ -1,10 +1,32 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 05 Jun 2023 21:02:02 +0000
+! Last modified: Tue, 06 Jun 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+jewkomeco.com
+risingup.in.net
+exchange-xnow.com
+xtrade-now.com
+aigalpha.com
+bitquare.com
+cointrym.com
+equatefx.org
+exocoin.net
+oftenbitcoin.com
+papacoin.online
+superb-coin.com
+bitoptix.org
+kryptcave.com
+steanmcomnmunitly.com
+gtcoin.ru
+want-bet.com
+cryptofindy.com
+mvideo.my-promo.icu
+bitnetmining.site
+action10top.ru
+2-a-stage.pw
 bitmorg.com
 cryptogos.com
 bybtrade.com
