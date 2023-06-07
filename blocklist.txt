@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 06 Jun 2023 21:02:03 +0000
+! Last modified: Wed, 07 Jun 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitswaphub.com
+versbits.com
+whitecoiners.com
+uwishi.host
+btpromining.online
+action10go.store
+1-a-giv.pw
+7-k-leash.pw
+casy.ozonhend.net.ru
+clifbit.com
 jewkomeco.com
 risingup.in.net
 exchange-xnow.com
