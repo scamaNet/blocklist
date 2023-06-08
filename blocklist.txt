@@ -1,10 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 07 Jun 2023 21:02:03 +0000
+! Last modified: Thu, 08 Jun 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+steamconmuniity.com
+youtuber-cash.com
+worldforcrypto.com
+coinzec.com
+crypto-equivalent.com
+bifixscrypto.com
+coinisk.com
+exclite.com
+mixicrypto.com
+syntagmo.com
+gigabank.ru
+changer4u.click
+go4megatop.ru
+5-b-side.pw
+coinbitswap.com
+crypnexus.com
 bitswaphub.com
 versbits.com
 whitecoiners.com
@@ -339,6 +355,7 @@ naqoneo.com
 cashcome-uou.buzz
 draxbit.com
 tokenvise.com
+sun-change.site
 account.miningok-pros.top
 nerneeebumkao.site
 get2free.ru
