@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 10 Jun 2023 21:02:02 +0000
+! Last modified: Sun, 11 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mvideo.my-promo.tech
+cryptoview.store
+tether-bit.com
+blurn-finance.ru
+bitcoinmin.space
+xuqurui8.pw
+cinema-inclusive.ru
+nextgrand-premier.online
 cryptomatrics.com
 rencoins.com
 livex.games
@@ -35,6 +43,7 @@ coinisk.com
 exclite.com
 mixicrypto.com
 syntagmo.com
+wildbes.top
 gigabank.ru
 changer4u.click
 go4megatop.ru
