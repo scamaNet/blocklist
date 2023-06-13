@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 12 Jun 2023 21:02:02 +0000
+! Last modified: Tue, 13 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+vulkangme.com
+youtuber-cash.beauty
+clickcryptos.com
+gigabank.online
+probitmin.pw
+mejexei7.pw
+pupikau8.pw
+help-baby.website
+kacca.cc
+crypto23.pro
 bitraiding.com
 cryptobizes.com
 progres-finance.ru
