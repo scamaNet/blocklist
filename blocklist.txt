@@ -1,10 +1,17 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 13 Jun 2023 21:02:02 +0000
+! Last modified: Wed, 14 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+steamcomnnify.ru
+bestboom-will-come.com
+businessboom-choice-come.com
+makeinv.site
+marketing-priceline.com
+ycetoy7.pw
+cycetoy7.pw
 vulkangme.com
 youtuber-cash.beauty
 clickcryptos.com
@@ -66,7 +73,6 @@ coinisk.com
 exclite.com
 mixicrypto.com
 syntagmo.com
-wildbes.top
 gigabank.ru
 changer4u.click
 go4megatop.ru
