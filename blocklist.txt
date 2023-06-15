@@ -1,10 +1,46 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 14 Jun 2023 21:02:02 +0000
+! Last modified: Thu, 15 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+coinxswap.com
+exchanges-coin.com
+sell-coin.com
+downgrade-crypto.com
+walletofstate.com
+aurora-bit.com
+bayex.net
+bitglux.com
+bitgroll.com
+bitnoma.com
+bitsyx.com
+deembit.com
+dorcex.com
+kloredex.com
+revolbyt.com
+blasting-art.store
+kaunasbank.com
+alphaexchangecoin.com
+coinspayerpay.com
+cridxcomp.com
+cryptoswaptoken.com
+cryptotokenpor.com
+dustcomp.com
+moneycryptotiger.com
+moneyexchangecoin.com
+swiftlyswapcoin.com
+ubcchangecoin.com
+usdccryptoree.com
+sonwex.com
+olimp-bet.pro
+probitmin.space
+probitmin.site
+belong-rain.com
+orientation-spend.com
+wrestle-tribe.com
+sofibit.com
 steamcomnnify.ru
 bestboom-will-come.com
 businessboom-choice-come.com
