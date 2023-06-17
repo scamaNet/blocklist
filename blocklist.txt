@@ -1,10 +1,39 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 16 Jun 2023 21:02:02 +0000
+! Last modified: Sat, 17 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+video-earn.homes
+videofunds.yachts
+feliz-pay.space
+bet-fair.win
+lounge-cinema.site
+gmvulkan.com
+secure-147.ru
+secure-148.ru
+secure-149.ru
+secure-151.ru
+secure-152.ru
+secure-153.ru
+secure-154.ru
+secure-155.ru
+secure-190.ru
+secure-199.ru
+secure-244.ru
+secure-273.ru
+secure-288.ru
+secure-301.ru
+secure-454.ru
+id93003.ru
+waiter-entertain.com
+bitminingsave.space
+clickhot4.pw
+coffe5g.pw
+expresss2.pw
+gigi9.pw
+cityshows-places.online
 drama-vaudeville.ru
 dramatheatore.ru
 dramaticopera-ballet.ru
