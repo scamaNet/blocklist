@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 17 Jun 2023 21:02:02 +0000
+! Last modified: Sun, 18 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitcorefin.com
+bitswagon.com
+btcgentle.com
+bytrox.com
+cryptotora.com
+tepfex.com
+green-xtrader.com
+mvideo.py-promo.icu
+steamrcomminuty.ru
+steamcomnmuinty.com
+payeer.works
+btc-bank.shop
+monoex.top
+p2p-tema.world
+btcoms.ru
+onlinebitmining.space
+presence-polish.com
+vt56yp.pw
+allvi5.pw
 video-earn.homes
 videofunds.yachts
 feliz-pay.space
