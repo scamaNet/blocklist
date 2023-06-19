@@ -1,10 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 18 Jun 2023 21:02:02 +0000
+! Last modified: Mon, 19 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+betlugo.com
+p2p-reg.site
+coinercrypto.com
+xlitecrypto.com
+mvideo.py-promo.online
+securecoins.space
+onlinebitmining.online
+competitionsjava.com
+greatinv.in.net
+sportsgreencafe.com
+big-deal-3.pw
+card-help-1.pw
+gift-send-6.pw
+bitwels.com
+exzobit.com
+veptex.com
+bytstal.com
+kfc.bnus.pro
 bitcorefin.com
 bitswagon.com
 btcgentle.com
