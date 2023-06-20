@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 19 Jun 2023 21:02:02 +0000
+! Last modified: Tue, 20 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+momentexchangecoin.com
+optimuschange.com
+ox-bit.com
+bitjabble.com
+steamcomnmunlty.com
+info-news-2.pw
+bitstormex.com
+exunex.com
+sb-maber.com
+royal-garant.ru
+info-news-2.pw
+games-greencoffeecenter.com
+getgames-coffee.com
+onlinebitmining.pw
 betlugo.com
 p2p-reg.site
 coinercrypto.com
