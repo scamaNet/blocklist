@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 20 Jun 2023 21:02:02 +0000
+! Last modified: Wed, 21 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+youtuber-video.xyz
+orgtokens.com
+fatonko.com
+kolerasewed.ru
+servernorilsk.online
+wowmuseum.ru
+zuzupepe.ru
+smartdeal.beauty
+topclass-premium.com
+netminingpro.online
+netminingpro.pw
+netminingpro.site
+giv-help-5.pw
+happy-candy-7.pw
 momentexchangecoin.com
 optimuschange.com
 ox-bit.com
