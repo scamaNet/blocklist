@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 21 Jun 2023 21:02:02 +0000
+! Last modified: Thu, 22 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+btcexmo.com
+goltoken.exchange
+video-p11.buzz
+hjtjrox.pw
+prankcallbot.online
+bechat.online
+legalkom.online
+allstepbywalk.com
+bestwalk-by-stepllc.com
+qsegcv.pw
+bgk7zz.pw
+getnotification6.pw
 youtuber-video.xyz
 orgtokens.com
 fatonko.com
@@ -739,6 +751,7 @@ jablytrade.com
 allsixop-estate.com
 summerbonus.store
 type-c.pw
+stearncommunillty.com
 bitfels.com
 fotask.ru
 blestbit.com
