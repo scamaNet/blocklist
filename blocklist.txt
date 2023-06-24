@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 23 Jun 2023 21:02:02 +0000
+! Last modified: Sat, 24 Jun 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+coines.org
+future-deflong.com
+teatre-etude.com
+cbonus.me-prize.site
+netbitcoinmining.space
+nailess-agent.com
+prosecute-mystery.com
+unlike-think.com
+esvil.ru
+epitaphii.ru
+bestnews5.pw
+ecs-llch.org
 buybitrix.com
 netbitcoinmining.pw
 delidengi.ru
