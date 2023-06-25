@@ -1,10 +1,16 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 24 Jun 2023 21:02:03 +0000
+! Last modified: Sun, 25 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+zco.ozonhend.net.ru
+banes-hunter.com
+private-bloodshed.com
+daveware.ru
+bitwaypro.space
+miningwaypro.pw
 coines.org
 future-deflong.com
 teatre-etude.com
