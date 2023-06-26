@@ -1,10 +1,35 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 25 Jun 2023 21:02:02 +0000
+! Last modified: Mon, 26 Jun 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+beobit.de
+asinustrade.com
+bbt-markets.com
+bitgenimi.com
+biturix.com
+cryptobitnixy.com
+cryptobixiz.com
+cryptolexio.com
+exby.fun
+exprice.net
+geminex.space
+getgovcoin.com
+mimexcrypto.com
+mitmerixcrypto.com
+mixizcrypto.com
+naturalov.ru
+reku.ink
+roxtrader.com
+mycloudbitmining.online
+profit-underline.com
+thigh-cold.com
+depart.buxclick.site
+derevostil-shop.ru
+el-max.ru
+quikclygiv3.pw
 zco.ozonhend.net.ru
 banes-hunter.com
 private-bloodshed.com
