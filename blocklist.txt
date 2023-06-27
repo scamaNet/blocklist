@@ -1,10 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 26 Jun 2023 21:02:03 +0000
+! Last modified: Tue, 27 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+fast-xtrade.com
+hostcryp.com
+redi-capital.com
+kryptaxis.com
+bitkers.com
+seoncrypto.com
+allbabaa.top
+amazonglobal-store.com
+checkme.store
+frendimall.com
+hepsibuiad.top
+hepsiburado.top
+miningwaypro.space
+dz-btc-professional.site
+justshoppo9.pw
+os.flo-sitepro.top
+cryptorush.store
 beobit.de
 asinustrade.com
 bbt-markets.com
@@ -30,7 +47,6 @@ depart.buxclick.site
 derevostil-shop.ru
 el-max.ru
 quikclygiv3.pw
-zco.ozonhend.net.ru
 banes-hunter.com
 private-bloodshed.com
 daveware.ru
@@ -4604,6 +4620,9 @@ trustbitt.com
 cryptocheep.com
 ros-kassa.com
 tdantey.com
+amazonra.top
+amazonro.top
+amazonrl.top
 egqatk.shop
 r.differdisregard.cn
 r.gradualjack.cn
