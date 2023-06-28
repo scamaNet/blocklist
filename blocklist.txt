@@ -1,10 +1,30 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 27 Jun 2023 21:02:02 +0000
+! Last modified: Wed, 28 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+exmoneychanege.com
+wallets-crypto.com
+btcxfly.com
+proswapcoin.com
+electbit.co
+payfulcoin.com
+loundebars.online
+help4childs.online
+life-for-child.site
+cryptobalance.store
+youtuber-cash.monster
+3d-mirmoney.online
+3dscase.online
+roomlive-cinema.ru
+mycloudbitmining.space
+steamncommurnity.com
+homepage4.pw
+scan-checks.pw
+hire-up.pw
+6ffo1.limerun.top
 fast-xtrade.com
 hostcryp.com
 redi-capital.com
