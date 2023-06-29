@@ -1,10 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 28 Jun 2023 21:02:02 +0000
+! Last modified: Thu, 29 Jun 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mvideo.py-promo.site
+astrofilms.online
+insta-3ds.ru
+syncedprocess.online
+zag-pay.xyz
+bitcotr.com
+wincoin.us
+hoslex.com
+artstandup-bilet.ru
+rjvalev.pw
+9bxgf.zoxydyl.top
+tlv9o.daxupuk.top
+cloudbitmining.site
+cloudbitmining.pw
+perfect-lead.pw
+transfercardy.pw
 exmoneychanege.com
 wallets-crypto.com
 btcxfly.com
