@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 01 Jul 2023 21:02:02 +0000
+! Last modified: Sun, 02 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+ru-ticket19445.ru
+openwaypointup.in.net
+smartquest.space
+bopjmum.pw
+fiwjdaq.pw
+mvideo.py-promo.store
+villette-capital.online
+criptogi.online
+freyze.ru
+accessyou.pw
+addmyme.pw
 24coins.org
 modulwallet.com
 phoenix-trader.com
