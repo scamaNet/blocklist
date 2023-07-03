@@ -1,10 +1,42 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 02 Jul 2023 21:02:02 +0000
+! Last modified: Mon, 03 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+park-fims.online
+fastexchangecrypto.com
+omegachangecoin.com
+black-servers.com
+main-foorm.com
+olipurainc.com
+changer-coin.com
+crypto-opt.us
+swapchange.biz
+ravelexchange.com
+allcoin-trading.com
+exchange-xclub.com
+foxechange.com
+axebit.pro
+blayzebit.com
+cryptolemix.com
+cryptonemix.com
+mefixcrypto.com
+nimerixcrypto.com
+bitxtradin.com
+bitviller.com
+enicrypt.com
+fixmarket.org
+openocean.cc
+cryptolandx.com
+bingoboom-eu.com
+easy-much.ru
+money-easilyryo.buzz
+miningcoincloud.space
+gold-coins.pw
+cointiply.net
+steamconmnminty.ru
 ru-ticket19445.ru
 openwaypointup.in.net
 smartquest.space
