@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 03 Jul 2023 21:02:02 +0000
+! Last modified: Tue, 04 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitexoz.com
+bitmintex.com
+coingabs.com
+cryptonexio.com
+finaptex.com
+dreembit.ru
+abf-b.biz
+zzap.store
+bitcloudpro.space
+zjromir.pw
+by-markets.site
+fastdelivery1.pw
+log-analys.pw
+show-match.pw
+work-three.pw
 park-fims.online
 fastexchangecrypto.com
 omegachangecoin.com
