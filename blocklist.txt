@@ -1,10 +1,32 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 06 Jul 2023 21:02:02 +0000
+! Last modified: Fri, 07 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+altxbit.com
+greenxbit.com
+bittexchangecrypto.eu
+cavobit.co
+uniswap-wallet.com
+apexglo-bal.com
+catalystfx.org
+jeenswap.com
+jesbit.co
+stawswap.com
+hypealiens.gives
+bitlexo.com
+bitmerks.com
+frosbyt.com
+money-easilriq.buzz
+money-easilyvlz.buzz
+moneyeasily-ldg.top
+mvideo.py-promo.sbs
+wopjluk.pw
+rate-up.pw
+simple-house.pw
+glob.flo-sitepro.top
 cryptostairss.com
 eloa.ru
 rabotadoma24.com
