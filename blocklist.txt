@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 07 Jul 2023 21:02:02 +0000
+! Last modified: Sat, 08 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+teamrsjc.com
+bexwey.com
+bitgraund.ink
+cxema-p2p.online
+catuwid.pw
+erenomro.com
+ernm-pro.biz
+wildberryopinion.ab-567.com
+cashrewardpoll.plaqadiip.com
+mega2023prz.store
+bighits2023.ru
+rate-app.pw
 altxbit.com
 greenxbit.com
 bittexchangecrypto.eu
