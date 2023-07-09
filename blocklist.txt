@@ -1,10 +1,53 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 08 Jul 2023 21:02:02 +0000
+! Last modified: Sun, 09 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitcale.com
+bitcpayment.com
+avaoida.com
+cassillon.com
+coscliduo.com
+nehovpini.com
+patustingind.com
+vossicabulat.com
+walleda.net
+btcbot.biz
+generalkinoroom.site
+mvideo.py-promo.cyou
+olipu-rainc.org
+blrw-sf.org
+vranc-w.org
+galeriabuyer.com
+lootbit.biz
+go-ripple.com
+josebit.co
+josebits.com
+regbit.net
+rinibit.com
+kuexc.net
+cryptofirium.com
+techh.org
+usiwi.host
+okoew.com
+changenoww.com
+money4click-bkv.buzz
+money4click-bqg.buzz
+money4click-hpt.buzz
+money4click-kfw.buzz
+money4click-obc.buzz
+money4click-oye.buzz
+money4click-uem.buzz
+money4click-wby.buzz
+silver-talk.ru
+blrwsf.com
+vrancworld.com
+main10prize.store
+home-land.pw
+kyfydar.pw
+lawjqow.pw
 teamrsjc.com
 bexwey.com
 bitgraund.ink
