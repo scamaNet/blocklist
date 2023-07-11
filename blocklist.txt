@@ -1,10 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 10 Jul 2023 21:02:02 +0000
+! Last modified: Tue, 11 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+xclub-trader.com
+swapex24.com
+steamcomnnmunlty.com
+dkbm-web.autolns.net
+futuredef.com
+exhibition-ticket.com
+accoza.com
+cryptoupper.com
+coinmew.com
+learning-expert.ru
+eg67t.qalyqex.top
+solve-exchange.org
+220-volt.online
+220-вольт.store
+makitasib.store
+ми-стор.shop
+стройбазар.store
+flip-triple.pw
 premiumxcoin.com
 bitmasc.com
 crypto-bittrex.com
