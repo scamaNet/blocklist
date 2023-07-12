@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 11 Jul 2023 21:02:02 +0000
+! Last modified: Wed, 12 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+yourchangecoin.com
+x-changecoin.com
+this-exchange.com
+bitswiftly.com
+bithitex.com
+bitwaze.us
+cryptobexis.com
+menixcrypto.com
+millenniums-wallet.com
+joycasi.com
+mvideo.py-promo.ink
+gift-cardys.pw
+sdpummel.buzz
 xclub-trader.com
 swapex24.com
 steamcomnnmunlty.com
