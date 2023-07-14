@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 13 Jul 2023 21:02:02 +0000
+! Last modified: Fri, 14 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+money-easilywod.buzz
+irrealcoin.com
+cosmicexchangecoin.com
+benixcrypto.com
+bitprimx.com
+impact-trade.net
+wazebit.com
+brain-platinum.ru
+timetrust.in.net
+yourapparelsurf.com
+zavifo.site
+ursoveti.ru
+go4prztoyou.store
+type-beat.pw
+rb-oprosec.top
 coinreed.com
 steamcommnurntiy.com
 50trades.com
