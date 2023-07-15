@@ -1,10 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 14 Jul 2023 21:02:02 +0000
+! Last modified: Sat, 15 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+money-easilrrn.buzz
+moneyeasily-owb.top
+prolinkworld.com
+crypgalaxy.com
+mvideo.py-store.cfd
+steamcomnunyty.ru
+superbinary24.com
+bfsuop.com
+kyburuw.pw
+miqinjz.pw
+base-swallow.com
+call-drag.com
+reliablenexup.in.net
+qbp4u7.pw
+gift-tooday.pw
+network-limited.pw
 money-easilywod.buzz
 irrealcoin.com
 cosmicexchangecoin.com
