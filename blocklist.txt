@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 16 Jul 2023 21:02:02 +0000
+! Last modified: Mon, 17 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+fast-trader.com
+getxcoin.com
+it-xtrade.com
+this-xcoin.com
+you-exchange.com
+charge-site.online
+public-afisha.online
+vulkjangams.com
+iptech.host
+cryptoswaptoken.com
+smart-wayze.pw
 cloudurbanbank.com
 cty-tb.com
 perfectmoney.pro
