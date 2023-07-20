@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 19 Jul 2023 21:02:02 +0000
+! Last modified: Thu, 20 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+westfundline.com
+vuwumez.pw
+hoofentor.com
+itopy.fun
+night-drive.pw
+power-green.pw
+secure-this.pw
+shopping-cart.pw
+9dollarovplus.blogspot.com
 trust-docs.pw
 lazy-cat.pw
 steancomninuty.com
