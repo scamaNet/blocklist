@@ -1,10 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 22 Jul 2023 21:02:02 +0000
+! Last modified: Sun, 23 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+it-xbit.com
+xgreen-exchanges.com
+style-cinema.online
+mvideo.m-promo.art
+3ds-2vb-s.online
+theatre-ticets.online
+toribit.com
+glob.flo-vipsite.top
+benign.ru
+garant-vn.ru
+olevita.ru
+one-garant.ru
+open-gaming.ru
+taruta.ru
+westgame.ru
+gigamiw.pw
+zrcs00.space
 ru-pay531.ru
 steamcammunity.com
 mvideo.py-promo.uno
