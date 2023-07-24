@@ -1,10 +1,13 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 23 Jul 2023 21:02:02 +0000
+! Last modified: Mon, 24 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitlitex.org
+klnozone.site
+lrdglp.space
 it-xbit.com
 xgreen-exchanges.com
 style-cinema.online
@@ -13,6 +16,7 @@ mvideo.m-promo.art
 theatre-ticets.online
 toribit.com
 glob.flo-vipsite.top
+okamatires.ru
 benign.ru
 garant-vn.ru
 olevita.ru
