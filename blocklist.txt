@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 24 Jul 2023 21:02:02 +0000
+! Last modified: Tue, 25 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+sibdelivery.ru
+cryplex.exchange
+green24.exchange
+oldmoney.pro
+mixexchange.site
+eu-exchanger.com
+coinshift24.net
+keoncrypto.com
+bitlep.com
+villebit.com
+bitproper.com
+bitspois.co
+xbit-trade.com
+iptake.host
+bssrnatters.com
+komfortini.ru
+mevonoq.pw
+qwib0y.space
+n3z6ui.space
 bitlitex.org
 klnozone.site
 lrdglp.space
@@ -427,6 +446,7 @@ dz-btc-professional.site
 justshoppo9.pw
 os.flo-sitepro.top
 cryptorush.store
+transsiberiancargo.ru
 beobit.de
 asinustrade.com
 bbt-markets.com
