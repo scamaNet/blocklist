@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 25 Jul 2023 21:02:02 +0000
+! Last modified: Wed, 26 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+klamer.ru
+ipbase.host
+coinwax.us
+bopdart.com
+brvllc.com
+becien.com
+ausscipol.com
+cynjads.com
+bigmixprize.ru
+chsorb.space
+moecdi.space
+stzwyk.space
+i-tradentifyca10.site
 sibdelivery.ru
 cryplex.exchange
 green24.exchange
@@ -26,6 +39,7 @@ qwib0y.space
 n3z6ui.space
 bitlitex.org
 klnozone.site
+zalandovip.com
 lrdglp.space
 it-xbit.com
 xgreen-exchanges.com
