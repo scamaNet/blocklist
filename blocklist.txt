@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 26 Jul 2023 21:02:02 +0000
+! Last modified: Thu, 27 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+vomoney.cfd
+dom-vtb.ru
+defex.top
+hubrex.io
+remarks-belownow.com
+finance-hilarious.com
+active10prz.ru
+gjzxnz.space
+ewuesn.space
+thronebit.com
 klamer.ru
 ipbase.host
 coinwax.us
