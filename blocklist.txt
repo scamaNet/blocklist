@@ -1,10 +1,94 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 27 Jul 2023 21:02:02 +0000
+! Last modified: Fri, 28 Jul 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+artscoin.online
+avanbyt.com
+befixcrypto.com
+bemiscrypto.com
+bestbitrix.com
+binescrypto.com
+binolio.com
+bitchargex.com
+bitexdeo.com
+bitfuryx.com
+bitgexo.com
+bitlirex.com
+bitlour.com
+bitnils.com
+bitoxez.com
+bitraun.com
+bitrazo.com
+bitrinx.com
+bylewers.com
+bytdao.com
+bytgenix.com
+bytlines.com
+bytneo.com
+bytnow.com
+bytnox.com
+bytorg.com
+bytsky.com
+cefax.com
+cezarbit.com
+coingane.com
+coinlistbtc.com
+coinvexo.com
+crypmid.com
+crypto24.cloud
+cryptoexlab.com
+cryptofirum.com
+cryptofitrex.com
+cryptomedrix.com
+cryptomefix.com
+cryptomenlix.com
+cryptomexiz.com
+cryptomirenix.com
+cryptonemfix.com
+cryptoserviceus.com
+cryptotirex.com
+cryptotresix.com
+cryptovind.com
+divenex.com
+exbyt.com
+exlirex.com
+exosbit.com
+exwaybit.com
+ezby.pro
+gardencityai.com
+gazebit.com
+gitolexlend.com
+gobitdex.com
+gofrodex.com
+gomaxbit.com
+hatbyt.com
+hotbyt.com
+jetxcrypto.com
+keon-crypto.com
+kreobyt.com
+kukbit.com
+loxade.com
+lurixbit.com
+megabitrix.com
+mexiscrypto.com
+miexbit.com
+migeefx.com
+mircoin.online
+osmobtc.com
+pexade.com
+primetradercryp.com
+strixcter.com
+sufinbtc.com
+terbyt.com
+vauldbit.com
+vemobit.com
+waydexus.com
+xupbit.com
+active10prz.store
+xdmnq7.space
 vomoney.cfd
 dom-vtb.ru
 defex.top
