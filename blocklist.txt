@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 28 Jul 2023 21:02:03 +0000
+! Last modified: Sat, 29 Jul 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+coingex.org
+alteraex.com
+bitopro.online
+gatemex.com
+leatbit.com
+gross-exchange.com
+fjwyshc.com
+02f2xx.space
+gmkkv0.space
 artscoin.online
 avanbyt.com
 befixcrypto.com
