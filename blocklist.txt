@@ -1,10 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 01 Aug 2023 21:02:02 +0000
+! Last modified: Wed, 02 Aug 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+villebits.com
+mvideo.py-promo.shop
+24bitok.com
+coinspriced.com
+nicibit.com
+4-a-lucky.pw
+bemixcrypto.com
+bitlida.com
+bitoflow.com
+bytnero.com
+bytrive.com
+coinmatreex.com
+cryptomelix.com
+cryptotex.cc
+cryptoup.site
+elepty.com
+lenixcrypto.com
+shortners.com
+swaplog.com
+tabxbit.com
+tirbyt.com
+ux-trade.com
+prostocript.ru
 era-moment.ru
 caipsgcorp.com
 flipphones9.buzz
