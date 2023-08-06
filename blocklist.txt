@@ -1,10 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 05 Aug 2023 21:02:02 +0000
+! Last modified: Sun, 06 Aug 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+ru-id540.pw
+ru-market.online
+coin-ti.com
+golfimes.com
+sathwala.com
+altasemtia.com
+mvideo.m-promo.click
+truesuhd.com
+oplatap2p.online
+tinkofz999.blogspot.com
+rand100prize.ru
+cool500prize.ru
+happy-flippy4.pw
+real-mand5.pw
+str3tbok.pw
+bitcoin-review.com
 exchange-bitcoin.ru
 steamcommnunrtiy.com
 delta-spring.ru
