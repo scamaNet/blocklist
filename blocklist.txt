@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 11 Aug 2023 21:02:02 +0000
+! Last modified: Sat, 12 Aug 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+stexbet.com
+bitmixy.com
+pay3dsafe.ru
+seamcommuninty.com
+beta-exciting.ru
+wildberries-778.dicedares.com
+gtd-a.biz
+buytralbreak.com
+toptral-gap.com
+greenpagestudy.pw
+scorecheckquickly.pw
+giantfishcloue.pw
 cryptomus.cam
 coin-placed.com 
 cryptoclubcoin.com
