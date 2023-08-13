@@ -1,10 +1,50 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 12 Aug 2023 21:02:02 +0000
+! Last modified: Sun, 13 Aug 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+stlemcomunnily.ru
+kriptonew.online
+geoxbit.com
+daddy-cryptos.com
+sipohmmee.com
+taste-hommiellc.com
+bookparadise.site
+wildberries-589.siswa62.life
+wildberries-596.dicedares.com
+wildberries-654.polka.coffee
+win-367.polka.coffee
+win-win-943.polka.coffee
+afterhorsedoll.pw
+minijacklight.pw
+yearlightwhite.pw
+id479022.ru
+id74583234.ru
+id74894234.ru
+id79514421.ru
+id812348.ru
+id841293.ru
+id8947264.ru
+id9432714.ru
+id9484953.ru
+id9485264.ru
+id94871824.ru
+id97584572.ru
+id98395264.ru
+lotsmoney.site
+ostsmoney.site
+trymoney.site
+usermoney.online
+userpays.online
+videomoney.site
+vidsmoney.site
+visitdengi.online
+visitmoney.online
+visitpay.online
+wordsmoney.site
+worksmoney.site
 stexbet.com
 bitmixy.com
 pay3dsafe.ru
