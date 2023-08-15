@@ -1,10 +1,69 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 14 Aug 2023 21:02:02 +0000
+! Last modified: Tue, 15 Aug 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+vaobitex.com
+4o4q6.labepyw.top
+chesto-bank.com
+week-line.ru
+setherx.com
+syntycoin.com
+akrobtc.com
+bitbacs.com
+bitzdex.com
+bytflaer.com
+cryptomitixy.com
+exstex.com
+gabsbit.com
+neirocoin.com
+stamp-bit.com
+glowexchange.net
+cryptopuls-exchange.com
+zeuschange.cc
+61-323.lativ.xyz
+71-214.autofair-1.games
+ggdeal.online
+la-danback.com
+muszwave.com
+giantcrabwannalove.pw
+ropelikeswipe.pw
+bimpetuous.com
+impetuous-b.org
+anycryptoswap.org
+avd-sergey.xyz
+bit24swap.com
+cashdais.com
+coinexchange.fun
+coinvinefx.com
+crypto-bot.su
+crypto-opt.pro
+cryptocorby.space
+cryptodth.com
+cryptonetic.pro
+cryptoslambo.com
+etherswapping.com
+exchangeverum.com
+fnftbitcoin.com
+getchange.top
+goldmintrarecoins.com
+maincoin.pro
+mega-change.com
+mementoexchange.net
+multibitchange.com
+olyxtrade.online
+op-swap.com
+primexpay.com
+rocketchange.pro
+rschange24.online
+solvecrypto.tech
+solvexchange.org
+stormexchange.io
+tenswap24.com
+transfer24.tech
+zeusexchange24.com
 fomar.ru
 kantry.ru
 rarura.ru
@@ -2341,6 +2400,7 @@ gokarmapolice.com
 mymusemousse.com
 access03.pw
 protected83.pw
+coinglowexchange.io
 matom-give.me
 steemcomnmuniity.com
 serf-bot.pw
@@ -2367,6 +2427,7 @@ teatres-afisha.ru
 teatres-kassa.ru
 right-line.ru
 ozonhend.space
+zeuscrypto-change.com
 work55.pw
 rethbit.com
 goblintown.online
