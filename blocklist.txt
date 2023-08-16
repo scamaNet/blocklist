@@ -1,10 +1,39 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 15 Aug 2023 21:02:03 +0000
+! Last modified: Wed, 16 Aug 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+casinogol.ru
+casinofun.ru
+secure-1308.ru
+ru-stores.website
+cinema-bliss.ru
+pobtexer.com
+bitronium.com
+firedexen.com
+dexerbit.com
+bitwils.com
+binoptclub.com
+mvideo-promo.click
+mvideo.id-promo.online
+4o4q6.kemarer.top
+best-month.ru
+co-elysam.org
+coelysam.com
+geny-dzc.org
+genydzc.com
+veta-xiom.org
+vetaxiom.com
+xtvrcade.com
+xtvr-c.org
+eclips-pay.pro
+all-maceo.com
+korpollab.com
+crownsetcheap.pw
+krunchflanch.pw
+liteflipaddgif.pw
 vaobitex.com
 4o4q6.labepyw.top
 chesto-bank.com
