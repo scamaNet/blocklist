@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 17 Aug 2023 21:02:02 +0000
+! Last modified: Fri, 18 Aug 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+steanconmnmunity.ru
+mon-reve.ru
+aerfully.com
+x-payment.xyz
+good-monday.ru
+zgcmxy.com
+xcsvc.com
+win-5k.k55a.buzz
+win-5k.k-31.buzz
+square-check-reward.pw
+xldangroup.com
+xgreen.space
 pormbit.com
 aptevex.com
 cryptoxmusk.com
