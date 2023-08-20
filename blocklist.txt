@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 19 Aug 2023 21:02:02 +0000
+! Last modified: Sun, 20 Aug 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+hobit.trade
+p2p-wow.top
+ocmoney.sbs
+leyderkoy.com
+rolly-bolty.com
+thesenseofboar.com
+thecodefiniive.com
+starfalltooodaytwo.pw
+profcliffstate.pw
+s28s9.tujenyd.top
 mts-pay.shop
 art-estrade.com
 4o4q6.purehyt.top
