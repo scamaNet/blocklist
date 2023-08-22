@@ -1,10 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 21 Aug 2023 21:02:02 +0000
+! Last modified: Tue, 22 Aug 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+rastopix.com
+exonbit.com
+bitstoks.com
+bybitak.com
+bitglobal.app
+coinfloor.net
+primebit.top
+tramexcrypto.com
+eurocrystal.online
+betapks.com
+waxgo.net
+keytotal.ru
+delta-cover.ru
+kztgame.space
+smart-game.space
+leviafolly.pw
+mycarpehkrem.com
+sorentodreamsin.com
+zenithtechhub.in.net
+greeni.space
+foexloret.site
 xgreen.fun
 grxbit.com
 go-xbit.com
@@ -2907,6 +2928,7 @@ rabota23.one
 perevod-online024.ru
 flowcoin.ru
 crypto-tech.store
+smartgame.cash
 baluu-agents.com
 bitwux.com
 24btc.online
