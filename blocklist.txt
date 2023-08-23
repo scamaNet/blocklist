@@ -1,10 +1,56 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 22 Aug 2023 21:02:02 +0000
+! Last modified: Wed, 23 Aug 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+crypsterchange.com
+bittorg.ru
+bit-trade.net
+swapelon.com
+acripte.online
+adscashkhh.buzz
+adscashkvz.buzz
+adscashtnp.buzz
+adscashtvo.buzz
+adscashugg.buzz
+adscashune.buzz
+adscashxgk.buzz
+adscashxpg.buzz
+adscashxvx.buzz
+armoney.cfd
+cromoney.cfd
+futmoney.cfd
+ibmoney.cfd
+obmoney.sbs
+retmoney.cfd
+bitzipy.com
+premium-xbit.com
+coinxstax.com
+onecryptex.com
+33-bit.com
+bariwex.com
+bitcoinkoin.com
+bitmers.com
+celobix.com
+coinfinityx.com
+cryptofenixis.com
+cryptogrand.online
+dellester.com
+jolytex.com
+licebit.com
+openhauls.com
+promcoin.com
+traubit.site
+stellawallet.com
+silverbusters.com
+sky-evening.ru
+x-payment.org
+rub.hidbyw.buzz
+ambiliko-evil.com
+river-drive.buzz
+win-informo.buzz
 rastopix.com
 exonbit.com
 bitstoks.com
@@ -77,6 +123,8 @@ x-payment.xyz
 good-monday.ru
 zgcmxy.com
 xcsvc.com
+rolli-bolli.com
+nu-whytheydodontbuy.com
 win-5k.k55a.buzz
 win-5k.k-31.buzz
 square-check-reward.pw
