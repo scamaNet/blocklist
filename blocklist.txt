@@ -1,10 +1,32 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 25 Aug 2023 21:02:02 +0000
+! Last modified: Sat, 26 Aug 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+lastcoin.top
+crypto-bot.com.ru
+cryptoshark.ink
+ex-change24.org
+jonin.ru
+onechange.pro
+star-exchange.shop
+cryptoyou.store
+send-messages.ru
+whiteex.top
+p2p-new.site
+erudit.one
+you-rich.one
+style-cosmo.ru
+eclips-pay.online
+word-cup.ru
+pay-succes.ru
+sunnobelikehim.com
+justonestuffcarpet.com
+collectwin.buzz
+chanceinformo.buzz
+iptesa.fun
 extrobit.com
 solyum.com
 expert-open.ru
@@ -86,6 +108,7 @@ sorentodreamsin.com
 zenithtechhub.in.net
 greeni.space
 foexloret.site
+wenm.ru
 xgreen.fun
 grxbit.com
 go-xbit.com
