@@ -1,10 +1,32 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 26 Aug 2023 21:02:02 +0000
+! Last modified: Sun, 27 Aug 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+market-biletov.ru
+film-fushion-de.site
+casinvuljkan.com
+system-1642.ru
+steamcomnmuntly.com
+steancommunitl.com
+steemcomyniti.ru
+ipkot.fun
+topgreen.space
+aurumbit.com
+bitmille.com
+coinlai.com
+esl-market.com
+fozebit.com
+joixcoin.com
+naobitex.com
+phistic.com
+stixbex.com
+butlod.com
+tashgame.site
+todayform.buzz
+newsiconlight.buzz
 lastcoin.top
 crypto-bot.com.ru
 cryptoshark.ink
