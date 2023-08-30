@@ -1,10 +1,39 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 29 Aug 2023 21:02:02 +0000
+! Last modified: Wed, 30 Aug 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+tg.help-for-babies.site
+forcebex.com
+ekriptel.online
+grinne.site
+cryptoocean.info
+alpcex.com
+bitcoin-capital.rubitverge.net
+coingroll.com
+cryptoexhub.com
+cryptoverum.com
+exbitrex.com
+jibiarbit.net
+shelizorb.com
+vombit.com
+secureward.ru
+bitcpan.com
+btc-xspace.com
+depxbit.com
+rulbit.com
+vollbit.com
+officialbestgiftreward.buzz
+luckyprizequick.buzz
+gloryfromabove.site
+burningdesirtire.com
+mounkomaguide.com
+parfumqueeny.com
+lux10prize.ru
+max1000win.ru
+financefuture.top
 coinsideline.com
 cryptoexshark.online
 cosmo-room.online
