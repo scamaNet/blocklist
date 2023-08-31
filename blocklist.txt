@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 30 Aug 2023 21:02:02 +0000
+! Last modified: Thu, 31 Aug 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+nelbyt.com
+token-uniswap.org
+portus-banking.com
+swap-way.com
+kuvalda77.ru
+heavenlyfruits.site
+allpoymihg.com
+moonkoma.com
+auto10gift.ru
+nomber10go.store
 tg.help-for-babies.site
 forcebex.com
 ekriptel.online
