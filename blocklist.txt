@@ -1,10 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 01 Sep 2023 21:02:02 +0000
+! Last modified: Sat, 02 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+trisbit.com
+westfex.com
+bitleadex.com
+coinexfox.com
+golfxbit.com
+agoing.ru
+legend-ll.ru
+xplay10x.online
+dramatheatre.online
+aymoney.cfd
+botmoney.sbs
+duxmoney.cfd
+ivmoney.cfd
+izmoney.sbs
+oamoney.sbs
+odmoney.sbs
+oimoney.sbs
+submoney.cfd
+wromoney.cfd
+imbecilewipe.com
+kaolinclub.com
+help-social.site
+help-people.site
 coinkeyn.com
 bitbosk.com
 boxebit.com
@@ -39,7 +62,8 @@ ekriptel.online
 grinne.site
 cryptoocean.info
 alpcex.com
-bitcoin-capital.rubitverge.net
+bitcoin-capital.ru
+bitverge.net
 coingroll.com
 cryptoexhub.com
 cryptoverum.com
