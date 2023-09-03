@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 02 Sep 2023 21:02:02 +0000
+! Last modified: Sun, 03 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+nexus-pay24.com
+experience-flood.ru
+sxdicai.com
+sxdi-cai.co
+online-sbp-perevod.site
+digress-chemistry.com
+request-length.com
+twilight-cou.com
+alggivhappy.site
+starconnectstart.shop
 trisbit.com
 westfex.com
 bitleadex.com
