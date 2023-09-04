@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 03 Sep 2023 21:02:02 +0000
+! Last modified: Mon, 04 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+oplata-market.online
+cimena-films.online
+grand2bishop.shop
+build6hope.shop
+cage-healthy.com
+clique-mechanism.com
+wording-pride.com
+win-5k.e-5ka.buzz
 nexus-pay24.com
 experience-flood.ru
 sxdicai.com
