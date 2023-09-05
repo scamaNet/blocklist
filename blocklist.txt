@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 04 Sep 2023 21:02:02 +0000
+! Last modified: Tue, 05 Sep 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+avm-ex.top
+book-info.life
+coinly.biz
+bitbounca.com
+swapus.org
+tourbit.net
+labcoinhub.com
+aeralsweb.com
+aerals-web.co
+gift-virtual.site
+craftyhands.in.net
+think-article.com
 oplata-market.online
 cimena-films.online
 grand2bishop.shop
