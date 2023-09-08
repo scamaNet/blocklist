@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 07 Sep 2023 21:02:02 +0000
+! Last modified: Fri, 08 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+steamcommumify.ru
+steamcommunmiity.com
+volteriks.com
+atosbit.co
+foxynex.com
+vstvulcasin.com
+ishicyber.com
+ishi-cyber.co
+evallvellc.com
+evall-vellc.co
+q94iq3bb.buzz
+g-tnv.top
+redcolingi.com
+swipethisbrown.com
+whittenessie.com
 mnefsplj.shop
 truvintago.com
 truvin-tago.co
