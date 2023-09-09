@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 08 Sep 2023 21:02:02 +0000
+! Last modified: Sat, 09 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitfrostys.com
+bittmix.net
+bitcdot.com
+bitcfom.com
+bitexcost.com
+lascbit.com
+lollibit.com
+kyrosbit.com
+nzmx5fma.shop
+3aimxnux.site
+duttiboke.com
+ecowavejourney.fun
+h-tnv.top
+bitbot-autotrade.com
 steamcommumify.ru
 steamcommunmiity.com
 volteriks.com
