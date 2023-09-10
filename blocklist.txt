@@ -1,10 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 09 Sep 2023 21:02:02 +0000
+! Last modified: Sun, 10 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+axeldigital.biz
+bonnbit.com
+baksbit.com
+planetofbet.pro
+steamcommuntily.com
+sup-future.com
+kassa-teatre.com
+bormoney.cfd
+dscashnbi.buzz
+dumoney.cfd
+elmoney.cfd
+lefmoney.cfd
+ormoney.cfd
+romoney.cfd
+ubmoney.cfd
+cuppercoin.com
+livqbic.com
+liv-qbic.org
+d-tnv.top
+easytechnet.in.net
+joyrideaccom.com
 bitfrostys.com
 bittmix.net
 bitcdot.com
