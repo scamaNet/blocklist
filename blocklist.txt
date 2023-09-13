@@ -1,10 +1,40 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 12 Sep 2023 21:02:02 +0000
+! Last modified: Wed, 13 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+promo-mvideo.tech
+grandsix.com
+nyimex.com
+litex.world
+revenue.ink
+vegaschips.xyz
+zipfoxcoin.com
+eu-bingoboom.com
+bitorx.com
+crptcoin.in.net
+bitcrax.com
+bitfixesy.com
+greedtrading.com
+avalance.space
+bitnikex.com
+crypto-capitan.com
+cryptoapm.online
+cryptoinvestminners.com
+oneroyalexchange.com
+zsinocme.com
+fastxtrade.com
+technomarket-top.com
+bigxcrypto.com
+binary-empire.com
+a-tnq.top
+doppingeymer.com
+fricatesom.com
+prribludaok.com
+zaftrafree.com
+izd-catalog.site
 bitbude.com
 bitzerex.com
 mizuex.com
