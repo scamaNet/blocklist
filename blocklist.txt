@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 13 Sep 2023 21:02:02 +0000
+! Last modified: Thu, 14 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bithight.com
+coinfoxi.com
+cointous.com
+exeneos.com
+beastnano.com
+bilexdao.com
+bonus-storis.online
+cryptoshift.pro
+fmgflash.com
+leanqer.com
+p2p-make.site
+safewin.pro
+rabotavdohod.ru
+mi-boom.store
+work-day.site
+b-tnq.top
+c-tnq.top
+instalmoons.com
+witchhere.com
 promo-mvideo.tech
 grandsix.com
 nyimex.com
