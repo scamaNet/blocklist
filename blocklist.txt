@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 14 Sep 2023 21:02:02 +0000
+! Last modified: Fri, 15 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+euro-crystal.online
+zoplens.com
+terraquare.com
+shelbet.com
+cryptocurrint.com
+cryptolocaly.com
+sept-pay.pw
+d-tnq.top
+e-tnq.top
+foodiedelights.in.net
+formulapeer.com
+remuneraters.com
+plt-b.ru
 bithight.com
 coinfoxi.com
 cointous.com
