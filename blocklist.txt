@@ -1,10 +1,94 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 15 Sep 2023 21:02:02 +0000
+! Last modified: Sat, 16 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+billlinks.com
+brentrust.com
+bulltrustllc.com
+capitalassetfin.com
+crestplc.ltd
+csbank.asia
+equityglobalinvestmentbank.com
+etbdiscovery.com
+feu-b.com
+finserve.live
+firstmonumentoffshore.com
+ginnest.com
+guaranteesterling.com
+kutxonline.com
+marigoldheritage.net
+metropolis-capital.online
+mycashtag.info
+nexatrustbank.com
+novatrustcorporation.com
+ocjsb.com
+pacificglobalcu.online
+reliableapexbnk.online
+silveroakoffshore.com
+skyealliedtrust.com
+vbmerchant.com
+vcrbi.net
+xendtrusts.com
+balanceadder.online
+money-easilvwr.buzz
+money-easilyibr.buzz
+money-easilyoln.buzz
+money-easilyuop.buzz
+moneyeasily-chn.top
+moneyeasily-diqm.top
+moneyeasily-ewo.top
+moneyeasily-fqd.top
+moneyeasily-frv.top
+moneyeasily-fuxi.top
+moneyeasily-gxji.top
+moneyeasily-hflo.top
+moneyeasily-jgr.top
+moneyeasily-jtx.top
+moneyeasily-jua.top
+moneyeasily-kgne.top
+moneyeasily-kkw.top
+moneyeasily-lxg.top
+moneyeasily-mdx.top
+moneyeasily-qgmn.top
+moneyeasily-qgo.top
+moneyeasily-qxy.top
+moneyeasily-sgk.top
+moneyeasily-slb.top
+moneyeasily-xpq.top
+moneyeasily-xqy.top
+moneyeasily-xvp.top
+moneyeasily-yvuo.top
+moneyeasily-zjve.top
+2bitstamp.com
+bitelbit.com
+bitexola.com
+invliviana.com
+inv-liviana.co
+deotecffp.com
+deotec-ffp.co
+ayrovetech.com
+ayrove-tech.co
+opentimecx.com
+opentime-cx.co
+gortanse.com
+bitexm.com
+bitkara.com
+broker-bitcoin.com
+razebit.com
+security-vk.site
+stoxbex.com
+sukhumvit.homes
+flower4earn.shop
+great5bubble.online
+aids-commis.com
+apathyzaur.com
+f-tnq.top
+fitnessjourney.in.net
+groundsroots.com
+husbandgirls.com
 euro-crystal.online
 zoplens.com
 terraquare.com
