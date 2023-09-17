@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 16 Sep 2023 21:02:02 +0000
+! Last modified: Sun, 17 Sep 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+valmaron.com
+markecx.com
+qebcoin.com
+wixpays.online
+drama-theatre.online
+star.pp.ru
+4yy1ki.shop
+cordfork.com
+g-tnq.top
+h-tnq.top
+wiseinvestments.in.net
 billlinks.com
 brentrust.com
 bulltrustllc.com
