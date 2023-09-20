@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 19 Sep 2023 21:02:02 +0000
+! Last modified: Wed, 20 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+steamcommmnutiy.ru
+eboxchange.com
+dramtheatre-afisha.com
+d-ggp.top
+awemazedev.com
+n-tnq.top
+o-tnq.top
+poisonspens.com
+responsiblesave.com
 klodossoft.fun
 clockembryo.com
 deputyexecution.com
