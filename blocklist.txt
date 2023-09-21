@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 20 Sep 2023 21:02:02 +0000
+! Last modified: Thu, 21 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+cashkro.com
+cryptofixit.com
+dabxbit.com
+labxcoin.com
+vk-support.ru
+keerbos.org
+coinix.us
+first-trade.cc
+super10ftp.store
+alcoholdiscovery.com
+brotheranticipation.com
+tnk-b.top
+tnk-c.top
 steamcommmnutiy.ru
 eboxchange.com
 dramtheatre-afisha.com
@@ -1400,6 +1413,7 @@ gross-exchange.com
 fjwyshc.com
 02f2xx.space
 gmkkv0.space
+coral-tour.online
 artscoin.online
 avanbyt.com
 befixcrypto.com
