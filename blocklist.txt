@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 23 Sep 2023 21:02:02 +0000
+! Last modified: Sun, 24 Sep 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+dexway.io
+trade-crypto.money
+vibitex.com
+cinema-fun.com
+glob.flowipo.buzz
+gzp-a.top
+kemn.webroad-myhouse.top
+kemn.getready-flip.top
+eventualriches.com
+tnk-h.top
+tnk-i.top
+tnk-u.top
+webfuturecash.com
+starclassifier.tb.ru
 2team-meret.xyz
 bitflowex.com
 crypto-exchanege.com
