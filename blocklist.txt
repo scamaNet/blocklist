@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 24 Sep 2023 21:02:03 +0000
+! Last modified: Mon, 25 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+alpha-connect.ru
+bootfrex.com
+cryptobafix.com
+hiltbit.com
+leqbit.com
+lifetrade.pro
+neuronia.io
+ordinaullswaullet.site
+qebbit.com
+one.goldtrader.site
+kemn.filteragaintop.cfd
+kemn.flipgif-4you.cfd
+kemn.getmygif-3two.cfd
+tnk-y.top
+tnk-r.top
+rockattractive.com
+ministersecular.com
+reinventimagine.com
+btcvblog.markfridman.online
 dexway.io
 trade-crypto.money
 vibitex.com
