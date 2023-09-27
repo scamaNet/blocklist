@@ -1,10 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 26 Sep 2023 21:02:02 +0000
+! Last modified: Wed, 27 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+notgreen.site
+aralbit.com
+bitsxcore.com
+poloxbit.com
+tedex.tech
+0rrdinalswallet.com
+cryptodezox.com
+public-help.ru
+yzzycoin.com
+high-place.ru
+nuriost.com
+max1000top.store
+gzp-d.top
+gzp-e.top
+gzp-h.top
+quandovolto.com
+tin-a.top
 stearnocommunity.com
 bitpail.com
 masvins.com
