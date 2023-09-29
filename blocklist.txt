@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 28 Sep 2023 21:02:02 +0000
+! Last modified: Fri, 29 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+moneybonus.site
+os.flowipo.buzz
+fortuna-pay.xyz
+sept-pay.xyz
+theatredram-afisha.com
+tip-bet.net
+sliwex.com
+uniswap-coin.com
+pzzwq.removepractice.cfd
+sipaiso.yaqbv-wepk.buzz
+aggiungeretale.com
+dreamdestination.in.net
+cinekomng.com
+cinkom-ng.co
+aceslogisticsgroup.com
 gzp-o.top
 pzzwq.securefullanalyzecfd.cfd
 coppiaanche.com
