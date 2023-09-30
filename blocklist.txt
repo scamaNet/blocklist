@@ -1,10 +1,45 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 29 Sep 2023 21:02:02 +0000
+! Last modified: Sat, 30 Sep 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitave.us
+bitfaxet.com
+bitzily.com
+cointofiat.com
+polyapty.com
+qwarebit.com
+sparksbit.co
+bitlirnex.com
+eraltex.com
+ramxbit.com
+weetbit.com
+bitvales.com
+coin-market.org
+cryptofinxy.com
+cyptostudy.su
+exodus-tranche.com
+finexbit.net
+swepbit.com
+grammy-banking.com
+wxwtdc.com
+agtagtech.com
+agtag-tech.co
+grievatas.com
+gri-evates.org
+porisact.net
+aisbit.com
+coingrols.com
+cryptobary.com
+deriv-trader.com
+docoin.us
+metapaids.com
+poecointradesite.space
+gzp-z.top
+tin-b.top
+tranquilloinizio.com
 moneybonus.site
 os.flowipo.buzz
 fortuna-pay.xyz
@@ -239,6 +274,7 @@ moneyeasily-zjve.top
 2bitstamp.com
 bitelbit.com
 bitexola.com
+wnxjy.com
 invliviana.com
 inv-liviana.co
 deotecffp.com
