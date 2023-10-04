@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 03 Oct 2023 21:02:02 +0000
+! Last modified: Wed, 04 Oct 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+novaquare.com
+probitmex.com
+geecbit.com
+jetabit.com
+phemmex.net
+ekutin.com
+x50bonuses.store
+consolecodded.cfd
+visualjscode.cfd
+collocento.com
+dimostraremigliaia.com
+piuttostodifficoltf.com
+tin-l.top
+tin-m.top
 biwym.com
 maycryp.com
 vulkanltd.com
