@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 05 Oct 2023 21:02:02 +0000
+! Last modified: Fri, 06 Oct 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+binfinax.com
+biralo.ru
+cointex.space
+caesk.com
+coinmorg.com
+cryptoberryx.com
+lentrixcrypto.com
+dutchgrp.com
+the-xcoin.com
+egcwmc.com
+deal4best.ru
+extra50x5.ru
+canedipingere.com
+stranosperanza.com
+tin-p.top
+tin-q.top
+trattoindovinare.com
+valorelibro.com
+roxcasino.store
 vulkanltd.com
 lumentara.com
 ltdexchanger.com
