@@ -1,10 +1,34 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 06 Oct 2023 21:02:02 +0000
+! Last modified: Sat, 07 Oct 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+onejob.cfd
+vipmoney.cfd
+zipmoney.cfd
+cinema-made.ru
+cinema-miraz.ru
+cinemahous.ru
+cinemas-star.ru
+dramtheats.ru
+theatre-of-drama.ru
+theatres-drama.ru
+theatresdramas.ru
+bitterox.com
+monster-high-rus.ru
+znainashix.ru
+fast50prz.ru
+good90prz.ru
+istoomoo.cfd
+quinkgoly.cfd
+bellezzaindustria.com
+craftyhands.space
+schiavosera.com
+tin-r.top
+tin-s.top
+visitaferrovia.com
 binfinax.com
 biralo.ru
 cointex.space
