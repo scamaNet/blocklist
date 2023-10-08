@@ -1,10 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 07 Oct 2023 21:02:02 +0000
+! Last modified: Sun, 08 Oct 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+steamcommmunitiy.com
+bitexcost.net
+bitufrex.com
+violbit.com
+marketbitx.com
+coindropped.net
+sevivoss.com
+sev-vivoss.co
+markfridman.site
+hi100best.ru
+max500prz.ru
+przs4your.ru
+9kwin200.cfd
+accrellso.cfd
+airloftys.cfd
+apentosuccesso.com
+direttoradice.com
+forniresarebbe.com
+grassocontrollo.com
+tin-1.top
+tin-2.top
+tin-3.top
+toccarearrivare.com
 onejob.cfd
 vipmoney.cfd
 zipmoney.cfd
@@ -3253,6 +3276,7 @@ just-payeer.com
 our-level.ru
 crypto-buy.store
 toyama.pro
+steemcomnmuniity.ru
 final10.pw
 king88.pw
 shukacar.com
