@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 08 Oct 2023 21:02:02 +0000
+! Last modified: Mon, 09 Oct 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+all4prize.ru
+good90prz.store
+100giv4903prize.cfd
+giv4magic.cfd
+affarepiedi.com
+fornituramorire.com
+tin-5.top
+tin-6.top
+tin-7.top
+tin-8.top
+exchangergo.com
 steamcommmunitiy.com
 bitexcost.net
 bitufrex.com
