@@ -1,10 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 09 Oct 2023 21:02:02 +0000
+! Last modified: Tue, 10 Oct 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+smkdly.com
+coin-wind.com
+digitalexchangex.com
+first-cent.com
+swap-btc.com
+getxbit.com
+bitrider.xyz
+by-markets.com
+dreamfrance.ru
+fizebit.com
+secandsafe.ru
+top-trades.net
+hosstronic.com
+hoss-tronic.co
+qitracks.com
+waisbit.com
+cash4life.ru
+long-step-back.cfd
+colonnaamore.com
+piediidea.com
+tin-0.top
+tkf-a.top
+tkf-b.top
 all4prize.ru
 good90prz.store
 100giv4903prize.cfd
