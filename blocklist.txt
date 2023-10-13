@@ -1,10 +1,32 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 12 Oct 2023 21:02:02 +0000
+! Last modified: Fri, 13 Oct 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+goaldbit.com
+bitnext.us
+protechno-amc.com
+bitcrowx.com
+biterrex.com
+skybitax.com
+granmariy.com
+ellbuy.com
+globalize.pro
+globalize.finance
+opata-n203.ru
+lentomania.z5ka.top
+news2910msg.shop
+green2940way.shop
+main3819score.shop
+erbadimostrare.com
+ordinefolla.com
+poveroprobabile.com
+seinsegnare.com
+tkf-m.top
+tkf-n.top
+tkf-o.top
 vulkanptld.com
 xcoinchanger.com
 bitwus.com
