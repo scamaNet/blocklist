@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 14 Oct 2023 21:02:02 +0000
+! Last modified: Sun, 15 Oct 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+pacobit.com
+exodus-coins.com
+excheng-money.top
+comfortnay-pay.xyz
+inox1gold.store
+just50prz.store
+passochiave.com
+suonoposizione.com
 spxup.com
 flats-line.ru
 hipass500.store
