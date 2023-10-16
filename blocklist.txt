@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 15 Oct 2023 21:02:03 +0000
+! Last modified: Mon, 16 Oct 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+manifesto-bank.com
+nofixat.com
+let50xl.ru
+max200x.ru
+like194giv.top
+my1043giv.click
+u9812prize.click
+a-tnf.top
+panepietra.com
+regolastampa.com
+spettacolodone.com
+tkf-s.top
 pacobit.com
 exodus-coins.com
 excheng-money.top
