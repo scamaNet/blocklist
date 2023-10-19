@@ -1,10 +1,37 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 18 Oct 2023 21:02:03 +0000
+! Last modified: Thu, 19 Oct 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+coinrare.org
+bitlou.com
+nomica.pro
+filin-yan.online
+gatrixon.com
+finalpay.site
+forbos.site
+ristop.site
+wetlio.com
+jimyhoy031.buzz
+elegant-exchanges.click
+fancy-finds.click
+getsunenergy.click
+piwylefubefu.top
+trendy-trinkets.click
+ascensoreoltre.com
+continentesuggerire.com
+gaminggenius.site
+k-tnf.top
+l-tnf.top
+m-tnf.top
+n-tnf.top
+o-tnf.top
+myfrlathome.net
+max200x.store
+max50go.store
+next1go.store
 blockchainera.net
 rabotadoma.info
 head-one.ru
