@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 20 Oct 2023 21:02:02 +0000
+! Last modified: Sat, 21 Oct 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+capitalprimefx.com
+coinlinkhub.com
+coinzfx.com
+cryptobiroc.com
+ler-final.online
+glob.floukur.buzz
+moon-bet.net
+gamivulkan.com
+vulkanigame.com
+pay-experts.com
+fastlivetrading.com
+asciuttoramo.com
+marchiooggetto.com
+frontalecondizione.com
 extra4930gift.cfd
 lee-final.online
 manteneretenuto.com
@@ -187,6 +201,8 @@ top-trades.net
 hosstronic.com
 hoss-tronic.co
 qitracks.com
+emirex.io
+maticdex.com
 waisbit.com
 cash4life.ru
 long-step-back.cfd
