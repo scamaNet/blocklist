@@ -1,10 +1,76 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 21 Oct 2023 21:02:03 +0000
+! Last modified: Sun, 22 Oct 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+coinconnectx.com
+beastbex.com
+beastbitx.com
+beastmex.com
+binaryxio.com
+bolenex.com
+bycoynex.com
+byxspacex.com
+chetnex.com
+coinelonup.com
+cryptezos.com
+crysterex.com
+dunmex.com
+elonxworld.com
+emspacex.com
+floidex.com
+galaxybycoin.com
+horanex.com
+komslex.com
+korleox.com
+koymex.com
+letorex.com
+lybitex.com
+melandcoin.com
+moontenx.com
+pylwex.com
+raftbit.com
+ranadex.com
+rockpax.com
+rockwix.com
+ryznex.com
+sapxbit.com
+sawtesla.com
+saywes.com
+skytorex.com
+somsbit.com
+spacexup.com
+spadexo.com
+sticbit.com
+stockwex.com
+tondrex.com
+trade-musk.com
+unixnft.com
+updofex.com
+upspacex.com
+upurex.com
+valmaroff.com
+vellydex.com
+wastrex.com
+wuobi.com
+xnetex.com
+xqeex.com
+xvese.com
+zesisbit.com
+quaers.com
+some-science.ru
+a-itnv.top
+b-itnv.top
+c-itnv.top
+capovolonta.com
+d-itnv.top
+e-itnv.top
+lontanoproprio.com
+materialestudios.com
+tki-o.top
+tki-q.top
 capitalprimefx.com
 coinlinkhub.com
 coinzfx.com
@@ -81,6 +147,7 @@ beraxbit.com
 spectr-invest.ru
 johcoin.com
 tokenscup.com
+moonupx.com
 full-golos.online
 milrelation.com
 matrix-pay.xyz
