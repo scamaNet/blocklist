@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 23 Oct 2023 21:02:02 +0000
+! Last modified: Tue, 24 Oct 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bufwex.com
+genwex.com
+muskxtech.com
+wxmcoin.com
+coincris.com
+ruw-final.online
+cloud-pagetrust3923.cfd
+tap-me-prize3992.click
+malumnunc.com
+numerabitisnavale.com
+reddedie.com
+scriboacutus.com
+tki-e.top
+tki-r.top
 crypto-bit.store
 connectesmir.online
 dramatheateres.ru
