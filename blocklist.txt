@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 26 Oct 2023 21:02:02 +0000
+! Last modified: Fri, 27 Oct 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+shellgreen.site
+secure-1852.com
+corpusauxilium.com
+etimple.com
+quaecathedra.com
+sperarecell.com
+igz-e.top
+igz-r.top
+igz-t.top
 nord-final.online
 droobalestqrar.com
 acerxf.com
