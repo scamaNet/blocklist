@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 27 Oct 2023 21:02:02 +0000
+! Last modified: Sat, 28 Oct 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitinmo.com
+locantquietum.com
+postquamdifferunt.com
+reliquatenuis.com
+salplanum.com
+tik-r.top
+tik-t.top
+tik-w.top
+igz-i.top
+igz-o.top
+igz-u.top
+igz-y.top
 shellgreen.site
 secure-1852.com
 corpusauxilium.com
