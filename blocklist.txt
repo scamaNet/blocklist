@@ -1,10 +1,51 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 31 Oct 2023 21:02:02 +0000
+! Last modified: Wed, 01 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitunax.com
+btc-musk.com
+rabexbit.com
+bitnensy.com
+coinfinel.com
+elonder.com
+fellycoin.com
+gexobit.com
+guapmax.com
+koruxbit.com
+kovrex.com
+kunainvest.com
+kvitrix.com
+kybitex.com
+musktrades.com
+polconiex.com
+pulsecex.com
+sunxtrade.com
+swapbitx.com
+teslaxon.com
+vebeton.com
+xbstmode.com
+xcoinspace.com
+zoyrix.com
+otp-market.com
+win-5k.z5ka.buzz
+client-reservation.world
+glob.flokdhgt.buzz
+d-igz.top
+o-igz.top
+s-igz.top
+inwearsimple.shop
+best-prize012.shop
+bonus-prize912.shop
+gogocargo.click
+ghiacciocarica.com
+raggiocapo.com
+tif-e.top
+tif-q.top
+tif-w.top
+uovoalleviare.com
 childs-helping.pp.ru
 aisebit.com
 beastdox.com
