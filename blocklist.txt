@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 01 Nov 2023 21:02:02 +0000
+! Last modified: Thu, 02 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+midl-finance.shop
+standup-kvartira.me
+stecmcommunnity.com
+bstsea.com
+leardex.com
+quanchair.com
+spacevil.com
+wetarex.com
+coinmafx.com
+kemn.6los0bn.beauty
+kemn.beautywearshop.click
+kemn.shadowdarkness.fun
+profonditagettare.com
+salvarecon.com
+tif-i.top
+tif-p.top
+tif-u.top
+vtrwo-qwe.cloud
+24miragecinema.space
 bitunax.com
 btc-musk.com
 rabexbit.com
