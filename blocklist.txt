@@ -1,10 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 02 Nov 2023 21:02:02 +0000
+! Last modified: Fri, 03 Nov 2023 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+chang4you.top
+izinfo24.life
+frosbit.com
+ringo-bet.com
+planetofbetlive.pro
+akah-nent.org
+akahnent.com
+kb-giris.co
+kbgiris.com
+oco-digi.co
+ocodigi.com
+vinn-tiv.org
+vinntiv.com
+kemn.makeupcleans.beauty
+kemn.cleanwildbuild.beauty
+kemn.9kmowvf.sbs
+b-ttk.top
+bitsoggiornare.com
+c-ttk.top
+tempoinverno.com
+tif-a.top
+tif-d.top
+tif-s.top
+unavoltapotuto.com
+vereficarsiacciaio.com
+extra50x5.store
 midl-finance.shop
 standup-kvartira.me
 stecmcommunnity.com
