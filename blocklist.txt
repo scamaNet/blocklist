@@ -1,10 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 04 Nov 2023 21:02:02 +0000
+! Last modified: Sun, 05 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bezbit.com
+bitexbuy.com
+depwex.com
+doydex.com
+hennycoin.com
+lavbit.com
+litwex.com
+muskflow.com
+muskxfuture.com
+nextcores.com
+spacedotrade.com
+veluxion.com
+ladoxybit.com
+kemn.bxgift294.fun
+kemn.huge-make-394.beauty
+kemn.right-click-599.beauty
+kemn.simple-today-434.beauty
+crickrockstudio.com
+diamondsshinestudio.com
+kdu-t.top
+liquidglassstudios.com
+lorenzoearnest.com
+ucd-q.top
+z-ttk.top
+aonebit.com
+giobits.com
 eldorado.guest-properity.click
 gogreens.site
 kiyowex.com
