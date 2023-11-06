@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 05 Nov 2023 21:02:02 +0000
+! Last modified: Mon, 06 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+one-centre.ru
+help-child-now.pw
+sberbit.com
+kemn.5agift14x.sbs
+kemn.eu-gifts-394.beauty
+kemn.finfixsite.beauty
+pagecommunitygroup.com
+quibusosse.com
+tti-b.top
+tti-c.top
+urbancreativesdesign.com
 bezbit.com
 bitexbuy.com
 depwex.com
