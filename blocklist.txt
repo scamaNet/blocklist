@@ -1,10 +1,42 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 07 Nov 2023 21:02:01 +0000
+! Last modified: Wed, 08 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+secure-141.com
+atoxu.com
+azardex.com
+elbtx.com
+ellwex.com
+fluwon.com
+mitnidex.com
+naebx.com
+neowex.com
+sigmerex.com
+sumdexa.com
+wignex.com
+wondcoin.com
+wuteslax.com
+coinvexy.com
+betivoxa.com
+maoperton.com
+nozetoju.com
+zebra-pay.xyz
+daeopro.com
+gmp-g.top
+cointripl.com
+paycoinswap.com
+xswapex.com
+kemn.game-guru.sbs
+kemn.giv-in.sbs
+kemn.scan-game69.sbs
+ftv-q.top
+ftv-s.top
+ftv-t.top
+tabinco.com
+c.al.net.ru
 eldorado.guest-properity.online
 coin1.pw
 openchange.pro
