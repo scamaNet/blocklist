@@ -1,10 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 08 Nov 2023 21:02:02 +0000
+! Last modified: Thu, 09 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+eldorado.guest-reservation.online
+secure-148.com
+gmi-q.top
+gmp-k.top
+bingo-game-174.sbs
+delifloors.store
+scan-game69.sbs
+centuryexperimento.com
+ftv-e.top
+ftv-j.top
+ftv-x.top
+ftv-z.top
+onesourcelorenzo.com
+t1v-a.top
+tabinbox.com
+vendepascuntur.com
+vitaepauci.com
 secure-141.com
 atoxu.com
 azardex.com
