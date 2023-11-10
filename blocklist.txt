@@ -1,10 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 09 Nov 2023 21:02:02 +0000
+! Last modified: Fri, 10 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+drimeex.top
+niceteams.top
+glasgreen.site
+gamevlkan.com
+casinohash.pro
+g1m-a.top
+g1m-g.top
+g1m-i.top
+gmi-k.top
+gmi-t.top
+gmi-z.top
+subiectumostium.com
+freebltco.in
+kix10prize.ru
+lucky2023x.ru
+lux2023prz.ru
+mixer2023x.ru
+cumstetit.com
+pavimeljcurrent.com
+requisbnittube.com
+respiceidem.com
+t1v-b.top
+t1v-c.top
+t1v-d.top
+t1v-e.top
+t1v-w.top
 eldorado.guest-reservation.online
 secure-148.com
 gmi-q.top
