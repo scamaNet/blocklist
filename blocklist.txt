@@ -1,10 +1,44 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 10 Nov 2023 21:02:02 +0000
+! Last modified: Sat, 11 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+security-exchange.ru
+credo-creed.com
+q-venego.pro
+qvenego.com
+tbb-xoar.co
+tbbxoar.com
+ringobet.net
+coinftures.com
+abubit.com
+bezmex.com
+looksrare.biz
+mendiex.com
+moonxusa.com
+muskxtucker.com
+nolewex.com
+wypnex.com
+casinoket.ru
+casinopul.ru
+casinourt.ru
+g1m-k.top
+g1m-n.top
+g1m-o.top
+g1m-q.top
+new100game.ru
+over2023pr.ru
+owners2023.ru
+centurynvimento.com
+manexmctus.com
+t1v-i.top
+t1v-r.top
+t1v-u.top
+t1v-y.top
+vendemxcuntur.com
+payearn.tech
 drimeex.top
 niceteams.top
 glasgreen.site
