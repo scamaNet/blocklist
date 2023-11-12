@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 11 Nov 2023 21:02:02 +0000
+! Last modified: Sun, 12 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+videogreen.site
+arbi23.bond
+optimummovemur.com
+azg-q.top
+g1m-t.top
+g1m-x.top
+g1m-z.top
+bkkplgw.cfd
+ocvbk8o.cfd
+pgpxung.sbs
+cumedfetit.com
+investproject2023.site
+necefeenumabitis.com
+quibgtosse.com
+subieyymostium.com
+t1v-h.top
+t1v-o.top
+t1v-s.top
+vtk-a.top
 security-exchange.ru
 credo-creed.com
 q-venego.pro
