@@ -1,10 +1,43 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 12 Nov 2023 21:02:02 +0000
+! Last modified: Mon, 13 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+wallets-uniswap.org
+bitcomand.com
+exbits.io
+every-up.ru
+spring-place.ru
+applecex.com
+beastxbit.com
+benarn.com
+cetobix.com
+fevtex.com
+fipnex.com
+kiowex.com
+zeopump.com
+mvideo.a-promo.tech
+donxavelli.com
+donx-avelli.co
+keepcoin24.com
+bitmarketzone.com
+werdix.com
+azg-r.top
+azg-t.top
+azg-w.top
+cryptus.foundation
+rwp1psgt.cfd
+xjgy7fx.sbs
+gunghx.com
+indicdrars.com
+respihidem.com
+supraklrsus.com
+vtk-b.top
+vtk-c.top
+vtk-d.top
+vtk-e.top
 videogreen.site
 arbi23.bond
 optimummovemur.com
