@@ -1,10 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 15 Nov 2023 21:02:02 +0000
+! Last modified: Thu, 16 Nov 2023 21:02:01 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+azg-f.top
+azg-g.top
+azg-h.top
+azg-j.top
+azg-k.top
+lx65mam.sbs
+r3chc3n.cfd
+ugoblwv.sbs
+yyptyn8l.cfd
+autosestate.com
+chn-i.top
+chn-o.top
+machinesgoods.com
+plevacopka.com
+qtm-7.top
+rentalcarsproperty.com
 glob.flodfghh.buzz
 vlksgame.com
 hyhahzoc.sbs
