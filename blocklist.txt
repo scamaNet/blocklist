@@ -1,10 +1,49 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 16 Nov 2023 21:02:01 +0000
+! Last modified: Fri, 17 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+aptosf.net
+beznex.com
+bezrex.com
+bitdoex.com
+bituxchange.com
+bitxint.com
+cookvex.com
+cryptforwin.com
+eliwex.com
+jeffhex.com
+jeffnex.com
+kiyocoin.com
+linkxcoin.com
+mapsax.com
+mitsbit.com
+multibase.top
+newetex.com
+vabedex.com
+wexlum.com
+wextok.com
+bitwix.net
+coindres.com
+laudantium-consectetur.com
+westchenge.top
+24btcobmeb.com
+akkcryptal.ru
+azg-x.top
+azg-z.top
+abxg6fm.sbs
+r9ih4l7.cfd
+a-vtk.top
+baptistedog.com
+buildingpleva.com
+chn-p.top
+configtionfixed.com
+preventivesignatory.com
+q-vtk.top
+w-vtk.top
+generator.x10.mx
 azg-f.top
 azg-g.top
 azg-h.top
