@@ -1,13 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 18 Nov 2023 21:02:02 +0000
+! Last modified: Sun, 19 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+eldorado.main-catalog.shop
+berlione.ru
+gaqped7iv.store
+i-vtk.top
+t-vtk.top
+y-vtk.top
+chn-a.top
+chn-b.top
+artlogsoft.com
+inncresas.com
+inn-cresas.org
+artlog-soft.net
+casinotar.ru
 stecmconmunnity.com
 secure-1811.ru
-gleb-help.life-deti-rus.org.ru
+life-deti-rus.org.ru
 sos-deti.org.ru
 tokens-bit.com
 lownbit.com
