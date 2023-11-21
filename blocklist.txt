@@ -1,10 +1,34 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 20 Nov 2023 21:02:02 +0000
+! Last modified: Tue, 21 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+receive-money.top
+arbitration-work23.life
+xosl.ru
+drazzy.biz
+cvk.tribless.site
+a4gdav6.cfd
+fito.ltd
+casinogit.online
+failingunknown.com
+harmfulpointed.com
+tii-a.top
+tii-e.top
+tii-t.top
+tii-y.top
+unhappyexalted.com
+gmz-h.top
+gmz-l.top
+gmz-z.top
+ujx3nx1.sbs
+notableobvious.com
+x-vtk.top
+orbitfaucet.com
+orbitfaucet.in.net
+primebit.org
 101broker.com
 gmz-a.top
 gwm24ps.ru
