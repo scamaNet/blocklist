@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 21 Nov 2023 21:02:02 +0000
+! Last modified: Wed, 22 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+casinoket.online
+doopk.shop
+8i1jhhdxkz.click
+enwx9cc6nq.click
+hsps5evybv.click
+tii-i.top
+tii-o.top
+tii-p.top
+mindtalkc.com
+stylishunhappy.com
+shallowshadowy.com
+coin1.space
 receive-money.top
 arbitration-work23.life
 xosl.ru
