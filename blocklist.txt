@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 22 Nov 2023 21:02:02 +0000
+! Last modified: Thu, 23 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mwvrxkp3.click
+phe4cvbsmt.click
+zbr27hqs.click
+adoptgrab.com
+summonbid.com
+tii-d.top
+tii-f.top
+tii-s.top
+chn-s.top
+findxel-p.org
+findxel-pros.co
 casinoket.online
 doopk.shop
 8i1jhhdxkz.click
