@@ -1,10 +1,57 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 24 Nov 2023 21:02:02 +0000
+! Last modified: Sat, 25 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mbpcqpmjb.click
+q-pgz.top
+tii-x.top
+4urki.com
+baspex.com
+bezhex.com
+bitloex.com
+bitxmars.com
+bonudex.com
+cijernasooo.shop
+coinlandx.com
+cookwex.com
+corionx.com
+davmex.com
+electobit.com
+endoxbit.com
+galaxyxswap.com
+hnjnuug.xyz
+hoxibi.com
+jerfex.com
+kiyobit.com
+lunaxspacex.com
+monerobit.com
+muskxbuys.com
+nepalpizza.com
+nexew.com
+pellywex.com
+rixcoins.com
+spacetorex.com
+sunraybitx.com
+teslaxlink.com
+tokenvela.com
+xaigrokx.com
+xapnex.com
+xelonchange.com
+xlinkcoin.com
+bitteax.com
+coingles.com
+tvou-social-opros24.ru
+roxcasino-366.net
+attributesteal.com
+fightimpress.com
+ittk-a.top
+ittk-b.top
+restoreconfess.com
+wraptreat.com
+casinozai.ru
 gmz-q.top
 gmz-w.top
 tii-l.top
