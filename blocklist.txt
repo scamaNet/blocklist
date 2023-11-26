@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 25 Nov 2023 21:02:02 +0000
+! Last modified: Sun, 26 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+greenwok.site
+frilans-website.ru
+364sxb33z.click
+ohihlc9eu.cfd
+qyffkcawp.cfd
+adaptexpand.com
+cruelparsimonious.com
+emdata-zen.co
+emdatazen.com
+leklai-pro.org
+leklaipro.com
+a-pgz.top
+b-pgz.top
 mbpcqpmjb.click
 q-pgz.top
 tii-x.top
