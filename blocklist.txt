@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 28 Nov 2023 21:02:02 +0000
+! Last modified: Wed, 29 Nov 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+gurex.net
+buyxhub.com
+cryptexmo.com
+accordovento.com
+inviatouccidere.com
+ittk-h.top
+ittk-j.top
+ittk-l.top
+lentometa.com
+salegrido.com
+lata-thione.co
+latathione.com
+uniservice-capital.ru
+bdqcj2vr5e.shop
+cmwvhmmydv.shop
+dnesa0nz9y.shop
+fohdefn2kd.shop
+pduo5zpg8d.shop
+midenporse.site
 ittk-d.top
 obviouslyfortunate.com
 panickyfascinated.com
