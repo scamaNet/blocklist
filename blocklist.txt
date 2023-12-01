@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 30 Nov 2023 21:02:02 +0000
+! Last modified: Fri, 01 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+7yluks2y.top
+9vb3p6jy.top
+a0f4u9ri.sbs
+kamdmaha.sbs
+ze0lka.click
+eventotirare.com
+ittk-p.top
+moltosensos.com
+partelegno.com
+eldorado.company-store.shop
+wixspay.online
+orbitfaucet.online
+dramstheatre.online
+s-pgz.top
 cbsjf4nw.top
 ilmyqc80.top
 kll0zh.shop
