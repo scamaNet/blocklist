@@ -1,10 +1,16 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 01 Dec 2023 21:02:02 +0000
+! Last modified: Sat, 02 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitaxpro.com
+coinfeil.com
+wxex4hoh.shop
+rhpakzqr.shop
+open-oproc24.ru
+tv-power.ru
 7yluks2y.top
 9vb3p6jy.top
 a0f4u9ri.sbs
