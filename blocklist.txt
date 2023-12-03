@@ -1,10 +1,14 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 02 Dec 2023 21:02:02 +0000
+! Last modified: Sun, 03 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+non-standardcases.com
+yxsyl1xa.plp7.ru
+work-positively.life
+expshop.store
 bitaxpro.com
 coinfeil.com
 wxex4hoh.shop
