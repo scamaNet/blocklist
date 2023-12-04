@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 03 Dec 2023 21:02:02 +0000
+! Last modified: Mon, 04 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+videosee.site
+gift-2023-2024.ru.com
+bitmedex.com
+blockx.trade
+coinqot.com
+coinsdear.com
+craknex.com
+jeffbex.com
+kleinebit.com
+neosdex.com
+spacexstar.net
+xemtruck.com
+yxspacex.com
 non-standardcases.com
 yxsyl1xa.plp7.ru
 work-positively.life
