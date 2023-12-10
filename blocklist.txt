@@ -1,10 +1,17 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 09 Dec 2023 21:02:02 +0000
+! Last modified: Sun, 10 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+work-in-arbitration.life
+oribux.macetimes.com
+vkti-i.top
+kzg-j.top
+kzg-k.top
+lloi.0clocp.click
+tron-bot.site
 kzg-h.top
 kzg-i.top
 glob.flowerwe.buzz
