@@ -1,10 +1,40 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 10 Dec 2023 21:02:02 +0000
+! Last modified: Mon, 11 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+label-pro.ru
+starcryptex.com
+bitgerden.com
+silexbit.com
+bitgaex.com
+coinxlift.com
+cupbyx.com
+fakesilo.top
+floircoin.com
+galaxybitex.com
+kiyoex.com
+liebnex.com
+luxbix.com
+metatime.biz
+micfex.com
+microjex.com
+micronem.com
+microwex.com
+misobit.com
+muskbit25.com
+natelax.com
+tyknex.com
+valmarod.com
+xelontrade.com
+zhaowex.com
+open-cber-oproc24.ru
+suresidart.site
+earn.macetimes.com
+kzg-m.top
+kzg-n.top
 work-in-arbitration.life
 oribux.macetimes.com
 vkti-i.top
