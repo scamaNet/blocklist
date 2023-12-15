@@ -1,10 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 14 Dec 2023 21:02:02 +0000
+! Last modified: Fri, 15 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+atlantdex.com
+beydoxs.com
+bitfoz.com
+bixtesla.com
+by-coins.com
+byfaex.com
+depnix.com
+elonforex.com
+exolorix.com
+ffempire.trade
+geticex.com
+miubits.com
+mrbebits.com
+palarbit.com
+x-bitx.com
+xenerax.com
+wx-wallet.com
+coinbles.com
+nextixbit.com
+gug-d.top
+gug-e.top
+gug-f.top
+lik-a.top
+lik-b.top
+lik-c.top
+lik-d.top
 cryptoexclub.com
 ferberex.com
 vulkanvt.com
