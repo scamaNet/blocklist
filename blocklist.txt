@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 16 Dec 2023 21:02:02 +0000
+! Last modified: Sun, 17 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+gazp-d.top
+gazp-f.top
+gazp-g.top
+gazp-h.top
+greatyearachivment.online
+jivo-cassa.shop
+kvstandup-tickets.me
+secure-93.com
+eldorado.list-offer.online
+otzowik.space
+garnetplace.ru
+lik-h.top
+lik-i.top
+copyreader.ru
 biletkassa.site
 cinema-lofts.site
 stecmcommunitu.com
