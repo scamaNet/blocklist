@@ -1,10 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 21 Dec 2023 21:02:02 +0000
+! Last modified: Fri, 22 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mvideo.promo-we.online
+wine-platesh.shop
+standup-premier.me
+casinotron.online
+youtub-v3.top
+freelance-life.ru
+work-freelance.ru
+cvk.0tyu.buzz
+itink-p.top
+garnet-guru.ru
+kupiigry.ru
+life-gaming.ru
+imbed.ru
+money4clickunk.buzz
+gazp-o.top
+gazp-p.top
+zplayfortuna.com
 bitexde.com
 cryptcapex.com
 ellbit.com
