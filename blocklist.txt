@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 22 Dec 2023 21:02:02 +0000
+! Last modified: Sat, 23 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+hineo.ru
+koins.hid-bye.buzz
+sewdy.com
+vulkankt.com
+casino-cat.live
+casinomaxbet.live
+skyvideos.site
+oplatasys.ru
+kassa-oper.ru
+fndmoney.cfd
 mvideo.promo-we.online
 wine-platesh.shop
 standup-premier.me
@@ -51,7 +61,6 @@ contrat.ru
 only-freelancer.ru
 mocinlife.com
 mocin-life.org
-wwoo.shop
 gazp-l.top
 gazp-r.top
 rexerbit.com
