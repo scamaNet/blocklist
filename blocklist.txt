@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 23 Dec 2023 21:02:02 +0000
+! Last modified: Sun, 24 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mvideo.we-promo.website
+eldorado.server-online.fun
+payment-155.ru
+secure-109.com
+ceftix.com
+cryptovertxex.com
+xosj.ru
+aqcobgkz.site
+gazp-t.top
+best-resell.ru
+spectralis-wallet.com
+global-wallet.space
+ubet.org.ua
+jeftix.com
 hineo.ru
 koins.hid-bye.buzz
 sewdy.com
