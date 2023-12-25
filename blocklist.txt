@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 24 Dec 2023 21:02:02 +0000
+! Last modified: Mon, 25 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+flora-cassa.shop
+buytickets-standup.me
+eldorado.server-online.website
+orbitfaucet.site
+xtink-a.top
+xtink-b.top
+xtink-c.top
+xtink-d.top
+exkeys.store
 mvideo.we-promo.website
 eldorado.server-online.fun
 payment-155.ru
