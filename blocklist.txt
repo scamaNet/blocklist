@@ -1,10 +1,14 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 26 Dec 2023 21:02:02 +0000
+! Last modified: Wed, 27 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+aliquidtestificor.com
+lloi.d0ma.buzz
+lloi.l0dn.buzz
+boto-trx.site
 u-bet.space
 nextxibit.com
 bitfelex.com
