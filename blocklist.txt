@@ -1,10 +1,34 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 27 Dec 2023 21:02:02 +0000
+! Last modified: Thu, 28 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+elysiansphinx.in.net
+etherealmyst.in.net
+ossplendidum.com
+sententiaferte.com
+violetdolor.com
+k0dn.buzz
+bitgalaxycoin.com
+bitotrix.com
+bycoin.world
+excoinlite.com
+grandibit.com
+nokmox.com
+tradeofix.com
+bitcomect.com
+bitsboat.com
+bitluxo.com
+coinomi.cc
+litetrade.cc
+swapex.icu
+lloi.c0dn.buzz
+lloi.b0dn.buzz
+lloi.z0dn.buzz
+lloi.m0dn.buzz
+intertraders.net
 aliquidtestificor.com
 lloi.d0ma.buzz
 lloi.l0dn.buzz
