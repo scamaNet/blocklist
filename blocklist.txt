@@ -1,10 +1,17 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 28 Dec 2023 21:02:02 +0000
+! Last modified: Fri, 29 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+royal-cryptos.com
+skyseecoins.com
+bytlox.com
+blablacar.vidpays.site
+glvideo.site
+statcrypto.space
+paterpugna.com
 elysiansphinx.in.net
 etherealmyst.in.net
 ossplendidum.com
@@ -478,6 +485,7 @@ tii-d.top
 tii-f.top
 tii-s.top
 chn-s.top
+earn.knightdevops.com
 findxel-p.org
 findxel-pros.co
 casinoket.online
