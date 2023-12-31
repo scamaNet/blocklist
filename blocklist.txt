@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 30 Dec 2023 21:02:02 +0000
+! Last modified: Sun, 31 Dec 2023 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitpaymax.com
+flurenex.com
+qezviirb.online
+paidvideos.net
+m3vnk.top
+nsb16.top
+v4gpj.top
+eligeresectam.com
+invenitaperi.com
+jubilaaequat.com
+pedated.in.net
+praeparabitplural.com
 p7gx.top
 mvideo.voucher-as.online
 eldorado.website-pay.online
