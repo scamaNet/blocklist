@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 01 Jan 2024 21:02:02 +0000
+! Last modified: Tue, 02 Jan 2024 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+cinema-hall.com
+recvideo.site
+forum-bits-media.ru
+olzovik.ru
+gonut.ru
+my-freelancer.ru
+planet-guarantor.ru
+profe-freelance.ru
+spilok.ru
 token-uniswap.com
 bitpaymax.com
 flurenex.com
