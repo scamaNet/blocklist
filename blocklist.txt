@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 02 Jan 2024 21:02:02 +0000
+! Last modified: Wed, 03 Jan 2024 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitwiseum.com
+londonhold.com
+loto-rus.1c0e.site
+ainexify.com
+capbitex.net
+flentora.com
+kenance.com
+mono-exchange.com
+muskcoinx.com
+skycoinx.com
+virtnex.com
+pocketcryptos.com
+gametrustpro.com
 cinema-hall.com
 recvideo.site
 forum-bits-media.ru
