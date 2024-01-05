@@ -1,10 +1,30 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 04 Jan 2024 21:02:02 +0000
+! Last modified: Fri, 05 Jan 2024 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+a2qpm.shop
+b3vnn.shop
+lyctus.in.net
+m2jnw.top
+opusdictionary.com
+pejorate.in.net
+vitulusaddunt.com
+w8hbh.shop
+x9rdj.shop
+z1jml.shop
+k1tdf.top
+l2qbh.top
+u7jl.shop
+v8fq.shop
+4sfw.site
+amp3.site
+hkvn.site
+kp2a.site
+wn0x.site
+yorz.site
 earn.rcpsuae.com
 bitmest.com
 cbc5.site
