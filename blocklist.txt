@@ -1,10 +1,41 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 05 Jan 2024 21:02:02 +0000
+! Last modified: Sat, 06 Jan 2024 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+monetapays.ru
+pay-id098431.ru
+pay-id103543.ru
+pay-id124742.ru
+pay-id317312.ru
+pay-id345611.ru
+pay-id492013.ru
+pay-id5416.ru
+pay-id6571.ru
+pay-id729014.ru
+pay-id753622.ru
+pay-id765234.ru
+pay-id789431.ru
+pay-id890733.ru
+video-earn.yachts
+love-giveaway.site
+top-giveaway.site
+f5xzn.top
+i8kqs.top
+potestatemcalidum.com
+reprehendousus.com
+stormarkets.top
+crypto-2024.life
+j0rge.top
+huntantequam.com
+j9tdt.top
+l1hmv.top
+shibevent.pages.dev
+gift-guru.site
+my-gifts.site
+tfx9.site
 a2qpm.shop
 b3vnn.shop
 lyctus.in.net
