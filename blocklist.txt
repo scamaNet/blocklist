@@ -1,10 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 06 Jan 2024 21:02:02 +0000
+! Last modified: Sun, 07 Jan 2024 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+freebitcoin.fun
+theatre-drammi.online
+drammatich-theatre.com
+eldorado.alrilevalumbsa.tk
+platezhi3ds.ru
+g8yfc.top
+officialgivs.site
+officiall-giveaway.site
+securegifts.site
+trustgiv.site
+a0rgi.top
+b1tdj.top
+c2qbk.top
+duxoratio.com
+navitasquid.com
+rescriptumpostero.com
 monetapays.ru
 pay-id098431.ru
 pay-id103543.ru
@@ -56,7 +72,7 @@ hkvn.site
 kp2a.site
 wn0x.site
 yorz.site
-earn.rcpsuae.com
+rcpsuae.com
 bitmest.com
 cbc5.site
 bokn.site
