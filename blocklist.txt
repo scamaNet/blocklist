@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 08 Jan 2024 21:02:02 +0000
+! Last modified: Tue, 09 Jan 2024 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+secure-191.site
+bexspacex.com
+flunexa.com
+frurex.com
+larkbit.com
+mixnex.com
+veloraix.com
+eldorado.xicenlemincogob.gq
+austristudiorum.com
+pseudogeneric.in.net
 smartgivs.site
 2obui2.top
 3ob2o.top
