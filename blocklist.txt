@@ -1,10 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 10 Jan 2024 21:02:02 +0000
+! Last modified: Thu, 11 Jan 2024 21:02:03 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+h3vnn.top
+a2jnw.shop
+decimalebruciare.com
+o0rgi.shop
+plotted.in.net
+stereography.in.net
+alforyswan.com
+crystal-deal.ru
+crystal-freelance.ru
+deal-guid.ru
+igrolaif.ru
+kom-tex.ru
+luxemodes.ru
+security-deal.ru
+paxebit.com
+se-shop.store
+l.corevk.ru
+giftcompany.site
+platform-official.site
+web-prizely.site
+woowin.site
+umanospread.com
+y0rgu.shop
 bitcorl.com
 tradevaultx.com
 quest-gift.site
