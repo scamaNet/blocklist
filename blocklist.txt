@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 12 Jan 2024 21:02:02 +0000
+! Last modified: Sat, 13 Jan 2024 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+t9tdt.top
+u0rgu.top
+binexpert.net
+gift-line.site
+luxury-giv.site
+muccaunsuperficie.com
+n3vnl.shop
+ognigrado.com
 inovate24.life
 adgamepay1.buzz
 adgamepay10.buzz
