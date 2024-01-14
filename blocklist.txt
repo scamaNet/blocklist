@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from Loxotrons
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 13 Jan 2024 21:02:02 +0000
+! Last modified: Sun, 14 Jan 2024 21:02:02 +0000
 ! Homepage: https://github.com/Loxotrons/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+blissorex.com
+tradefix.pro
+wavecurrency.com
+d1tdj.shop
+gattobambino.com
+smart-tradeslimited.com
+bhrtpro.com
+bhrt-pro.co
+r7zcr.top
+s8kqs.top
+grandgifts.site
+securegiftt.site
+g6wve.shop
+soggettocopertura.com
 t9tdt.top
 u0rgu.top
 binexpert.net
