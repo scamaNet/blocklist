@@ -1,9 +1,9 @@
 ## Описание
-Фильтр опасных сайтов для расширения [uBlock Origin](https://github.com/gorhill/uBlock/#installation). Создан на основе [идеи из Reformals.ru](https://loxotrons.reformal.ru/proj/?ia=1209145). Обновляется в полночь по московскому времени. Источник данных — заявки со страницы https://loxotrons.ru/check (оценки "100% лохотроны", "фишинг" и "вирусы") за текущий год (+ декабрь предыдущего)
+Фильтр опасных сайтов для расширения [uBlock Origin](https://github.com/gorhill/uBlock/#installation). Создан на основе [идеи из Reformals.ru](https://loxotrons.reformal.ru/proj/?ia=1209145). Обновляется в полночь по московскому времени. Источник данных — заявки со страницы https://scama.net/check (оценки "100% лохотроны", "фишинг" и "вирусы") за текущий год (+ декабрь предыдущего)
 
 ## Установка
 1) Откройте настройки расширения, вкладка "Списки фильтров", внизу флажок "Импортировать..."
-2) Вставьте URL: https://raw.githubusercontent.com/Loxotrons/blocklist/main/blocklist.txt
+2) Вставьте URL: https://raw.githubusercontent.com/scamaNet/blocklist/main/blocklist.txt
 3) Нажмите кнопку "Применить изменения". Должно появиться количество используемых доменов
 
 ## Известные проблемы
