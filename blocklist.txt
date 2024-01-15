@@ -1,10 +1,11 @@
-! Title: Scam & Phishing & Malware sites from Loxotrons
+! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 14 Jan 2024 21:02:02 +0000
-! Homepage: https://github.com/Loxotrons/blocklist
+! Last modified: Mon, 15 Jan 2024 15:24:02 +0000
+! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+giftsplace.site
 blissorex.com
 tradefix.pro
 wavecurrency.com
