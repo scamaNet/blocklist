@@ -1,10 +1,37 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 15 Jan 2024 21:00:03 +0000
+! Last modified: Tue, 16 Jan 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+ubuex.cc
+timofey.club
+temainvest24.life
+cglob.oganros.buzz
+money-easilybtx.buzz
+money-easilydhg.buzz
+money-easilydyt.buzz
+money-easilygov.buzz
+money-easilyipj.buzz
+money-easilyldf.buzz
+money-easilyltt.buzz
+money-easilynov.buzz
+money-easilypbc.buzz
+money-easilyqbv.buzz
+money-easilysvq.buzz
+money-easilywfk.buzz
+d3vnn.shop
+liveprizego.site
+lucky-road.site
+safe-go.site
+a8yfg.shop
+b9zch.shop
+c0rgi.shop
+canticumomnes.com
+cibomigliore.com
+rossoforse.com
+z7xmf.shop
 bybit-exchange.ru
 onepaymarket.com
 invoicesbuys.site
