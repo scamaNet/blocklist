@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 16 Jan 2024 21:00:03 +0000
+! Last modified: Wed, 17 Jan 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+shop-me.icu
+e4kxb.shop
+gift-maxy.site
+gift-play.site
+auriculated.in.net
+determinarecolonna.com
+m4vby.top
+n5gxz.top
+padrelegge.com
+paragraforicordare.com
 ubuex.cc
 timofey.club
 temainvest24.life
