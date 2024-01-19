@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 18 Jan 2024 21:00:03 +0000
+! Last modified: Fri, 19 Jan 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+r1hmv.shop
+t3qpx.shop
+n1hmv.shop
+drigydilift.site
+chance-info.space
+vip-kings.site
+webs-company.space
+caloresecondo.com
+controllaremorte.com
+konjak.in.net
+l3qpx.top
+umanorisolvere.com
 splite-platesz.shop
 barstandup-comedy.site
 s2jnw.shop
