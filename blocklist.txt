@@ -1,10 +1,73 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 19 Jan 2024 21:00:03 +0000
+! Last modified: Sat, 20 Jan 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+learn-cassa.shop
+standup-buyticket.site
+astral-cloud.com
+benomoxis.com
+beqcoin.com
+bexbits.com
+binarde.com
+bitvlux.shop
+bitxcup.com
+bivexy.com
+bybitexhange.link
+cawabit.com
+colanix.com
+cryptojankx.com
+ecomoxbit.com
+elbetix.com
+fexade.com
+fragrance.exchange
+gemi-exchange.com
+hochbit.com
+itendex.com
+juxebit.com
+koledex.com
+koyndex.com
+mazerex.com
+nabelex.com
+troncoinx.com
+valmaren.com
+ventox.tech
+vypnex.com
+withix.com
+worteex.com
+xbited.com
+zinadex.com
+zitorex.com
+zynoxy.com
+coingettar.com
+money-easilblh.buzz
+money-easilcur.buzz
+money-easilezd.buzz
+money-easilftb.buzz
+money-easilfub.buzz
+money-easilnna.buzz
+money-easilosf.buzz
+money-easilrpt.buzz
+money-easiluep.buzz
+money-easilufg.buzz
+money-easilwen.buzz
+money-easilwim.buzz
+money-easilyht.buzz
+affila-mark.co
+affilamark.com
+t-trideavor.world
+trideavor.com
+gift-placee.site
+gift-wrap.site
+vip-invite.site
+difficilemais.com
+favorirefiume.com
+ferric.in.net
+gettarecravatta.com
+j1hmv.top
+k2jnw.top
 r1hmv.shop
 t3qpx.shop
 n1hmv.shop
