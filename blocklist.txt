@@ -1,10 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 20 Jan 2024 21:00:03 +0000
+! Last modified: Sun, 21 Jan 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+traeven.pro
+traevensoft.com
+q4vby.shop
+fourseasons01.com
+trustpilol.su
+otzovil.su
+ledtrino.com
+money-easilcfn.buzz
+money-easilcse.buzz
+money-easileds.buzz
+money-easileye.buzz
+money-easiljkx.buzz
+money-easilkpd.buzz
+money-easilkqm.buzz
+money-easilslb.buzz
+money-easilxut.buzz
+garante.su
+bonus-games.site
+game-flip.site
+perfectdeal.site
+vip-clubs.site
+afrikanderism.in.net
+eranevet.com
+h9tdt.top
+i0rgu.top
+ramogovernare.com
 learn-cassa.shop
 standup-buyticket.site
 astral-cloud.com
