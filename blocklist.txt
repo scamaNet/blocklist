@@ -1,10 +1,32 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 21 Jan 2024 21:00:03 +0000
+! Last modified: Mon, 22 Jan 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+payvelles.online
+prizes-news.site
+make-436hsg.beauty
+money-easilcmd.buzz
+money-easilgeu.buzz
+money-easiljmf.buzz
+money-easilluy.buzz
+money-easilovw.buzz
+money-easilums.buzz
+money-easilypu.buzz
+odyxpro.com
+odyx-pro.co
+i6yfq.shop
+investi0n.website
+r5gxz.shop
+mega-prizzes.site
+aku.in.net
+condemned.in.net
+desertoliquido.com
+f7zcr.top
+g8kqs.top
+headysqueamish.com
 traeven.pro
 traevensoft.com
 q4vby.shop
@@ -167,6 +189,9 @@ f3vnl.shop
 h5xzn.shop
 momentoparola.com
 neutrophile.in.net
+giftsplace.site
+bestawards.site
+topgiftnews.site
 ekl0ts9tk.online
 blissorex.com
 tradefix.pro
