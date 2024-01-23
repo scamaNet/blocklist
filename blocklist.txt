@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 22 Jan 2024 21:00:03 +0000
+! Last modified: Tue, 23 Jan 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+domcasino.pro
+cashpayu.com
+j7zcr.shop
+k8kqs.shop
+game-land.site
+nogapok-2024.site
+e6yfq.top
+h3qpx.shop
+hurtbent.com
+payfone.site
 payvelles.online
 prizes-news.site
 make-436hsg.beauty
