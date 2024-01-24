@@ -1,10 +1,43 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 23 Jan 2024 21:00:03 +0000
+! Last modified: Wed, 24 Jan 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+learn-platesz.shop
+cinema-picture.me
+exchangeltc.online
+strat-ex.org
+fastdealgarant.ru
+bits-media-forum.ru
+bitsmedia-forum.ru
+otzovik-forum.ru
+otzovik-space.ru
+trust-pilot-forum.ru
+trust-pilotspace.ru
+anastremdeal.ru
+dark-garant.ru
+fastdeal-garant.ru
+fastxan-deal.ru
+ferexorgrant.ru
+greatdeal-garant.ru
+jetexer.ru
+powergarant.ru
+coinmain.io
+bitfaxed.com
+yun-movego.co
+yunmovego.com
+l9tdt.shop
+w6yfq.top
+2024-gifts-official.site
+special-webpage.site
+win-with-us.site
+boorishfull.com
+f1hmv.shop
+g2jnw.shop
+malewandering.com
+v5xzn.shop
 domcasino.pro
 cashpayu.com
 j7zcr.shop
