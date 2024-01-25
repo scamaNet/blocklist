@@ -1,10 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 24 Jan 2024 21:00:03 +0000
+! Last modified: Thu, 25 Jan 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+theatre-tera.online
+drammat-teatre.online
+quick-garant.ru
+buyoplat.ru
+workingcoin24.life
+avachanges.top
+love-gifty.site
+prize-game2024.pics
+domcasino.online
+beastrex.com
+billionair.site
+felede.com
+fenares.com
+mixusroyalhub.com
+upxcar.com
+zirexo.com
+money-easilyyhf.buzz
+e4vby.top
+v3vnn.shop
+a6yfq.shop
+automaticxray.com
+d9tdt.shop
+elektricpremium.com
 learn-platesz.shop
 cinema-picture.me
 exchangeltc.online
