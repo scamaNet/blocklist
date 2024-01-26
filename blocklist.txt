@@ -1,10 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 25 Jan 2024 21:00:03 +0000
+! Last modified: Fri, 26 Jan 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitleaps.com
+gamegarant.su
+nexatradex.com
+dkcmoneyeasily.buzz
+money-easilydqc.buzz
+rajmoney-easily.buzz
+bonus-game2024.pics
+go-prize-2024.shop
+go-winn-2024.pics
+c.sp.net.ru
+rat.pp.ru
+b1hmv.top
+y8kqs.top
+dareprovincial.com
+grassstress.com
+r1tdj.shop
+t3vnl.shop
+u4gpm.shop
 theatre-tera.online
 drammat-teatre.online
 quick-garant.ru
