@@ -1,10 +1,41 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 27 Jan 2024 21:00:03 +0000
+! Last modified: Sun, 28 Jan 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+leo-exchanger.com
+better-top.ru
+wallcrypt.pro
+stemcommunylty.com
+money-easilyuvi.buzz
+moneyeasilylec.buzz
+pallirpay.ru
+black-deal.ru
+garaler.ru
+garant-aligator.ru
+gatewaygarant.ru
+grand-easy.ru
+great-dealgarant.ru
+infamousgarant.ru
+later-grand.ru
+latergrand.ru
+rus-grand.ru
+russiagrand.ru
+vipgrantgarant.ru
+vipcasino777.ru
+official-web-page.shop
+x1hmv.shop
+y2jnw.shop
+z3qpx.shop
+client-info.shop
+client-notification.pics
+filesappslieds.com
+l9zch.shop
+n1tdj.shop
+o2qbk.shop
+silencesmooth.com
 money-easilyndp.buzz
 money-easilysit.buzz
 soqmoneyeasily.buzz
