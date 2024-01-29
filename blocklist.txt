@@ -1,10 +1,35 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 28 Jan 2024 21:00:04 +0000
+! Last modified: Mon, 29 Jan 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+i6wve.shop
+j7xmf.shop
+logsiincontrano.com
+m0rgi.shop
+primonaso.com
+rossoinserire.com
+z5qwx.shop
+s6yfq.shop
+t7zcr.shop
+v9tdt.shop
+shop-he.online
+omgieus.com
+om-gieus.co
+paysoplat.ru
+mirbillets.site
+billets-theatrs.online
+giv-score.pics
+official-givs.pics
+vip-score.pics
+cryptoglobal.pro
+beastrex.com
+snp-markets.com
+moneyeasilyjcv.buzz
+ozgmoneyeasily.buzz
+vurmoneyeasily.buzz
 leo-exchanger.com
 better-top.ru
 wallcrypt.pro
