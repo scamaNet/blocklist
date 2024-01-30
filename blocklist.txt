@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 29 Jan 2024 21:00:03 +0000
+! Last modified: Tue, 30 Jan 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+shop-j.icu
+procryptobank.com
+pioggiadone.com
+tubinarial.com
+u0zgk.shop
+v1nml.shop
+w2pvm.shop
+x3hkn.shop
+fck3brk.shop
+gift-go-go.shop
+secure-winners.shop
+win-challenge.shop
+f1ljl.shop
+i4cqb.shop
+j5hzx.shop
 i6wve.shop
 j7xmf.shop
 logsiincontrano.com
