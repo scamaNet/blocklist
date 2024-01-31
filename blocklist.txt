@@ -1,11 +1,32 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 30 Jan 2024 21:00:04 +0000
+! Last modified: Wed, 31 Jan 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
-shop-j.icu
+mvideo.promo-t.shop
+t3mln.shop
+u4nmv.shop
+mega-bet.live
+nevelix.com
+nexuscrypt.net
+saodex.com
+volurax.com
+exobitmax.com
+bitlinex.org
+coingolder.com
+berebit.org
+034iexk.shop
+2aicbnp.shop
+nggyetb.xyz
+anchemettere.com
+colpiretreno.com
+d3wcn.shop
+f5zkx.shop
+neroevenuto.com
+s2qbk.shop
+mvideo.shop-j.icu
 procryptobank.com
 pioggiadone.com
 tubinarial.com
@@ -30,7 +51,7 @@ z5qwx.shop
 s6yfq.shop
 t7zcr.shop
 v9tdt.shop
-shop-he.online
+mvideo.shop-he.online
 omgieus.com
 om-gieus.co
 paysoplat.ru
