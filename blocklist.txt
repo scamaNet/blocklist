@@ -1,10 +1,35 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 31 Jan 2024 21:00:03 +0000
+! Last modified: Thu, 01 Feb 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+casinoroyal.live
+mkvideo.site
+bimaxed.com
+navbitx-coin.com
+swapsbit.com
+zelatex.com
+garant-fast.ru
+garanteplay.ru
+garigarant.ru
+garsia-garant.ru
+grandmamba.ru
+eugifts.pics
+m7xlvwm.xyz
+pacoxg6.xyz
+a0tgk.shop
+b1ufl.shop
+e4yxv.shop
+materiaapparire.com
+menteultimo.com
+rispostaindovinare.com
+q0jik.shop
+r1kjl.shop
+v5olx.shop
+ondazemi.com
+onda-zemi.co
 mvideo.promo-t.shop
 t3mln.shop
 u4nmv.shop
