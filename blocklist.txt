@@ -1,10 +1,39 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 01 Feb 2024 21:00:03 +0000
+! Last modified: Fri, 02 Feb 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+payment-141.com
+payslay.ru
+slaypay.pw
+intericoins.com
+upbit-trx.com
+bqgmoneyeasily.buzz
+cdrmoneyeasily.buzz
+dolmoneyeasily.buzz
+ibxmoney-easily.buzz
+money-easilygzf.buzz
+moneyeasilywby.buzz
+npamoney-easily.buzz
+udxmoney-easily.buzz
+small-expert.ru
+fominex.com
+nelumex.com
+repulex.com
+actual-gifts.xyz
+finance-giveaway.xyz
+mobile-giveaway.xyz
+barunavolta.com
+k4cev.shop
+nevedomanda.com
+tavoloindietro.com
+m6fee.shop
+n7gfg.shop
+o8hgh.shop
+altrulo.org
+alt-rulo.co
 casinoroyal.live
 mkvideo.site
 bimaxed.com
