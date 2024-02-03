@@ -1,10 +1,35 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 02 Feb 2024 21:00:03 +0000
+! Last modified: Sat, 03 Feb 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+xbitby.com
+nokycbit.com
+vulkanvsl.com
+right-skill.ru
+money-easilybkq.buzz
+money-easilyxim.buzz
+moneyeasilyraj.buzz
+moneyeasilytsj.buzz
+moneyeasilyuud.buzz
+bitweox.com
+rexore.com
+mycosmotoken.network
+b5tox.shop
+x1pkl.shop
+y2qlm.shop
+giveaway-page.shop
+giveaway-service.shop
+official-domain.shop
+rrbplatform.com
+determinaediato.com
+f9xwj.shop
+finaleaveva.com
+h1zel.shop
+i2agm.shop
+ognisalita.com
 payment-141.com
 payslay.ru
 slaypay.pw
