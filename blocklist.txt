@@ -1,10 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 03 Feb 2024 21:00:04 +0000
+! Last modified: Sun, 04 Feb 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+rexorex.com
+money-easilycud.buzz
+payhron.site
+hotpay.site
+t7lgg.shop
+u8mhh.shop
+v9nij.shop
+aceco-dxb.co
+acecodxb.com
+gift-platform.shop
+premium-club.xyz
+d7vqg.shop
+diverentotipo.com
+e2rrm.shop
+e8wrh.shop
+sottoprossimo.com
 xbitby.com
 nokycbit.com
 vulkanvsl.com
@@ -17,6 +33,9 @@ moneyeasilyuud.buzz
 bitweox.com
 rexore.com
 mycosmotoken.network
+hugg-ingface.ru
+veedok.site
+logos-grup.ru
 b5tox.shop
 x1pkl.shop
 y2qlm.shop
