@@ -1,10 +1,44 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 04 Feb 2024 21:00:03 +0000
+! Last modified: Tue, 06 Feb 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitsowex.com
+buystandup-comedy.site
+luna-platesz.shop
+onpays.cc
+cameraimpianto.com
+indovinarearrivare.com
+maicamminare.com
+v3hhh.shop
+w4jjv.shop
+z7mlg.shop
+i6ave.shop
+j7bwg.shop
+m0ezk.shop
+fpb.guru
+cryptofrat.com
+casinohunter.online
+sky-reward.ru
+arbitnoite.com
+biraxy.xyz
+flumowex.com
+wave-platesh.shop
+lounge-kinoman.online
+bmgmoney-easily.buzz
+moneyeasilyesf.buzz
+sureguard.su
+exollix.com
+o2gbm.shop
+p3hcn.shop
+b9onj.shop
+c0pok.shop
+certocorretto.com
+d1qpl.shop
+finituralunghezza.com
+g4tpv.shop
 rexorex.com
 money-easilycud.buzz
 payhron.site
