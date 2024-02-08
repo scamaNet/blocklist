@@ -1,10 +1,30 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 07 Feb 2024 21:00:04 +0000
+! Last modified: Thu, 08 Feb 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+termatmir.online
+theatre-drammatical.online
+bit-swap.live
+bitcoin-arbitrage.top
+freelinkcpl.guru
+lenzela.com
+marsebit.com
+nevofex.com
+numlix.com
+xbbmoneyeasily.buzz
+diredisegnare.com
+doneinviato.com
+proprietacaldo.com
+u0ggk.shop
+v1hhl.shop
+w2iim.shop
+n3zzn.shop
+p1bbl.shop
+r3ddn.shop
+cinema-imax.site
 bintcx.com
 fedmedex.com
 virzex.com
