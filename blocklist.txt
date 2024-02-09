@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 08 Feb 2024 21:00:03 +0000
+! Last modified: Fri, 09 Feb 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+scroobbles.com
+waxx.network
+a0mmk.shop
+i8uuh.shop
+o4aav.shop
+p5bbx.shop
+s8eeh.shop
+sillabamiglio.com
+sostanzapassare.com
+t9ffj.shop
 termatmir.online
 theatre-drammatical.online
 bit-swap.live
