@@ -1,10 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 11 Feb 2024 21:00:03 +0000
+! Last modified: Mon, 12 Feb 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitwazix.com
+fulenix.com
+melorix.com
+reelsbit.com
+wayxbe.com
+xbirex.com
+money-easilyusx.buzz
+etherlion.com
+mvideo.shop-fo.store
+paysoplat.site
+afisha.theatresopera.online
+vahilo.com
+alairle-noir.co
+alairlenoir.com
+am-zengs.info
+amzengs.com
+atrou-stek.org
+atroustek.com
+b5nnx.shop
+nuovoturno.com
+servireestate.com
 konbix.com
 bitfllix.com
 jerdy.com
