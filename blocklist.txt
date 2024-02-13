@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 12 Feb 2024 21:00:04 +0000
+! Last modified: Tue, 13 Feb 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+carinin-writ.com
+vulkancl.com
+awbitex.com
+bitexwise.com
+nixonus.com
+revolby.com
+rexub.com
+crypton-ex.com
+solanely.com
+myiex.top
+dnse24.life
+blablacar.offpays.ru
+blablacar.ofpays.ru
+m0yyk.shop
+panesegno.com
+pioggiabellezza.com
+q4ccv.shop
+saltovapore.com
+ratebo.com
 bitwazix.com
 fulenix.com
 melorix.com
