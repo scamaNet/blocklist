@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 14 Feb 2024 21:00:03 +0000
+! Last modified: Thu, 15 Feb 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+baypay.site
+karulox.com
+game-info2024.homes
+prize-games2024.pics
+caloresud.com
+gialloterzo.com
+i6nv2.shop
+kongsbergite.in.net
+q3hr7.shop
+u3wx6.shop
+cashcomejxi.buzz
 bosladex.com
 dexbit.exchange
 luenix.com
