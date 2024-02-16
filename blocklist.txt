@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 15 Feb 2024 21:00:03 +0000
+! Last modified: Fri, 16 Feb 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitclaba.com
+baypay.online
+cglob.ooncgoos.buzz
+hozvo.com
+brevescatola.com
+e9kp4.shop
+f1xs6.shop
+o5tb1.shop
+ophthalmopod.in.net
+pescecaldo.com
+praftex-group.com
+fauc3t.com
 baypay.site
 karulox.com
 game-info2024.homes
