@@ -1,10 +1,30 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 16 Feb 2024 21:00:03 +0000
+! Last modified: Sat, 17 Feb 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitlabex.com
+wiksbit.com
+vpnmoney-easily.buzz
+bitfalmer.com
+mexc-coin.com
+allcasino24.ru
+7swaps.com
+astoxbit.com
+coinexom.cc
+mtgox.top
+nulenix.com
+trustenely.com
+plpay.site
+charlotte.in.net
+k6hm2.top
+k9dp4.shop
+t9pz5.top
+ormexpro.com
+ormex-pro.net
+indigoauto.ru
 bitclaba.com
 baypay.online
 cglob.ooncgoos.buzz
