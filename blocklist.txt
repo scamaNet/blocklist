@@ -1,10 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 17 Feb 2024 21:00:03 +0000
+! Last modified: Sun, 18 Feb 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+attache-game.net
+ticketafisha.online
+kitpays.online
+payax.pw
+bigetex.com
+cenluna.com
+elonxus.com
+lenemix.com
+dromograph.in.net
+f3wz7.shop
+h1jt5.shop
+q8nk0.shop
+roving.in.net
+s2vr8.shop
+htx-wallet.com
+trustpilots.ru
+otzovikspace.ru
+nordex-garant.ru
 bitlabex.com
 wiksbit.com
 vpnmoney-easily.buzz
