@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 19 Feb 2024 21:00:03 +0000
+! Last modified: Tue, 20 Feb 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+ronovel.com
+tmireterm.online
+teatre-drammatic.online
+flow-platesh.shop
+standup-buytickets.site
+midpays.online
+b9qk2.shop
+c9lk4.shop
+coltskin.in.net
+f8mz1.shop
+h6pz1.shop
+impermeabilization.in.net
+p6jy4.shop
+x2dv8.shop
 kino-lounge.online
 less-pay.online
 kos.keknai.buzz
