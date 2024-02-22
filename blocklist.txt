@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 21 Feb 2024 21:00:03 +0000
+! Last modified: Thu, 22 Feb 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+billmature.online
+bliss-cassa.shop
+dramactors.online
+estradaqishow.online
+betscasino.pro
+casino777.tech
+smart-however.ru
+kentaworld.com
+relsbit.com
+best-example.ru
+condensational.in.net
+u2dq8.shop
+v9xs6.shop
+j8bk3.shop
+w7zq2.shop
 opthomework.site
 coinproaim.com
 bireway.com
@@ -170,6 +185,7 @@ a4mmv.shop
 ciboterzo.com
 viaggirisultato.com
 j3vvn.shop
+pronomy.com
 freelance-up.ru
 tokenely.com
 primarihash.com
