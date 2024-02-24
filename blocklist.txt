@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 23 Feb 2024 21:00:03 +0000
+! Last modified: Sat, 24 Feb 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+money-easilybjn.buzz
+avroracash24.com
+bitsarta.com
+bk-pay.online
+ticket-poland.online
+hublion.com
+jartinax.com
+jartina-x.pro
+cryptokluch.com
+lavation.in.net
+m6rl2.shop
+q3vz7.shop
+thysanoura.in.net
 lounge-movies.online
 raisdo.life
 billmature.online
