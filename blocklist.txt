@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 24 Feb 2024 21:00:03 +0000
+! Last modified: Sun, 25 Feb 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+right-sense.ru
+money-easilyfnf.buzz
+vavavarad.com
+valosity.com
+trustgame2024.shop
+twopays.ru
+pisipay.site
+p6qy2.shop
+888gektarov.ru
+tehno-klimat-russia.ru
+harilltech.com
+harill-tech.co
+implanter.in.net
+vertebrate.in.net
+y8xc1.shop
 money-easilybjn.buzz
 avroracash24.com
 bitsarta.com
