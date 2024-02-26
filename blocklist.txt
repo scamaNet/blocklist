@@ -1,10 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 25 Feb 2024 21:00:03 +0000
+! Last modified: Mon, 26 Feb 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+avertone.com
+4bestcoins.com
+exmanex.com
+naeban.com
+neroway.com
+nevebix.com
+nevobix.com
+teslalex.com
+vefonix.com
+vozonex.com
+boldcryptos.com
+give-science.ru
+atmirpay.online
+cpfmoney-easily.buzz
+theatr-drammat.online
+fishmouth.in.net
+x1vr9.shop
+y3wl6.shop
 right-sense.ru
 money-easilyfnf.buzz
 vavavarad.com
