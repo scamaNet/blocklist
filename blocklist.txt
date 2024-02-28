@@ -1,10 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 27 Feb 2024 21:00:04 +0000
+! Last modified: Wed, 28 Feb 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+dramatik-kassa.com
+eltermtmir.online
+drammat-theatr.online
+buystandup-lounge.site
+t5rm0.shop
+konsumia.com
+dworklott.com
+binumax.com
+marecoins.com
+bitcoin-capital.online
+bitmeget.com
+stellardexmarket.com
+gladybit.com
+nelorix.com
+polondex.com
+zonebix.com
+vulskgame.com
+ecdginc.com
+ecd-ginc.co
+phalangette.in.net
+sectionally.in.net
+t9qx4.shop
+z2kc8.shop
 digital-platesh.shop
 buybilets-standup.site
 keeppays.site
