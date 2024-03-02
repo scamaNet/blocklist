@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 01 Mar 2024 21:00:03 +0000
+! Last modified: Sat, 02 Mar 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+cash-termmir.online
+buystandup-show.site
+payment-226.com
+pwk212.ru
+afisha-central.com
+dram-theatr.online
+world-award-2024.xyz
+g8nq4.shop
 payment-224.com
 oprhomew.com
 gabyson.com
