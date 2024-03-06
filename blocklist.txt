@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 05 Mar 2024 21:00:03 +0000
+! Last modified: Wed, 06 Mar 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+official-prize-invite.xyz
+checkoplats.online
+delivery-465.info
+payment-235.com
+woinex.com
+novexes.com
+eos.bepoga.buzz
+a8llh.shop
+f3qqn.shop
+g4rrv.shop
+h5ssx.shop
+rollback.in.net
 saxila.com
 eos.bysoos.buzz
 eos.bonoos.buzz
