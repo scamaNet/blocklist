@@ -1,10 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 07 Mar 2024 21:00:04 +0000
+! Last modified: Fri, 08 Mar 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+cenalex.com
+cointy.one
+dexcoex.com
+linerax.com
+mevolix.com
+venluna.com
+wolcax.com
+ecocasino.ru
+okxcoinex.com
+money-easilyqpq.buzz
+online-get-prize.xyz
+web-prize-get.xyz
+mvideo.shop-e.icu
+mvideo.shop-rh.icu
+eos.bitoen.ru
+boughten.in.net
+f5bq8.shop
+k9yp4.shop
 cryptexone.com
 polihomew.com
 eldorado-store.shop
