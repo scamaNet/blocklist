@@ -1,10 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 08 Mar 2024 21:00:03 +0000
+! Last modified: Sat, 09 Mar 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitruste.com
+trustpllot.com
+otzowik.com
+prowarranty.ru
+reditestor.ru
+secureswop.com
+unixgarant.com
+velontix.com
+coinvibex.com
+official-info-gift.shop
+gih-fimo.org
+gihfimo.net
+wedos-xm.org
+wedosxm.net
+h4kl9.shop
+j9rm5.shop
+unneglected.in.net
 cenalex.com
 cointy.one
 dexcoex.com
