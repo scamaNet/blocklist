@@ -1,10 +1,34 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 09 Mar 2024 21:00:03 +0000
+! Last modified: Sun, 10 Mar 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+prize-info.xyz
+akvarte.ru
+cat-change.ru
+ex-white.ru
+global-ex.ru
+leodak.ru
+lets-change.ru
+lion-ex.ru
+loudeal.ru
+mauten.online
+maxi-mum.ru
+natebit.ru
+nix-exchange.ru
+nordchange.ru
+perfect-change.ru
+swap-coin.ru
+swap-ex.ru
+slinox.com
+todq.com
+iot-bizsoft.world
+iotbizsoft.com
+atlantid.in.net
+p8vq3.shop
+t8zp1.shop
 bitruste.com
 trustpllot.com
 otzowik.com
