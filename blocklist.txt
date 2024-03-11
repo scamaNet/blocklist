@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 10 Mar 2024 21:00:03 +0000
+! Last modified: Mon, 11 Mar 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+wave-cassa.shop
+artstandup-club.site
+gmvulcan.com
+kopyex.com
+nevoltex.com
+panlenex.com
+gabyson.com
+eldorado-online.store
+official-info-page.xyz
+official-invite-2024.xyz
+bassetite.in.net
+c3xz8.shop
+jackwood.in.net
+y9nq4.shop
 prize-info.xyz
 akvarte.ru
 cat-change.ru
