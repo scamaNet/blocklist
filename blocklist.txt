@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 12 Mar 2024 21:00:03 +0000
+! Last modified: Wed, 13 Mar 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+get-intention.ru
+mvideo.shop-bv.icu
+accq-sync.world
+accqsync.com
+eh-softech.co
+ehsoftech.com
+r-berinc.world
+rberinc.com
+skypas.site
+eos.bysoos.ru
+banstickle.in.net
+isooleic.in.net
+j3nv5.shop
+t6zq8.shop
+x7fm4.shop
 bitenexer.com
 sypeks.com
 wide-education.ru
