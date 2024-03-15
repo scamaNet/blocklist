@@ -1,10 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 14 Mar 2024 21:00:04 +0000
+! Last modified: Fri, 15 Mar 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitxdex.com
+nevibix.com
+mvideo.shop-fc.icu
+buypayment.online
+119633.ru
+rv3.ru
+boost-game.net
+boost-game.site
+schalmei.in.net
+t3wp1.shop
+k4bt2.shop
+orbiculation.in.net
+p5zr6.shop
+s3hk9.shop
+eos.bekoei.online
+eos.bitoen.online
 xbitme.com
 money-easilysks.buzz
 steamcommunllty.com
