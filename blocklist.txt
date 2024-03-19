@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 18 Mar 2024 21:00:03 +0000
+! Last modified: Tue, 19 Mar 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mvideo.shop-fi.icu
+jastbtcc.com
+bittrame.com
+godetsig.com
+pool-science.ru
+wetabix.us
+ru-pay.pics
+spen-platesh.shop
+cinema-multiplex.me
+eos.bepoga.online
+r8qv7.shop
+w7rx0.shop
+g2pq9.shop
 nexamel.com
 vavadadhr.com
 mvideo.shop-hl.icu
@@ -101,7 +114,6 @@ gmvulcan.com
 kopyex.com
 nevoltex.com
 panlenex.com
-gabyson.com
 eldorado-online.store
 official-info-page.xyz
 official-invite-2024.xyz
