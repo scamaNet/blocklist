@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 19 Mar 2024 21:00:03 +0000
+! Last modified: Wed, 20 Mar 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+coinswee.com
+eos.bihoit.online
+g6fz2.shop
+happyone.space
+l4nm5.shop
+mindfulliving.in.net
+s6yr2.shop
+j5vr7.shop
+v5hm4.shop
+x9zp6.shop
+casinotek.pro
 mvideo.shop-fi.icu
 jastbtcc.com
 bittrame.com
