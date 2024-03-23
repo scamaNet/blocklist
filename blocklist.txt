@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 22 Mar 2024 21:00:04 +0000
+! Last modified: Sat, 23 Mar 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+fozerex.com
+muskstart.com
+unblessedness.life
+eos.obmeni-pay.ru
+eos.obmeny-pay.ru
+s7qm8.shop
+t2zq6.shop
+w3zp7.shop
+g9zq3.shop
+j5fv1.shop
+l4pv9.shop
+t7km6.shop
+x8nr2.shop
 mvideo.shop-dh.icu
 eos.obmeni-punkt.ru
 rebush.eu
