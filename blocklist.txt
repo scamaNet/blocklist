@@ -1,10 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 25 Mar 2024 21:00:03 +0000
+! Last modified: Tue, 26 Mar 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+casinodem.online
+etherexmo.com
+banicy.com
+lunemex.com
+athomefreel.com
+mvideo.shop-nf.icu
+mirgates.online
+actors-gastrol.art
+ru-24newpay.online
+hirundine.mom
+eos.obmeni-punkt.online
+f2wq6.shop
+h5vr8.shop
+m8zk1.shop
+h5kq7.shop
+r8wm1.shop
+t9lv4.shop
+9099.one
 secure-oplata.shop
 mvideo.shop-dz.icu
 mvideo.shop-gl.icu
