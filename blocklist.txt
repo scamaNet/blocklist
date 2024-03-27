@@ -1,10 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 26 Mar 2024 21:00:03 +0000
+! Last modified: Wed, 27 Mar 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mvideo.shop-mz.icu
+bidmux.com
+btcmal.xyz
+lenutex.com
+senelon.com
+zenlunex.com
+exclitex.com
+gigantological.homes
+eos.obmeni-pay.online
+eos.obmeny-pay.online
+g9wq1.shop
+h4fz2.shop
+t6lk8.shop
+t3mk7.shop
+x9jp3.shop
+z1gv9.shop
 casinodem.online
 etherexmo.com
 banicy.com
