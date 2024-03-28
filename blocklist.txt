@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 27 Mar 2024 21:00:03 +0000
+! Last modified: Thu, 28 Mar 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+fixnid.com
+mvideo.shop-sg.icu
+paysec.site
+pwk-505.ru
+ru-24yearpay.online
+eos.obmen-pay-bit.online
+orometric.life
+presupplication.eu
+k8lq4.shop
+q6zp8.shop
+m3vr6.shop
+u4fk8.shop
+v9uq3.shop
+w6pm2.shop
 mvideo.shop-mz.icu
 bidmux.com
 btcmal.xyz
