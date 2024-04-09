@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 08 Apr 2024 21:00:03 +0000
+! Last modified: Tue, 09 Apr 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mvideo.shop-ws.icu
+mvideo.shop-xj.icu
+unnq.com
+biz-changer.ru
+change-el.ru
+change-enter.ru
+alescom-ktg.co
+alescomktg.com
 casinotrade.ru
 prostocashs.ru
 fevpay.com
