@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 11 Apr 2024 21:00:03 +0000
+! Last modified: Fri, 12 Apr 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+alcoinx.com
+bitxeros.com
+muskto.com
+discover-cassa.shop
+barstandup-production.site
+bullpays.ru
+pay-id398.shop
+accelli-vate.net
+accellivate.com
+biarq-co.cc
+biarqco.com
+tyhx-soft.world
+tyhxsoft.com
 mvideo.shop-kc.icu
 rusvps.ru
 zipnova.com
