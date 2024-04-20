@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 19 Apr 2024 21:00:04 +0000
+! Last modified: Sat, 20 Apr 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitbrance.com
+fixbit.space
+nationalholders.com
+xcrypto.space
+bitsmedia.online
+belialon.com
+e11kjb9.shop
+gslwnn.xyz
+sofdblf.xyz
+c9sa4.shop
+y6ow2.shop
+z1px7.shop
 gradano.com
 nuloni.com
 3sx4jlg.xyz
