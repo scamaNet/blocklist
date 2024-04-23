@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 22 Apr 2024 21:00:03 +0000
+! Last modified: Tue, 23 Apr 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+tradebitz.pro
+bitmart-wallet.com
+mvideo.shop-km.icu
+mvideo.shop-mr.icu
+fractave.com
+mesinotek.com
+mesino-tek.info
+tryrevri.com
+tryrev-ri.org
+opsensium.com
+op-sensium.org
+bypoul.com
+c6sa1.shop
+p2fn1.shop
+q7go6.shop
 kuxlim.com
 ru-payment19.com
 mvideo.shop-kd.icu
