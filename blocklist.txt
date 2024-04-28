@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 27 Apr 2024 21:00:03 +0000
+! Last modified: Sun, 28 Apr 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+joinxcoin.com
+xchange-crypto.com
+fortebit.com
+dezlanpr.com
+dezlan-pr.org
+sayanemp.net
+sayane-mp.org
+disgustedly.xyz
+u1mo6.shop
+a6qizj.ygv8jdur.xyz
+a6qizj.7zsqiw8t.shop
 flayixcoin.com
 7zsqiw8t.shop
 fsbhoz88.shop
