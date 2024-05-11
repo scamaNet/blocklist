@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 10 May 2024 21:00:03 +0000
+! Last modified: Sat, 11 May 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+dengizavopros.ru
+moneysvopros.ru
+qnonix.com
+mirestrad-theatral.online
+corfsla.com
+corf-sla.co
+acceng.net
+acce-ng.pro
+k2ee2.shop
 sinavtdes.com
 sinavt-des.pro
 mjkahs.com
