@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 13 May 2024 21:00:04 +0000
+! Last modified: Tue, 14 May 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+fedgie.com
+exchangemoney.click
+worker-24.top
+bestcasino999.ru
+bitexswap.cc
+bitheds.com
+cooolix.com
+fitexbit.com
+foydex.com
+lumenchange.com
+marsbycoin.com
+wecom.trade
+wegitex.com
+xderex.com
+1qw1w.shop
+3lsj6.shop
+0899.one
+overnurse.digital
+subheading.pro
 bitorbi.com
 abcorepro.com
 kwl-relv.co
