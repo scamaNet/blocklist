@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 15 May 2024 21:00:03 +0000
+! Last modified: Thu, 16 May 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+earnduo.com
+fovementi.com
+fove-menti.net
+h9bb6.shop
+bet-365.today
+expoviex.com
+lemanair.com
+concoagulation.lol
+parathetic.xyz
+purpurine.xyz
+s.bonus-pay2.ru
 farlum.com
 coinfares.com
 4rsdk.shop
