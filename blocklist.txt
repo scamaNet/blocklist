@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 18 May 2024 21:00:03 +0000
+! Last modified: Sun, 19 May 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+beetyx.com
+crypt24changes.com
+ekh0p.shop
+ot7oh.shop
+4c9mp.shop
+f1y1n.shop
+elevener.homes
+uncustomed.digital
 bitportex.com
 e1d5l.shop
 n6hh4.shop
