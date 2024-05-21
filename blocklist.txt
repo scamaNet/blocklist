@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 20 May 2024 21:00:03 +0000
+! Last modified: Tue, 21 May 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitstatus.org
+defidel.com
+dramstheatr.online
+getonvgo.com
+getonv-go.net
+wogerlan.com
+woger-lan.org
+postobituary.digital
+postobituary.lol
+quarter.lol
+c-money-bitrade.org
 pay-id994.shop
 convertswap.com
 propylic.life
