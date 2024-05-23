@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 22 May 2024 21:00:03 +0000
+! Last modified: Thu, 23 May 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+iswapcoin.com
+coinw-market.com
+change-ultra.com
+aberlyst.com
+arancemv.com
+aber-lyst.org
+arance-mv.cc
+frizzily.digital
+monoblepsis.pro
+sarcophagid.lol
+sarcophagid.world
+giveripple.net
 barium.pro
 hexactinellid.biz
 infusile.info
