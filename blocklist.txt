@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 25 May 2024 21:00:03 +0000
+! Last modified: Sun, 26 May 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+paxibets.com
+24exbit.com
+adviserbit.com
+bitumpex.com
+bitxtop.com
+ebitrex.com
+exbitz.com
+kindlecoin.com
+slander.pics
+slander.world
+turbomotor.world
 attunneam.com
 attun-neam.world
 gitrex.trade
@@ -149,6 +160,7 @@ delivery-fast.xyz
 anocoinex.pro
 land-kino.ru
 acecryptos.org
+coinguse.com
 tearfix.com
 vulkanskv.com
 kvos.yontoo.online
@@ -248,6 +260,7 @@ bitbrance.com
 fixbit.space
 nationalholders.com
 xcrypto.space
+bytex.world
 bitsmedia.online
 belialon.com
 e11kjb9.shop
@@ -315,6 +328,8 @@ vulkans-game.com
 mvideo.shop-cq.icu
 mvideo.shop-op.icu
 change-grand.ru
+fedgex.com
+exquark.com
 mvideo.shop-ws.icu
 mvideo.shop-xj.icu
 unnq.com
@@ -383,6 +398,8 @@ mvideo.shop-cv.icu
 mvideo.shop-di.icu
 t1bc6.shop
 v5de9.shop
+cryptraff.com
+trustouch.com
 nexawavex.com
 htbfgsmnc.shop
 boxkyte.com
@@ -630,6 +647,8 @@ t6zq8.shop
 x7fm4.shop
 bitenexer.com
 sypeks.com
+bincryption.com
+bittox.org
 wide-education.ru
 baresbit.com
 x-uniswap.com
@@ -755,6 +774,7 @@ eos.bonoos.buzz
 e2ppm.shop
 phyllanthus.in.net
 squill.in.net
+bitcrytex.com
 flow-dex.com
 muscoinx.com
 money-easilyooj.buzz
@@ -1274,6 +1294,7 @@ onda-zemi.co
 mvideo.promo-t.shop
 t3mln.shop
 u4nmv.shop
+crypterax.com
 mega-bet.live
 nevelix.com
 nexuscrypt.net
