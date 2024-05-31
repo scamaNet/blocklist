@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 30 May 2024 21:00:04 +0000
+! Last modified: Fri, 31 May 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+flipnswop.com
+filmesnights.online
+secret-cinema.ru
+424cf.shop
+brentflow.com
+dracomi.net
+dra-comi.co
+immovably.world
+corporateness.lol
+money4clickuud.shop
 pay-id968.shop
 wacmoney.cfd
 job24earning.top
@@ -170,6 +180,7 @@ pactenfx.com
 proveni-t.biz
 proveni-tech.cc
 privacy-game.net
+umbetax.com
 mvideo.shop-lj.icu
 blustar.site
 mvideo.shop-iw.icu
