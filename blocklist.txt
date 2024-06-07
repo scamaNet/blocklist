@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 06 Jun 2024 21:00:03 +0000
+! Last modified: Fri, 07 Jun 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+wolfslash.com
+mvideo.shop-rq.cfd
+mvideo.shop-rw.cfd
+1obwk.shop
+y2ch2.shop
+melinda.lol
+titmarsh.mom
+valerian.digital
 pgpays.site
 mvideo.shop-em.cfd
 thetoptrade.com
