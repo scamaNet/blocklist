@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 07 Jun 2024 21:00:03 +0000
+! Last modified: Sat, 08 Jun 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mvideo.swap-s.cfd
+megacasino777.ru
+bravecatch.com
+gigate-trade.com
+cryptoorbit.pro
+minebitex.com
+s07t4.shop
+girse.world
+gudgeon.homes
+spacex-event.com
 wolfslash.com
 mvideo.shop-rq.cfd
 mvideo.shop-rw.cfd
