@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 08 Jun 2024 21:00:04 +0000
+! Last modified: Sun, 09 Jun 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bigtikx.com
+burnbit.com
+fexocex.com
+bitgalleria.com
+bitsim-trade.com
+cryptounlimit.net
+mvideo.shop-ry.cfd
+zec6hc.socwl0.shop
+soldierbird.network
+ripplee.org
+xrp-work.com
 mvideo.swap-s.cfd
 megacasino777.ru
 bravecatch.com
