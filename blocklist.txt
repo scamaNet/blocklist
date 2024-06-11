@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 10 Jun 2024 21:00:03 +0000
+! Last modified: Tue, 11 Jun 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mvideo.shop-rf.cfd
+bonnte.com
+101mk.ru
+allcasino24.online
+bluetok.site
+blumods.site
+azjt0z.world
+3lpmq.shop
+psychorhythmical.homes
+thamudic.life
+tubatoxin.xyz
+v6sfk.shop
+eglob.nusynwe.online
 morelittle.com
 idlesquad.com
 askatif.com
