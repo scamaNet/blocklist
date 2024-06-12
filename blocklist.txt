@@ -1,10 +1,30 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 11 Jun 2024 21:00:03 +0000
+! Last modified: Wed, 12 Jun 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+tailocker.com
+mvideo.shop-rh.cfd
+mvideo.shop-rl.cfd
+crypto-qs.com
+shexbit.com
+antiqbit.com
+internet-point.ru
+atlasstrategytrading.net
+bit.teocashouteu.xyz
+10v1g.shop
+g2w90.shop
+oc3xr.shop
+yz7dj.shop
+heteroplastic.in.net
+nonresisting.xyz
+tubatoxin.digital
+zec6hc.oo1fyb93.xyz
+zec6hc.pmzcz3ln.xyz
+zec6hc.qjvwx9sx.xyz
+zec6hc.kuyuq1jn.world
 mvideo.shop-rf.cfd
 bonnte.com
 101mk.ru
@@ -405,6 +425,7 @@ tradestar.top
 tobiba.com
 neoucore.com
 neou-core.info
+y4ow8.shop
 axopi.com
 roy-log.world
 roylog.com
