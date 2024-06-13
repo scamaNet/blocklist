@@ -1,10 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 12 Jun 2024 21:00:03 +0000
+! Last modified: Thu, 13 Jun 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+binosy.com
+betonobmen.com
+affemme.com
+evilmart.com
+mvideo.shop-rx.cfd
+bosoxo.com
+bulletgrid.com
+internationalcommunitylawyers.info
+puyeer.icu
+rfh42.shop
+xwc6g.shop
+ymo3v.shop
+zec6hc.dmcrqkwa.world
+zec6hc.ppaeqeeqj.xyz
+unremembered.homes
+monotony.lol
+paybux.creatium.site
+minings.icu
 tailocker.com
 mvideo.shop-rh.cfd
 mvideo.shop-rl.cfd
@@ -365,6 +383,7 @@ bitmarkethub.com
 kos.yontoo.online
 j2zh9.shop
 k7ai4.shop
+greenexchangex.com
 g9we3.shop
 tradebitz.pro
 bitmart-wallet.com
