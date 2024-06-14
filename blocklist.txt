@@ -1,10 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 13 Jun 2024 21:00:03 +0000
+! Last modified: Fri, 14 Jun 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+scompa.com
+mvideo.shop-rb.cfd
+mvideo.shop-rm.cfd
+bitlifliks.com
+dermoidal.xyz
+jasmone.lol
+monotony.homes
+nonresisting.life
+unremembered.xyz
+vellotzio.com
+vellot-zio.org
+gvartech.com
+gvar-tech.world
+zec6hc.0gbejdi82.world
+zec6hc.q3zke7opq.xyz
+9pnk4.shop
+hpto8.shop
+rzju6.shop
+uxxb3.shop
+elonmusk.gives
+getdoublemusk.com
 binosy.com
 betonobmen.com
 affemme.com
