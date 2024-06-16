@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 15 Jun 2024 21:00:03 +0000
+! Last modified: Sun, 16 Jun 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+y1sd6.firigug.cfd
+y1sd6.secibes.cfd
+zec6hc.hujo5a1u7.xyz
+zec6hc.yvufrdn6k.world
+callowman.world
+opalinidae.life
+promorphology.xyz
+jicz8.shop
+kmym4.shop
+p9z52.shop
+bonus-app.app
+coimglecs.com
+mvideo.shop-tr.cfd
+xrphold.io
 y1sd6.dubihyw.cfd
 zec6hc.2qhwvvaom.world
 zec6hc.gtwxsmj1s.shop
