@@ -1,10 +1,49 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 16 Jun 2024 21:00:03 +0000
+! Last modified: Mon, 17 Jun 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mvideo.shop-td.cfd
+mvideo.shop-tf.cfd
+aronum.com
+zec6hc.3jox9k.xyz
+zec6hc.pdkbftvrq.shop
+vavadasvd.com
+ixchang.cc
+vsemwork24.top
+bigeetex.xyz
+wonexbit.com
+acetrex.com
+awinex.com
+bralbit.com
+deevdexc.com
+exsobit.com
+fairdesc.com
+karcof.com
+kuisk.com
+lorums.com
+mbgive.com
+mbitchange.com
+saxful.com
+spectr-invest.online
+virtulterminual.com
+5jr7j.shop
+fwe2s.shop
+i2fhk.shop
+pmy2p.shop
+y1sd6.hageqic.cfd
+y1sd6.havifyw.cfd
+y1sd6.negoroc.cfd
+y1sd6.vajaqys.cfd
+y1sd6.vigibub.cfd
+bronzify.pro
+impinge.xyz
+lufberry.lol
+robustful.lol
+robustful.world
+undelude.xyz
 y1sd6.firigug.cfd
 y1sd6.secibes.cfd
 zec6hc.hujo5a1u7.xyz
