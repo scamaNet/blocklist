@@ -1,10 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 17 Jun 2024 21:00:03 +0000
+! Last modified: Tue, 18 Jun 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+zec6hc.cer0dn.shop
+zec6hc.pqxmdt.world
+7xvrs.dijejoq.cfd
+7xvrs.gupeper.cfd
+benzene.digital
+cataractine.pro
+mountainet.digital
+orthorhombic.homes
+perineurial.world
+undelude.world
+aq9d2.shop
+p9ty3.shop
+wo8ir.shop
+coinw-wallet.com
+mvideo.shop-ts.cfd
+askapot.com
+trustwalte.org
 mvideo.shop-td.cfd
 mvideo.shop-tf.cfd
 aronum.com
