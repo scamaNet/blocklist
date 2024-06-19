@@ -1,10 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 18 Jun 2024 21:00:03 +0000
+! Last modified: Wed, 19 Jun 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+alicanzo.com
+mvideo.shop-nd.cfd
+mvideo.shop-w.sbs
+norvbit.com
+vaviana.com
+monkic.com
+zec6hc.ccce0x.world
+zec6hc.gwadk0.xyz
+zec6hc.rlhacf.shop
+zec6hc.tc3fab.xyz
+593vq.cunolub.cfd
+7xvrs.gebaduw.cfd
+7xvrs.taleber.cfd
+compress.homes
+gridelin.info
+subcoastal.mom
+unwinking.mom
+6eyt7.shop
+8u54t.shop
+j5gz1.shop
+ly7wm.shop
+nutricism.co
+evomgtco.com
+evom-gtco.pro
+zgpclm.com
+fauc3t.pro
 zec6hc.cer0dn.shop
 zec6hc.pqxmdt.world
 7xvrs.dijejoq.cfd
@@ -237,6 +263,7 @@ abeyo-life.co
 coinbit.us.com
 standup-buybilets.site
 bchanges.com
+izseta.com
 bisonionsi.com
 bisoni-onsi.co
 fonbit.net
@@ -296,6 +323,7 @@ nanowirx.com
 nalirsan.com
 nanowi-rx.info
 naril-san.co
+gfdhgj.com
 domagreen.pro
 messiness.life
 microtus.lol
@@ -350,6 +378,7 @@ dinopi.com
 actubi.com
 k2ee5.shop
 m1gg8.shop
+cuiyjn.com
 9875.one
 demihogshead.homes
 unrefused.xyz
@@ -431,6 +460,7 @@ mvideo.shop-iw.icu
 delivery-fast.xyz
 anocoinex.pro
 land-kino.ru
+ssykvb.com
 acecryptos.org
 coinguse.com
 tearfix.com
@@ -477,6 +507,7 @@ x10wxdas.world
 joinxcoin.com
 xchange-crypto.com
 fortebit.com
+suguoi.com
 dezlanpr.com
 dezlan-pr.org
 sayanemp.net
