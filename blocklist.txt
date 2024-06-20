@@ -1,10 +1,37 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 19 Jun 2024 21:00:03 +0000
+! Last modified: Thu, 20 Jun 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+zec6hc.bhcmvf.xyz
+zec6hc.weyixl.world
+7xvrs.fefevel.cfd
+7xvrs.nabawoh.cfd
+exter.life
+homosexualism.lol
+homosexualism.mom
+reafflict.pro
+unrevengeful.life
+0g5we.shop
+54ww2.shop
+6vigc.shop
+hgr0e.shop
+llo5c.shop
+evobit.io
+heolis.com
+aterva.com
+mvideo.shop-tc.sbs
+sanvana.com
+cryperax.com
+agoo-lim.co
+agoolim.com
+gk-teksoft.co
+gkteksoft.com
+jenusyn.cc
+jenu-syn.org
+lnxmgroup.com
 alicanzo.com
 mvideo.shop-nd.cfd
 mvideo.shop-w.sbs
@@ -264,6 +291,7 @@ coinbit.us.com
 standup-buybilets.site
 bchanges.com
 izseta.com
+wdrcapital.com
 bisonionsi.com
 bisoni-onsi.co
 fonbit.net
@@ -314,6 +342,7 @@ kindlecoin.com
 slander.pics
 slander.world
 turbomotor.world
+xtbelion.com
 attunneam.com
 attun-neam.world
 gitrex.trade
@@ -369,6 +398,7 @@ bitportex.com
 e1d5l.shop
 n6hh4.shop
 o1ii1.shop
+oytcompany.com
 coperiodic.xyz
 tesis.lol
 unturgid.world
