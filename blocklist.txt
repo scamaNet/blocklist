@@ -1,10 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 20 Jun 2024 21:00:03 +0000
+! Last modified: Fri, 21 Jun 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+zec6hc.tsmdri.xyz
+zec6hc.y2csz4by.xyz
+7xvrs.xavaneh.cfd
+commonize.co
+nonpenal.co
+reinability.mom
+supersuperabundant.mom
+go1p8.shop
+gq13x.shop
+mh860.shop
+ru-oplatagod24.online
+mvideo.shop-es.sbs
+mvideo.shop-yq.sbs
+tonario.com
+axiband.com
+w1q.ru
 zec6hc.bhcmvf.xyz
 zec6hc.weyixl.world
 7xvrs.fefevel.cfd
