@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 21 Jun 2024 21:00:03 +0000
+! Last modified: Sat, 22 Jun 2024 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+zec6hc.3anm1wfn.shop
+7xvrs.ticekob.cfd
+ideogenous.world
+limnorioid.xyz
+overfastidiously.co
+parasitoid.homes
+parasitoid.xyz
+14ika.shop
+oem0h.shop
+cftdh.com
+edcscw.com
+tepincorp.com
+tepin-corp.biz
 zec6hc.tsmdri.xyz
 zec6hc.y2csz4by.xyz
 7xvrs.xavaneh.cfd
