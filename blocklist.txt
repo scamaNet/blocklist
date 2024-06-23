@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 22 Jun 2024 21:00:02 +0000
+! Last modified: Sun, 23 Jun 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+hindhand.network
+metapophysial.lol
+ois77.shop
+overfastidiously.lol
+quinquiliteral.network
+4fp6x.shop
+4i77z.shop
+h1g7f.shop
+mirgameonline.ru
+qstpg.com
+viepay.site
+zec6hc.kksu2urz.world
+zec6hc.tqarexm3.xyz
 zec6hc.3anm1wfn.shop
 7xvrs.ticekob.cfd
 ideogenous.world
