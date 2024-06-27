@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 26 Jun 2024 21:00:03 +0000
+! Last modified: Thu, 27 Jun 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+zec6hc.1ipzhjsig.world
+zec6hc.nhg9ydlq.xyz
+hemilingual.world
+lky8w.shop
+scaddle.digital
+shafiite.lol
+arfnmxvst.shop
+ja7swfeg7.shop
+kppkcb3rx.shop
+boostgene.com
+clurax.com
+bloomant.com
+tvou-onlin-oproc24.ru
+ru-payment-100.com
 gyroxbit.com
 i39gocih.shop
 zec6hc.stbinm3r.shop
