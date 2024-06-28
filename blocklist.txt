@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 27 Jun 2024 21:00:04 +0000
+! Last modified: Fri, 28 Jun 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+zec6hc.3s5ya1ou.xyz
+zec6hc.edherzm4.xyz
+achillea.digital
+lepisosteidae.mom
+pneumatist.mom
+capitalciq.shop
+epichoric.top
+fundj8f.shop
+investjla.shop
+sensorimotor.top
+stockznv.shop
+bitcoindar.com
+flyrix.com
+swiftcrypto.pro
 zec6hc.1ipzhjsig.world
 zec6hc.nhg9ydlq.xyz
 hemilingual.world
