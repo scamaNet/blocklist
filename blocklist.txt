@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 29 Jun 2024 21:00:03 +0000
+! Last modified: Sun, 30 Jun 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+zec6hc.bopqj2ab.world
+zec6hc.ed910xkr.xyz
+zec6hc.gjovsqie.shop
+dikkop.lol
+mistitle.lol
+mistitle.mom
+mistitle.pro
+mistitle.world
+suspire.lol
+suspire.mom
+wz29m.shop
+economizer.top
+bet-1-win.today
+gigabit-trade.com
+market-uniswap.com
+icpays.site
+clemoa.com
+traktorxprofi.ru
+nmvif.com
 exterrestrial.lol
 padle.info
 parsondom.digital
