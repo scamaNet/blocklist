@@ -1,10 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 03 Jul 2024 21:00:04 +0000
+! Last modified: Thu, 04 Jul 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+ecovatio.com
+corgeo.com
+dnny.com
+mtyd.com
+frexbit.com
+meonenex.com
+convertris.com
+rowzerovr.com
+rowze-rovr.pro
+rbcmorng.com
+zec6hc.yi1uyn9l.shop
+zec6hc.hdxahao3.world
+7xvrs.kyluhud.cfd
+cvn78mx4.world
+dptobyx9.xyz
+intralocular.top
+disappearance.world
+exonerative.top
+tumular.homes
+tumular.mom
+yjmc5.shop
 7xvrs.qonubab.cfd
 mvideo.shop-wb.sbs
 trader-now.net
