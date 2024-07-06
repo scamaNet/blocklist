@@ -1,10 +1,37 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 05 Jul 2024 21:00:05 +0000
+! Last modified: Sat, 06 Jul 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+lv6xddnh.world
+edr2oqtf.xyz
+7xvrs.pyvygut.cfd
+colonopathy.top
+everlastingly.top
+gendarme.mom
+scrupulosity.top
+secondhandedness.homes
+tradeorbit.pro
+digarb.com
+bitget-wallet.com
+mvideo.shop-rd.sbs
+mvideo.shop-tq.sbs
+mvideo.shop-tw.sbs
+pcbitcoin.com
+cidexa.com
+coinnem.com
+cryptostasis.com
+dewdex.com
+foxsea.com
+fundbit.com
+rocketxup.com
+roylex.com
+cyberticks.com
+equichange.com
+desposable.com
+factvine.com
 usdtchanger24.com
 neviana.com
 y1sd6.zipukyn.cfd
