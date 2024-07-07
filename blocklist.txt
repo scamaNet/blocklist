@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 06 Jul 2024 21:00:04 +0000
+! Last modified: Sun, 07 Jul 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+zec6hc.msppddk3.world
+4-payment.ru
+mvideo.shop-te.sbs
+payswap.ru
+cryptovaulting.com
+dichroitic.pro
+elaboratory.top
+furcately.world
+untemperately.world
+7xvrs.bifabuc.cfd
+7xvrs.denoqov.cfd
+7xvrs.gonyzal.cfd
+xrpweb.org
 lv6xddnh.world
 edr2oqtf.xyz
 7xvrs.pyvygut.cfd
