@@ -1,10 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 10 Jul 2024 21:00:03 +0000
+! Last modified: Thu, 11 Jul 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+coin-smart.pro
+bitfanlix.pro
+bitnovix.com
+binfince.com
+contactcap.com
+delaismelo.com
+mvideo.shop-th.sbs
+mvideo.shop-uw.sbs
+icdcsc.com
+dcscwy.com
+eslvsm.com
+glnkzl.com
+rnasquen.pro
+rna-quen.cc
+jideruw.cfd
+oqailgc.world
+plpnhez.shop
+allonymous.top
+lamus.world
+s1wm3.shop
+m6wve.shop
+taky.lol
+ibedux.com
 pullsbit.com
 bitgorden.com
 coinimpax.com
