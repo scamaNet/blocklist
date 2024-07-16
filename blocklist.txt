@@ -1,10 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 15 Jul 2024 21:00:06 +0000
+! Last modified: Tue, 16 Jul 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitupcash.com
+mvideo.shop-ps.sbs
+ogonto.com
+buy-tickets.me
+etransportpools.ru
+ssn.azzzoma.click
+birytos.cfd
+dixaced.cfd
+fyhyxyj.cfd
+n0hygtw.shop
+tonapeq.cfd
+abounding.top
+irrestrainably.blog
+protodont.info
+zoril.xyz
+ichthyologic.top
+withdrawal.top
+fiatex.ru
+cglob.ledfffero.online
+aifynet.com
+aify-net.org
 combination.top
 commensality.top
 introspectively.top
