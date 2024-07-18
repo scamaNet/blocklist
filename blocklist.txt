@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 17 Jul 2024 21:00:04 +0000
+! Last modified: Thu, 18 Jul 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+theatre.ru.net
+theater-dram.shop
+buy-tickets.org
+mvideo.shop-az.sbs
+vavadabns.com
+celectiv.com
+comcado.com
+fameso.com
+galovo.com
+promunum.com
+sicama.com
+fbd3kef.world
+traktors.shop
+tractorxsale.ru
 cicapud.cfd
 ioqecf5.shop
 orozoqj.world
