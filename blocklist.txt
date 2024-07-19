@@ -1,10 +1,54 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 18 Jul 2024 21:00:03 +0000
+! Last modified: Fri, 19 Jul 2024 21:00:08 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+absorptiometric.top
+phenological.top
+felixbet.pro
+mi-keys.store
+war-keys.ru
+bluber.site
+bluefoxi.site
+bluepublic.site
+blueset.site
+blunext.site
+bluwork.site
+cklipex.site
+litoke.site
+qipvideo.site
+skview.site
+skyget.website
+skynex.website
+dopixol.cfd
+fts5lmo.shop
+mamyqos.cfd
+ml5xabn.xyz
+z33fiyk.xyz
+zipuruc.cfd
+anisoin.homes
+anisoin.pics
+antimilitary.top
+erotophobia.top
+hypokalemic.top
+neuropterology.top
+ordines.digital
+phlebotome.life
+shocking.top
+vasohypertonic.top
+eldorado.1catalog-shop.top
+eldorado.ru-service-pay.buzz
+datroniq.com
+ogentix.net
+slocazerau.pro
+datro-niq.cc
+ogent-ix.co
+sloae-au.info
+doubletesla.net
+musktrump.net
+usdmusk.com
 theatre.ru.net
 theater-dram.shop
 buy-tickets.org
