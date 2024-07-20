@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 19 Jul 2024 21:00:08 +0000
+! Last modified: Sat, 20 Jul 2024 21:00:07 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+botuquh.cfd
+rijadiv.cfd
+hermeticism.pics
+uncontestedness.lol
+uncontestedness.pro
+annihilated.top
+enantiopathic.top
+hundredth.top
+penalisation.top
+stymin.top
+mvideo.shop-as.sbs
+xepinwg.shop
+bovarious.com
+seatl.com
+lgglcc.com
+technetusc.net
+diapumi.pro
+tech-netusc.co
+d-iapumi.co
 absorptiometric.top
 phenological.top
 felixbet.pro
