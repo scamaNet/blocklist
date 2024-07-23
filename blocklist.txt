@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 22 Jul 2024 21:00:06 +0000
+! Last modified: Tue, 23 Jul 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+gg9b97yis.xyz
+adivion.com
+baseldao.com
+exponum.com
+hilasoft.com
+swapti.com
+assignment.top
+electromagnetism.top
+faganok.top
+startcheker.top
 drixbit.com
 mvideo.shop-an.sbs
 gfloqnp.shop
@@ -281,6 +291,7 @@ scrupulosity.top
 secondhandedness.homes
 tradeorbit.pro
 digarb.com
+coingym.com
 bitget-wallet.com
 mvideo.shop-rd.sbs
 mvideo.shop-tq.sbs
