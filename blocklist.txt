@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 24 Jul 2024 21:00:03 +0000
+! Last modified: Thu, 25 Jul 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+coinforgee.com
+crypto-change.in
+adalana.com
+patentio.com
+astronios.com
+intrepida.top
+pantaloonery.top
+28gxet2nl.world
+smartsolidity.online
 mvideo.shop-dx.sbs
 artists-visuals.net
 stand-club.org
@@ -15,6 +24,7 @@ qvb2a0do0.world
 acceptable.top
 vivicloud.top
 gg9b97yis.xyz
+bankfamous.com
 adivion.com
 baseldao.com
 exponum.com
