@@ -1,10 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 26 Jul 2024 21:00:04 +0000
+! Last modified: Sat, 27 Jul 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+findivia.com
+hosonline.com
+piggysoft.com
+valvena.com
+rancapit.com
+fitorsolf.pro
+muolarilinx.pro
+fitor-solf.info
+muo-larix.info
+clwj.com
+bitcelix.com
+flyixcoin.com
+novabyt.com
+oudex.com
+ryxevyl.cfd
+ypbaad6pq.shop
+m2qpm.shop
+natriuretic.top
 gaxatulo.pro
 kifgoetav.pro
 kif-gotv.co
