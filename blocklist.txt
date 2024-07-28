@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 27 Jul 2024 21:00:03 +0000
+! Last modified: Sun, 28 Jul 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+fenoris.com
+finpodo.com
+probeyond.com
+nasanetac.com
+nsn-tac.co
+coinbault.com
+coinexos.com
+gzstps.com
+dyfefyz.cfd
+bonevtiks.top
 findivia.com
 hosonline.com
 piggysoft.com
