@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 28 Jul 2024 21:00:03 +0000
+! Last modified: Mon, 29 Jul 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+coinria.com
+weglos.com
+alfs-jul10.com
+sbrbs-juls27.com
+tnksf-jul27.com
+coinryzen.com
+edexbit.com
+bitupdex.com
+devitalizes.top
+batodyf.cfd
+q9uqybnzu.xyz
 fenoris.com
 finpodo.com
 probeyond.com
