@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 30 Jul 2024 21:00:03 +0000
+! Last modified: Wed, 31 Jul 2024 21:00:06 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mvideo.shop-ha.sbs
+trustexes.one
+couch24.top
+richinxin.com
+bemrenat.pro
+bem-ent.co
+be7flvwa.xyz
+dewjib2t.xyz
+lu4sddlv.xyz
+vefywex.cfd
 ru-3688.pro
 cryptorulesz.com
 mvideo.shop-jz.sbs
@@ -721,6 +731,7 @@ p9z52.shop
 bonus-app.app
 coimglecs.com
 mvideo.shop-tr.cfd
+phenixin.io
 xrphold.io
 y1sd6.dubihyw.cfd
 zec6hc.2qhwvvaom.world
@@ -1341,6 +1352,7 @@ crypik.ru
 yochange.ru
 coinnexup.com
 hubexbit.com
+fundexx.co
 m3td1.shop
 p2vf4.shop
 k9nq6.shop
