@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 31 Jul 2024 21:00:06 +0000
+! Last modified: Thu, 01 Aug 2024 21:00:06 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+doxespace.com
+owldnacom.top
+democraticat.top
+wyncllc.com
+bitenx.us
+bitnoxy.com
+prendex.org
+mvideo.shop-zx.sbs
+mvideo.shop-is.sbs
+nula.vonnula.ru
+surgirux.pro
+sur-girux.info
+chaptersfinance.com
 mvideo.shop-ha.sbs
 trustexes.one
 couch24.top
@@ -29,6 +42,7 @@ tnksf-jul27.com
 coinryzen.com
 edexbit.com
 bitupdex.com
+optimabusinessconsulting.net
 devitalizes.top
 batodyf.cfd
 q9uqybnzu.xyz
@@ -204,6 +218,7 @@ cyprus-certification-securities.com
 dubai-fsa-certification.net
 fsa-registration-uk.com
 valtether.com
+journeyinvestltd.com
 hamizons.pro
 hm-os.co
 bitupcash.com
@@ -580,6 +595,7 @@ qstpg.com
 viepay.site
 zec6hc.kksu2urz.world
 zec6hc.tqarexm3.xyz
+brocktradeltd.com
 zec6hc.3anm1wfn.shop
 7xvrs.ticekob.cfd
 ideogenous.world
