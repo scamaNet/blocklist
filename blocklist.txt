@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 01 Aug 2024 21:00:06 +0000
+! Last modified: Fri, 02 Aug 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+time-to-pay.pw
+jp8gaooo.xyz
+p5rpshj3.world
+finprosper.shop
+firstlasta.top
+fundvision.shop
+lyardorpi.pro
+lyardo-pi.cc
 doxespace.com
 owldnacom.top
 democraticat.top
