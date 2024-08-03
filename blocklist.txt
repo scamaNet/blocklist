@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 02 Aug 2024 21:00:03 +0000
+! Last modified: Sat, 03 Aug 2024 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+baradex.com
+defibit.trade
+exchangedays.com
+parcustech.pro
+parus-eh.info
+rrcmk.com
+searchnema.top
+nvestjourney.shop
+uex0tfjq.shop
 time-to-pay.pw
 jp8gaooo.xyz
 p5rpshj3.world
