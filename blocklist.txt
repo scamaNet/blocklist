@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 07 Aug 2024 21:00:04 +0000
+! Last modified: Thu, 08 Aug 2024 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+casino-stroy.ru
+payreen.com
+pixlpye.pro
+gerionomy.com
+pixl-pye.cc
+gerio-nomy.cc
+sirocyabi.com
+siro-cybi.world
+derahen.cfd
+snkrq5gu.xyz
 ru-4028.pro
 gojob.sbs
 hccllb.com
