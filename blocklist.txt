@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 09 Aug 2024 21:00:04 +0000
+! Last modified: Sat, 10 Aug 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+tradexsell.com
+elmemonir.cc
+elme-monir.co
+bitwane.com
+criminological.fun
+skirmisher.top
+dukojit.cfd
+eqe2uuu9.xyz
+f3yerrtz.shop
+humusov.cfd
+ufjsny94.world
 mvideo.shop-kv.sbs
 eah7qzt0.world
 dlpkb0zk.xyz
