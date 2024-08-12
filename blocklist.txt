@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 11 Aug 2024 21:00:03 +0000
+! Last modified: Mon, 12 Aug 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+cglob.besolo.ru
+feoki.com
+fuosi.com
+nativelush.com
+aibit-bitrade.org
+nyceqac.cfd
+vemaber.cfd
+cercopithecidae.fun
+hyracotherium.fun
+insanelinit.top
+mediolateral.shop
+osteogenetic.shop
+territorialize.fun
 tradelly.fi
 tranzbix.com
 disinterestedly.fun
