@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 13 Aug 2024 21:00:03 +0000
+! Last modified: Wed, 14 Aug 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+alarya.com
+xfortwincas.com
+maltagaming.su
+evos.wippgros.online
+epidermophyton.fun
+extraventricular.fun
+reduplicatively.fun
+unrecoverable.fun
+bo6gxmkch.xyz
+lixegyk.cfd
+qyvukaz.cfd
+sypinoz.cfd
+tftzsjrjz.xyz
 gastrols-artist.net
 kassapartner.ru
 theatrical-dreams.one
