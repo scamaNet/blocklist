@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 15 Aug 2024 21:00:05 +0000
+! Last modified: Fri, 16 Aug 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+crypx.net
+hlfhw2cd.shop
+ijxnzirz.xyz
+anenro.com
+cisage.com
+koade.com
+roadability.fun
+reinterpretation.fun
+jhkwcl.com
+imegtrade.com
+imeg-trade.com
 trader-now.in
 mvideo.shop-ja.sbs
 fiveru.com
