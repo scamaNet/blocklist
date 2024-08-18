@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 17 Aug 2024 21:00:05 +0000
+! Last modified: Sun, 18 Aug 2024 21:00:06 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+day-organise.net
+beast-market.com
+biteqs.com
+coinpioner.com
+cryptoss.wales
+vividtrade.pro
+jepoqor.cfd
+x0gcwkona.shop
+xivinyn.cfd
+ydjohc5f.world
+tulipomaniac.shop
+despicability.fun
 einrbnlars.store
 5scdhcan.world
 pymabyb.cfd
