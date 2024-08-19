@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 18 Aug 2024 21:00:06 +0000
+! Last modified: Mon, 19 Aug 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+ru-ccpay.site
+crystal-coin.com
+bitzexer.com
+crypto-network.com
+numismatography.shop
+thalamocortical.fun
+unrecoverable.shop
+cbz9yovut.world
+pefju5kvr.xyz
+pogyjag.cfd
+pywodom.cfd
 day-organise.net
 beast-market.com
 biteqs.com
