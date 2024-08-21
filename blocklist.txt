@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 20 Aug 2024 21:00:04 +0000
+! Last modified: Wed, 21 Aug 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+trademoney.top
+worktrade.top
+xrateex.one
+goharexchange.com
+coinomi.su
+cointwopay.com
+sweetex.net
+29-payment.com
+b6r27n.shop
+cisexup.cfd
+j13ytv.shop
+hailorachiy.in.net
 xpvxtn.shop
 ipsedixitism.shop
 popularization.fun
