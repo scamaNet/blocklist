@@ -1,10 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 23 Aug 2024 21:00:03 +0000
+! Last modified: Sat, 24 Aug 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+gafro.com
+chamspa.com
+causally.makeup
+plasmodiophoraceae.shop
+sitatunga.club
+inimaginable.fun
+traveltech.live
+otzowik-info.ru
+trustpilot-info.ru
+bitsmedia-info.ru
+frctrade.ru
+aiscc.site
+leanyfy.pro
+leany-fy.co
+erimsaz.com
+erim-saz.co
+2024-novost-portal.ru
+нмо-портал.рф
 gastroles-actors.net
 techardent.com
 semidiapente.shop
