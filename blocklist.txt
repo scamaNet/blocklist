@@ -1,10 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 26 Aug 2024 21:00:05 +0000
+! Last modified: Tue, 27 Aug 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+items6745.ru
+items6746.ru
+items6747.ru
+items6748.ru
+items6749.ru
+items7745.ru
+items7746.ru
+items7747.ru
+items7748.ru
+items7749.ru
+items8745.ru
+items8746.ru
+items8747.ru
+commonstem.com
+igramio.com
+lopatar.com
+miavina.com
+weglos.net
+surprise-prize45.world
+qelmirys.com
+qlm-irys.co
+2bitnex.com
+coinexline.com
+historiography.shop
+lenitude.club
+sneckdrawing.club
 bybukx.com
 dinozi.com
 exactturn.com
