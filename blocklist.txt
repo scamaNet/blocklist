@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 27 Aug 2024 21:00:03 +0000
+! Last modified: Wed, 28 Aug 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+tracebl.com
+botutility.com
+iscatalog.com
+flanex.com
+artists-gastrole.art
+buffaloswap.org
+meconidium.quest
+prearrange.baby
+socialistically.shop
+sundew.makeup
+l-gazprom.ru
 items6745.ru
 items6746.ru
 items6747.ru
