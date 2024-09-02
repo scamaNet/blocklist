@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 01 Sep 2024 21:00:04 +0000
+! Last modified: Mon, 02 Sep 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mvideo.shop-nx.sbs
+mvideo.shop-be.sbs
+exobit.us
+beyondeo.com
+bizdoctr.com
+tasssel.com
+weglos.org
+tractornationstore.ru
+civilian.makeup
+nephelometer.club
+renocutaneous.fun
+sixthet.baby
+yenisei.mom
 cinema-sfur.ru
 artists-gastroli.art
 cosmo-changer.com
