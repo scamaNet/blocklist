@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 02 Sep 2024 21:00:04 +0000
+! Last modified: Tue, 03 Sep 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bargura.com
+bediw.com
+neoverses.com
+wulat.com
+cryptovaullting.com
+coinluminise.com
+proagritractors.ru
+acidifiable.fun
+ambassadorial.fun
+aureolin.club
+meteorologist.fun
+objectivistic.life
+patined.life
+vavadavd.com
 mvideo.shop-nx.sbs
 mvideo.shop-be.sbs
 exobit.us
