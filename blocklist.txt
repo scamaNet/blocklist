@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 03 Sep 2024 21:00:03 +0000
+! Last modified: Wed, 04 Sep 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+probit-global.com
+bitfinexup.com
+bitco-swap.com
+friri.com
+jolehun.cfd
+ashicloud.com
+tidup.com
+wibeb.com
+wisebulk.com
+edasyewhsaw.st8.ru
+compartmentalizing.fun
+merorganization.fun
+morassweed.makeup
+roentgenological.fun
+titanoniobate.baby
 bargura.com
 bediw.com
 neoverses.com
