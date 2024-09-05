@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 04 Sep 2024 21:00:04 +0000
+! Last modified: Thu, 05 Sep 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+friri.net
+bitfye.net
+coinluminize.com
+exarobit.com
+mvideo.shop-cf.sbs
+travelu.top
+join24rex.com
+bulrushy.mom
+calciovolborthite.fun
+festinate.baby
+recrystallization.fun
+upcountry.makeup
 probit-global.com
 bitfinexup.com
 bitco-swap.com
