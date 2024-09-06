@@ -1,10 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 05 Sep 2024 21:00:03 +0000
+! Last modified: Fri, 06 Sep 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+asterstack.com
+beaniebois.com
+betagrip.com
+boditrix.com
+croxboard.com
+danihub.com
+bitnecx.com
+coinmiraje.com
+aquot.net
+2vrltthnv.shop
+ncgcwh.com
+alcoholometry.xyz
+churching.space
+convenable.lat
+emulsify.space
+endopterygota.fun
+sanguinopurulent.xyz
+wardress.blog
 friri.net
 bitfye.net
 coinluminize.com
