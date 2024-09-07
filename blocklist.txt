@@ -1,10 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 06 Sep 2024 21:00:03 +0000
+! Last modified: Sat, 07 Sep 2024 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+swop24.cc
+coinwalletcapital.com
+coveawallet.io
+cryptobela.com
+cryptobitx.net
+postadsb.top
+woobit.io
+afisha-gastrols.art
+nolwy4cfm.shop
+foralinvest.com
+dowser.makeup
+lankiness.baby
+negrophobiac.shop
+vitellary.shop
+dosouent.com
+do-souent.cc
+notilton.com
+notil-ton.cc
 asterstack.com
 beaniebois.com
 betagrip.com
@@ -293,6 +311,7 @@ bluboxi.site
 adverssi.com
 sponsordao.com
 electrictransportandpools.ru
+akro-invest.org
 crypx.net
 hlfhw2cd.shop
 ijxnzirz.xyz
