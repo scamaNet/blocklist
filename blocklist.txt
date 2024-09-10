@@ -1,10 +1,35 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 09 Sep 2024 21:00:03 +0000
+! Last modified: Tue, 10 Sep 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+anl1ht5jf.shop
+antivermicular.club
+diocletian.info
+gazeless.life
+kehaya.life
+overtruthfully.life
+protonematal.bar
+24works.top
+dogevy.com
+keplenter-group.com
+rulebrokers.com
+xgllsky.com
+tylexland.com
+zobxebac.pro
+tcgeninc.com
+difiestard.com
+tcgen-nc.cc
+zoe-ac.world
+tylex-land.world
+difies-tard.pro
+coinlunaris.com
+coinselestial.com
+postips.top
+happy-game.net
+pairchange.com
 bitlape.com
 mellcoinkon.com
 gastrol-org.art
