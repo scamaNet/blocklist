@@ -1,10 +1,32 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 10 Sep 2024 21:00:03 +0000
+! Last modified: Wed, 11 Sep 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+actores-gastroles.art
+chaolix.com
+defemmes.com
+donefo.com
+kucoln.com
+ob2oms.qzncealw.shop
+acetylizer.bar
+neotropic.lat
+raiae.baby
+tupperism.website
+uncooping.website
+esyprea.com
+hosuleod.com
+inveseim.com
+mivatz.org
+polgp-gr.pro
+ey-pre.co
+hosu-leod.cc
+invems-sm.world
+mi-vatz.co
+proso-lgp.org
+cointochain.com
 anl1ht5jf.shop
 antivermicular.club
 diocletian.info
