@@ -1,10 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 11 Sep 2024 21:00:03 +0000
+! Last modified: Thu, 12 Sep 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+aidado.com
+aipodo.com
+tehnodoc.com
+zrkfodhez.shop
+hvci4kstc.shop
+conjure.lat
+cranelike.quest
+distemonous.life
+nihilification.lat
+thionation.baby
+llskgs.com
+lipikosay.com
+ls-ay.co
+cdrtgg.com
+cxsstw.com
+dlbclx.com
 actores-gastroles.art
 chaolix.com
 defemmes.com
