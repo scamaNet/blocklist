@@ -1,10 +1,41 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 12 Sep 2024 21:00:03 +0000
+! Last modified: Fri, 13 Sep 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+budgettask.com
+depointer.com
+proxyroll.com
+2trini9m.eu
+ag5wei0rv.shop
+evxajctok.shop
+disarticulate.lat
+haikwan.quest
+mischievousness.shop
+psychrophile.mom
+pythonine.club
+monex-24.one
+rabota-obmen.top
+standclub.org
+service--convert.ru
+aquot.io
+coinwertex.com
+ndmtlc.com
+coua-lst.co
+coucalsto.com
+hayst-dq.info
+haystdq.com
+jarv-liger.cc
+jarvliger.com
+wuban-gr.co
+wuban-on.pro
+defapt.com
+otzowik-review.ru
+trustpilot-reviews.ru
+bitsmedia-reviews.ru
+novachange.ru
 aidado.com
 aipodo.com
 tehnodoc.com
