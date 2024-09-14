@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 13 Sep 2024 21:00:03 +0000
+! Last modified: Sat, 14 Sep 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+ekwym2xi4.world
+fmcuz9vjb.shop
+naic5k9t9.xyz
+twiu5hgft.xyz
+avowance.club
+demipauldron.club
+scarlety.baby
+tendotome.shop
+weglos.cc
+mvideo.shop-zr.sbs
+albuterola.com
+nrovip.com
+armstrong.top
+dipetty.top
+marysp.top
+natburns.top
+bulkix.com
+blubaza.site
+xmart-fx.com
 budgettask.com
 depointer.com
 proxyroll.com
