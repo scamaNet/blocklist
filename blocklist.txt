@@ -1,10 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 14 Sep 2024 21:00:04 +0000
+! Last modified: Sun, 15 Sep 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+c3fjr1rxd.xyz
+qrjdvv503.world
+skcswzn0q.shop
+alienize.mom
+alkalifiable.fun
+covid.baby
+ectodermoidal.info
+larsenite.baby
+overtrue.lat
+saltpetrous.mom
+wisenheimer.lat
+xanthochroous.space
+bluness.site
+gastroles-ticket.art
+coinwortex.com
+ebtcswap.com
 ekwym2xi4.world
 fmcuz9vjb.shop
 naic5k9t9.xyz
