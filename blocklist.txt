@@ -1,10 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 16 Sep 2024 21:00:03 +0000
+! Last modified: Tue, 17 Sep 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mvideo.shop-ad.sbs
+eidron.com
+coinharmonise.com
+ecoinswap.com
+selodex.com
+cewarek.com
+c-ewarek.cc
+meoxltd.com
+fymxbjhti.xyz
+jj2x0jt71.shop
+naiei2ktn.world
+pny6ftbkh.shop
+ygxfaq2jb.xyz
+aphorismic.space
+areole.space
+heartpea.club
+kotylos.info
+nasolabial.bar
+ramper.baby
+silcrete.quest
+unsuperable.makeup
 bitgalo.com
 ciscosoho.com
 fixevery.com
