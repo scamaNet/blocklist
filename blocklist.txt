@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 17 Sep 2024 21:00:03 +0000
+! Last modified: Wed, 18 Sep 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mvideo.shop-dg.sbs
+hy-bank.top
+domotradeguide.one
+bitewagon.com
+parthvader.com
+waymocrash.com
+razerdeathcom.com
+d5p4q16t.xyz
+knamrsgs.eu
+actinopterous.baby
+securable.club
+undrunk.baby
 mvideo.shop-ad.sbs
 eidron.com
 coinharmonise.com
