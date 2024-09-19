@@ -1,10 +1,43 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 18 Sep 2024 21:00:03 +0000
+! Last modified: Thu, 19 Sep 2024 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+nedytuq.cfd
+info-bitsmedia.ru
+info-otzowik.ru
+info-trustpilot.ru
+goexme.ru
+anilorem.com
+arefunds.com
+armismo.com
+facecalm.com
+tradago.com
+finbbit.com
+mvideo.shop-ab.sbs
+lincolnbit.com
+primegroup.ltd
+vrc-core.com
+rl-matix.cc
+rolomatix.com
+sid-ralli.info
+sidralli.pro
+vilmotech.com
+vio-ch.info
+fairhall-investments.com
+tabulatrader.pro
+geniussquad.pro
+cq2ax8.xyz
+kstgca4va.top
+xkj9hn.biz
+clubber.lat
+geat.space
+hoplocephalus.makeup
+prasophagy.baby
+thermoscope.baby
+unslammed.life
 mvideo.shop-dg.sbs
 hy-bank.top
 domotradeguide.one
