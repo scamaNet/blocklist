@@ -1,10 +1,34 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 19 Sep 2024 21:00:05 +0000
+! Last modified: Fri, 20 Sep 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+cinema-sfur.online
+fin-eu.com
+blyxultra.com
+sharesholding.com
+bitmart-change.com
+coinharmonia.com
+bitrustix.com
+circumpallial.club
+dovetailwise.shop
+ecstasy.makeup
+lamna.shop
+meritmongery.blog
+negationalist.website
+sheathed.space
+syngraph.info
+spasontal.pro
+spaon-al.info
+kiteraos.com
+kite-os.cc
+3bep90.club
+4z1nyw.biz
+auqp7r.club
+g5aqfh.club
+qjipjp.biz
 nedytuq.cfd
 info-bitsmedia.ru
 info-otzowik.ru
