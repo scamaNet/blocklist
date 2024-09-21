@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 20 Sep 2024 21:00:03 +0000
+! Last modified: Sat, 21 Sep 2024 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+actors-tickets.art
+arcamel.com
+adayara.com
+manardy.com
+coinharmonize.com
+walnex24.com
+igwbsn.com
+allshoresadvisory.com
 cinema-sfur.online
 fin-eu.com
 blyxultra.com
