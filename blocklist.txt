@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 02 Oct 2024 21:00:03 +0000
+! Last modified: Thu, 03 Oct 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+electralis.com
+evuvi.com
+flicor.com
+mvideo.ss-65.ru
+leafboxwoodcar.xyz
+gilci.org
+nativexchange.net
+rexcoin.io
+rigrvik.com
+rig-vik.pro
 libas24.com
 cureswitch.com
 deepscanr.com
