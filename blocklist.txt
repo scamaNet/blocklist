@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 03 Oct 2024 21:00:03 +0000
+! Last modified: Fri, 04 Oct 2024 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bityupi.com
+expory.com
+token-flex.ru
+wexornus.com
+bgoperator.top
+mutualrespectbet.com
+kastbit.com
+renercoli.com
+rene-li.co
 electralis.com
 evuvi.com
 flicor.com
@@ -66,6 +75,7 @@ data-trustpilot.ru
 cointok.ru
 davanic.com
 eucanto.com
+unquenchablebet.com
 cryptofabit.pro
 bitfivex.com
 bitplexus.com
@@ -244,6 +254,7 @@ fixevery.com
 hundynft.com
 icusi.com
 remainingkassa.ru
+steadfastnessbet.com
 megarkast.ru
 c3fjr1rxd.xyz
 qrjdvv503.world
