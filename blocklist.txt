@@ -1,11 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 07 Oct 2024 21:00:04 +0000
+! Last modified: Tue, 08 Oct 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bhiveny.com
+andreas-bet.com
+cuxed.com
+friori.com
+gontana.com
+bitlork.com
+stockodex.com
+egbtec.com
+ngwsmj.com
 pay-id1030.shop
+esmeralis.com
+greensuren.com
+sentexo.com
 actores-tickets.art
 tradeedge.exchange
 galtuns.com
@@ -2137,6 +2149,7 @@ tyhxsoft.com
 mvideo.shop-kc.icu
 rusvps.ru
 zipnova.com
+surfsupsports.com
 exlich.com
 flyxcoin.com
 menex.org
@@ -2814,6 +2827,7 @@ coinexom.cc
 mtgox.top
 nulenix.com
 trustenely.com
+winner-draw.com
 plpay.site
 charlotte.in.net
 k6hm2.top
