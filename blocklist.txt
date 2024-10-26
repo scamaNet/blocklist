@@ -1,10 +1,17 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 25 Oct 2024 21:00:05 +0000
+! Last modified: Sat, 26 Oct 2024 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+gopova.com
+commxup.us
+zivji.com
+invazriti.pro
+iva-rt.cc
+sagire-tech.cc
+sagiretech.com
 harones.com
 nightmovies.art
 bluzar.site
