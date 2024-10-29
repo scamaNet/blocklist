@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 28 Oct 2024 21:00:06 +0000
+! Last modified: Tue, 29 Oct 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+amexcryptos.pro
+bitpowis.com
+equismart.online
+ethflare.org
+foxapp.tech
+gonose.com
+gopze.com
+jptxet.com
+ewripro.com
+ewi-pr.co
+storiabevanda.com
 coinjet.biz
 artists-ticket.art
 kivji.com
@@ -209,6 +220,7 @@ bitlork.com
 stockodex.com
 egbtec.com
 ngwsmj.com
+foxex.tech
 pay-id1030.shop
 esmeralis.com
 greensuren.com
