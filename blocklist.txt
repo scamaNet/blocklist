@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 01 Nov 2024 21:00:05 +0000
+! Last modified: Sat, 02 Nov 2024 21:00:06 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+cosmoschange.com
+dirprakod.ru
+bcap.cc
+mkrcrypto.com
+rivji.com
+decadary.bar
+ensiform.club
+hereditament.lat
+reconcession.info
+fehelmante.pro
+fmant-e.co
+vessi-mov.pro
+vessimov.com
 moviesnight.art
 mascrypto.io
 sparebitcoin.com
