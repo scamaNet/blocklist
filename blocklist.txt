@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 02 Nov 2024 21:00:06 +0000
+! Last modified: Sun, 03 Nov 2024 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+xaribos.com
+renprakod.ru
+cakon.org
+yivji.com
+shidolenac.pro
+shido-lenac.net
+indomitablebet.com
+imag.spb.ru
 cosmoschange.com
 dirprakod.ru
 bcap.cc
@@ -1120,6 +1128,8 @@ nameadva.top
 kxn9owqq.world
 piwexyd.cfd
 vraboekb.xyz
+ionshops.ru
+ion-shops.ru
 xrttg.com
 financegcn.com
 level-pay.pw
