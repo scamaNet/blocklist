@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 03 Nov 2024 21:00:05 +0000
+! Last modified: Mon, 04 Nov 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+esporia.com
+livorio.com
+mobesto.com
+artists-tickets.art
+palses.com
+inexjet.cloud
+dehufia.com
+oivji.com
+seotf.com
+sbri-oct27.com
+avendiasu.pro
+avend-iasu.cc
+iadvert365.com
 xaribos.com
 renprakod.ru
 cakon.org
