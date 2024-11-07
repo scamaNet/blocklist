@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 06 Nov 2024 21:00:04 +0000
+! Last modified: Thu, 07 Nov 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitsq.com
+forgedind.com
+mubso.com
+nandio.com
+bitflem.com
+cadfinances.com
+findesk.site
+ysdju.com
+fluxsilver.com
+klatos.com
+upaycoin.co
+anobrolix.com
+ano-brolix.co
 flurle.com
 mezava.com
 monrea.com
