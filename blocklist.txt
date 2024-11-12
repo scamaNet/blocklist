@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 11 Nov 2024 21:00:03 +0000
+! Last modified: Tue, 12 Nov 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+erisalit.com
+lezvo.com
+odyro.com
+zatep.com
+hemeb.com
+bitfetex.com
+kipji.com
+tbi-nov06.com
+sliuros.pro
+sliu-ros.world
+lidordev.com
+lidor-dev.info
+rayno.net
 nightmovie.art
 hashmapr.com
 ecosures.com
