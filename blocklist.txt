@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 13 Nov 2024 21:00:04 +0000
+! Last modified: Thu, 14 Nov 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+legatai.com
+beatstay.com
+bitrige.pro
+chefipy.com
+coinpoz.com
+megarabota.com
+reviews-otzowik.ru
+reviews-trustpilot.ru
+reviews-bitsmedia.ru
+crypcie.ru
+aibji.com
+cmcbit.com
+wansa.ru
 blackmoneta.com
 putonwinner.com
 primebbet.com
