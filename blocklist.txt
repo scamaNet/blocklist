@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 14 Nov 2024 21:00:03 +0000
+! Last modified: Fri, 15 Nov 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+heluc.com
+migesi.com
+penlay.com
+digisaltech.com
+digisal-tech.net
+kasebit.com
+bibji.com
+cibji.com
+ticalcoin.com
 legatai.com
 beatstay.com
 bitrige.pro
