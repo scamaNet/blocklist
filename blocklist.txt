@@ -1,10 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 17 Nov 2024 21:00:03 +0000
+! Last modified: Tue, 19 Nov 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+kihof.com
+foxix.cloud
+hibji.com
+kibji.com
+lipju.com
+fluxelec.com
+ketuf.com
+nelxo.com
+pazhuo.com
+getaboki.com
+cointin.biz
+dinuf.com
+nizux.com
+rinef.com
+cubaxup.com
+fibji.com
+qstccd.com
+gluset.site
 bitriseworld.com
 dibji.com
 mercatoxi.com
