@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 19 Nov 2024 21:00:03 +0000
+! Last modified: Wed, 20 Nov 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+fomocoin.cash
+canrocket.com
+dealums.com
+erinolda.com
+logrex.com
+omelz.com
+buox-ter.net
+buoxter.com
+koiba-ken.co
+koibaken.com
+sent-linx.cc
+sentlinx.org
+exasql.com
 kihof.com
 foxix.cloud
 hibji.com
