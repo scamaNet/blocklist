@@ -1,10 +1,16 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 23 Nov 2024 21:00:04 +0000
+! Last modified: Sun, 24 Nov 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+dawuzu.com
+myfiate.one
+nibji.com
+nominiex.com
+owallet.com
+raladex.org
 totalorwin.com
 minervio.com
 cryptolear.com
@@ -21,6 +27,7 @@ ferroprussic.club
 kachetam.in.net
 sexdigitate.life
 xanthous.bar
+zar213zar.blogspot.com
 libji.com
 mondiona.com
 fudgetime.com
