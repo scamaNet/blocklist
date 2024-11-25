@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 24 Nov 2024 21:00:03 +0000
+! Last modified: Mon, 25 Nov 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+ecovivio.com
+legaleet.com
+profitroof.com
+cexcrypto.org
+clonux.xyz
+cryptobot.com.co
+virprokod.ru
+virprokod.online
+izlpay.com
+mirsokod.online
+cointin.live
 dawuzu.com
 myfiate.one
 nibji.com
