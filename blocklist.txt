@@ -1,10 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 25 Nov 2024 21:00:03 +0000
+! Last modified: Tue, 26 Nov 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+hugepact.com
+polkana.com
+quotrio.com
+fantomcoin.net
+tibji.com
+uibji.com
+zoveco.com
+private-assetgroup.com
+dun-val.co
+durnival.pro
+flario-nt.cc
+flariont.pro
+jor-valis.info
+jorvalis.pro
+secunobi.com
+seu-nbi.co
 ecovivio.com
 legaleet.com
 profitroof.com
