@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 26 Nov 2024 21:00:03 +0000
+! Last modified: Wed, 27 Nov 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+kersokod.ru
+kersokod.online
+invest-standart.pro
+stabcoins.com
+vibji.com
+foxix.biz
+logative.com
+qoretel.com
+blunoll.com
+nanugen.com
+nozogo.com
+arcanewallet.net
+coinprotector.net
+djbrcd.com
 hugepact.com
 polkana.com
 quotrio.com
