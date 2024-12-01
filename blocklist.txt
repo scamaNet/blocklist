@@ -1,10 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 30 Nov 2024 21:00:03 +0000
+! Last modified: Sun, 01 Dec 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+vavadabis.com
+bitxbuy.com
+cryptoshuge.com
+cosmoscoin.net
+cryptofama.com
+cryptro.com
+fortresstrading.online
+xibji.com
+zibji.com
+gkaeorv.shop
+blog.modernbusinesssolutions.sa.com
+lascryptos.com
+latoki.com
+riafo.com
+leyaricorp.com
+mktgeleven.com
+mkt-geleven.pro
 wikipays-exchange.com
 vavadacad.com
 pilbit.com
