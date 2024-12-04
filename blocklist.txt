@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 03 Dec 2024 21:00:03 +0000
+! Last modified: Wed, 04 Dec 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+sxpdefi.tech
+portal.smartfamilyfinanceplanning.sa.com
+shop.organicfoodgrowingtips.sa.com
+radissonvip.top
+blixdex.com
+easy-swapper.com
+gexebit.com
+sharnex.com
+woycex.com
 bittao.org
 aitji.com
 vacbi.com
