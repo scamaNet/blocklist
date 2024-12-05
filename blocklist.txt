@@ -1,10 +1,17 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 04 Dec 2024 21:00:03 +0000
+! Last modified: Thu, 05 Dec 2024 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+loymgrad.com
+loy-grad.co
+qmppglx.vpimbc.sa.com
+bafso.com
+rubosta.com
+worldbinar.com
+tbi-nov26.com
 sxpdefi.tech
 portal.smartfamilyfinanceplanning.sa.com
 shop.organicfoodgrowingtips.sa.com
@@ -18,12 +25,12 @@ bittao.org
 aitji.com
 vacbi.com
 cueng.com
-furnotech.com
 foxix.pro
 blog.smartfamilyfinanceplanning.sa.com
 vavadahades.com
 dahif.com
 peuki.com
+furnotech.com
 bonmopro.com
 bono-pr.cc
 freecryptobiz.com
