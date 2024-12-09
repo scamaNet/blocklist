@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 08 Dec 2024 21:00:03 +0000
+! Last modified: Mon, 09 Dec 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+troncc.com
+crypto-fiats.com
+noxtrom.app
+panchwex.com
+bonlov.com
+armassi.com
+antempore.com
+aptitekk.com
+cornerbux.com
+artists-ticket.online
+bitpyth.com
+platform.finance21limited.com
+txfdfq.com
+trilcaro.pro
+tril-caro.world
 litji.com
 firaf.com
 rebex-exchange.com
@@ -2563,6 +2578,7 @@ coinfares.com
 55tcq.shop
 f77z4.shop
 riroriro.biz
+trades.vtbcapital24.net
 conjugated.xyz
 mentionable.life
 fedgie.com
