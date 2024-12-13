@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 12 Dec 2024 21:00:03 +0000
+! Last modified: Fri, 13 Dec 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+lavpireson.ru
+glusit.site
+apucu.com
+calmout.com
+ditchup.com
+renessans-capital.ru
+qitji.com
+knbenodro.pro
+kn-bnd.world
 primeofbet.com
 cohnrengo.com
 copytrix.com
