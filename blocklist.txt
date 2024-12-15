@@ -1,10 +1,73 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 14 Dec 2024 21:00:03 +0000
+! Last modified: Sun, 15 Dec 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+cos.yritwetw.xyz
+aipexcorp.com
+aipex-rp.world
+amaisozo.com
+ami-sozo.co
+boldze.com
+bashtool.com
+worldbinar.top
+aximetria.net
+coinomi.ink
+crypteq.io
+pixeltrade.net
+uitji.com
+coinjay.com
+tonotkodov.ru
+allonssin.com
+annitaweek.com
+azangsa.com
+baisklin.com
+bciewu.com
+bigdadywonho.com
+blackswanbts.com
+cbewio.com
+cbwqi.com
+clersal.com
+cnwio.com
+dovdr.com
+envqoip.com
+febgt.com
+fiallens.com
+fillovna.com
+fiwqv.com
+flowerrwork.com
+frameworknii.com
+geralatw.com
+godisawomann.com
+hhhtpsay.com
+hsfjkmnaz.com
+killijoll.com
+linkasll.com
+mgmsmmm.com
+monstababeee.com
+monstaxonelove.com
+neededmerih.com
+nevwi.com
+oldfartt.com
+oleniioleni.com
+ovnwj.com
+pumpitupsue.com
+rikkinsss.com
+runbooletproof.com
+rwinp.com
+rwore.com
+sherlocktotob.com
+ssubstance.com
+tektonycheskiepliti.com
+thunderidg.com
+uptownfuunk.com
+watermelonsugarr.com
+wbivis.com
+wetsr.com
+winterbearthv.com
+zazsklin.com
 walletcoins.co
 bitmetrix.org
 bitstable.net
@@ -12,6 +75,7 @@ cos.kszzhbdb.online
 kiblaer.xyz
 starrater.pp.ru
 mvideo.shop-kv.store
+textme-now1.ru
 lavpireson.ru
 glusit.site
 apucu.com
@@ -3462,6 +3526,8 @@ smart-however.ru
 kentaworld.com
 relsbit.com
 best-example.ru
+binomex.in
+binomex.net
 condensational.in.net
 u2dq8.shop
 v9xs6.shop
