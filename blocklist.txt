@@ -1,10 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 16 Dec 2024 21:00:03 +0000
+! Last modified: Tue, 17 Dec 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+globals-exchanges.com
+quantum-vault.net
+cos.sryrdfse.xyz
+a-sbri-nov06-r.com
+a-sbri-sep16-r.com
+sbri-dec14-r.com
+sbri-dec14.com
+sbri-nov29-r.com
+bitemq.com
+bitjos.com
+changenow.business
+gecoro.com
+invest-standart.online
+yitji.com
+inflasafe.com
+klagons.com
+klotal.com
+kmaniar.com
+legasty.com
+alatomost.com
+alato-most.co
+dq-moval.info
+dqmoval.com
+lep-thor.net
+lepthor.pro
+mercychange24.com
 rootscalumscott.com
 sueandelli.com
 voebwu.com
