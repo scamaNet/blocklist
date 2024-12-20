@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 19 Dec 2024 21:00:03 +0000
+! Last modified: Fri, 20 Dec 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+kos.hoiherti.xyz
+nulscoin.com
+unitedcreditgroup.finance
+bitcomo.org
+mutyradfy.pro
+muyr-ady.co
+smartsecuritytech.com
+seryubfd.tb.ru
 vylji.com
 bitfox.cloud
 bitorbital.com
