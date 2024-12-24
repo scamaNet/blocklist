@@ -1,10 +1,15 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 23 Dec 2024 21:00:03 +0000
+! Last modified: Tue, 24 Dec 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+great-binary.pro
+cntrkj.com
+cartawoxi.com
+crt-woxi.cc
+sdgfvt.com
 juori.com
 leafaim.com
 movdat.com
