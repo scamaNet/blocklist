@@ -1,10 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 24 Dec 2024 21:00:03 +0000
+! Last modified: Wed, 25 Dec 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mohyp.com
+nelonis.com
+noresh.com
+pawdumb.com
+piotre.com
+reabu.com
+kos.rftujhrtui.xyz
+qmppglx.mhfdbq6e.sa.com
+wylji.com
+besdex.com
+coinbyu.com
+daeo.trading
+nezenbit.com
+video-earns.top
+prizedcashmj.buzz
+protebin.com
+novichange.io
 great-binary.pro
 cntrkj.com
 cartawoxi.com
