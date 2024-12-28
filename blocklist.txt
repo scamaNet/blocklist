@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 27 Dec 2024 21:00:03 +0000
+! Last modified: Sat, 28 Dec 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+opagu.com
+bofnam.com
+daxpulse.com
+nextwayai.com
+tradesdxl.com
+payonexchange.co
+csdgfh.com
+vfbkhe.com
+zmdaqe.com
 blablacar.pay267.pro
 cryptopump.me
 lylji.com
