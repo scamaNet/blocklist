@@ -1,15 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 28 Dec 2024 21:00:03 +0000
+! Last modified: Sun, 29 Dec 2024 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+pursematrix.com
+kylji.com
+mlinktek.com
+mlink-tek.info
+bloomer.lat
+filander.club
+interdigitating.icu
+occipitally.baby
+systematology.cfd
+ulidia.blog
+vaginolabial.cfd
+youff.baby
 opagu.com
 bofnam.com
 daxpulse.com
 nextwayai.com
 tradesdxl.com
+bitcix.com
 payonexchange.co
 csdgfh.com
 vfbkhe.com
