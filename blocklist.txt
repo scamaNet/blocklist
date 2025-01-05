@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 04 Jan 2025 21:00:03 +0000
+! Last modified: Sun, 05 Jan 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+otzovik-expert.ru
+bitsmedia-club.ru
+trustpilot-forum.ru
+freelance-fast.com
+freelance-grand.com
+freelance-max.com
+freelance-z.ru
+piljf.com
+com-key.store
+key-stonewallet.net
+bitopti.com
 blata.site
 wansansy.com
 wan-sansy.info
