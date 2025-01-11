@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 10 Jan 2025 21:00:06 +0000
+! Last modified: Sat, 11 Jan 2025 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+otzovik-base.ru
+trustpilot-base.ru
+bitsmedia-base.ru
+bitkit-change.com
+swapscenter.ru
+bigetf.eu
+bitvivo.pro
+lexdebiti.com
+retexbit.com
+eosbit.com
+ddverq.com
+vfrplc.com
 glions.com
 bitamg.net
 pilje.com
