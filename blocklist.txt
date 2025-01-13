@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 12 Jan 2025 21:00:04 +0000
+! Last modified: Mon, 13 Jan 2025 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+trifji.com
+nordicoins.com
+swiftcryptos.com
+tokennestsafe.org
+bestexchanger.org
+cryptomansory.com
+e-obmen.top
+exclusive-exchanger.com
+blews.site
+bluchange.site
+aurjex.com
+linkex.biz
+mibeb.com
+montrans.cc
+winner-bet.today
+currenttheatre.ru
+worldstheatre.ru
+techno-spin.com
+technosale-top.com
 maltagam.info
 piljy.com
 frortwbam.com
