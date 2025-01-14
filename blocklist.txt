@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 13 Jan 2025 21:00:04 +0000
+! Last modified: Tue, 14 Jan 2025 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+exline-change.com
+fixabits.com
+profox.cloud
+olrjqm.com
+wgtdfg.com
+destinay.com
+maxfc.com
+reriv.com
+vuring.com
+crypto-bundle.com
+qexweb.com
+xoridex.com
+forhbw.com
+lfgpzl.com
+njxrff.com
 trifji.com
 nordicoins.com
 swiftcryptos.com
