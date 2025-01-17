@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 16 Jan 2025 21:00:03 +0000
+! Last modified: Fri, 17 Jan 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+otzoviik-space.ru
+trustpiloot.ru
+fine-exchange.com
+freelance-pay.com
+freelance-cool.com
+gesculba.pro
+gesu-lba.cc
+dekere.com
+mondean.com
+zamum.com
+zelabi.com
+babiltoken.com
+webux.creatium.site
 catawe.com
 dontpo.com
 looktarget.com
