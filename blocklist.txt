@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 19 Jan 2025 21:00:04 +0000
+! Last modified: Mon, 20 Jan 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mukav.com
+inlinkex.online
+bitrelum.com
+coingalo.com
+cugweb.com
+ruktu.com
+tredhex.com
+vegobit.com
+raysefo.com
+xddslo.com
+kala-sant.cc
+kalasantro.com
+kalasan-tro.info
 dexfort.com
 vexonlo.com
 curette.shop
