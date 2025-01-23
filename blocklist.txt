@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 22 Jan 2025 21:00:03 +0000
+! Last modified: Thu, 23 Jan 2025 21:00:10 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bluxelive.com
+desaicorp.org
+bluxe-live.co
+desai-crp.co
+mamof.com
+divih.com
+freepivot.com
+moxne.com
+wagwit.com
+swap-dex.net
+myelomere.makeup
+unterrorized.blog
 bitstace.com
 waxbit.me
 biterige.pro
