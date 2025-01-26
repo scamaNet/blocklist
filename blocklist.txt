@@ -1,10 +1,75 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 25 Jan 2025 21:00:03 +0000
+! Last modified: Sun, 26 Jan 2025 21:00:06 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+romibit.com
+acivnam.pro
+acc-vnm.cc
+thkafa.com
+hydrosulphureted.sbs
+12xtrades.com
+actaperts.com
+altelebit.com
+astarlexchange.com
+aviatorzty.com
+basexchange.fi
+belbits.com
+bghcoin.com
+bingesider.com
+biswapper.com
+bitbaxe.com
+bitcoincapital.ru
+bitexgex.com
+bitoptis.com
+bitxpro.app
+bitzcot.com
+btcdelta.click
+coinsmex.net
+cryptomoneybourse.com
+echotixbet.com
+etorax.com
+exmebit.com
+fame-ex.com
+flencoin.com
+globalcash.trade
+goex.online
+hegwix.com
+jastcoinbtc.com
+kodronot.com
+libertyex.org
+matidex.com
+mondoi.com
+orbitalcex.com
+phenixbit.com
+project-x.icu
+purpely.com
+reef-bridge.pro
+sierra-ex.work
+tennelano.com
+topxdex.com
+unifiko.ru
+virgocex.net
+wellcoinkon.com
+xeontrade.com
+yteri.com
+bitvault-key.com
+bsc-wallet.org
+chain-chamber.org
+crypto-haven.org
+cryptobloom.org
+orbit-purse.com
+quantum-vaults.net
+safehavenwallet.org
+secure-orbit.org
+token-trove.org
+oscheoma.shop
+prefounder.quest
+rocta.makeup
+sanctionment.club
+spinosotubercular.life
 readbits.com
 fonawell.com
 civef.com
