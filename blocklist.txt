@@ -1,12 +1,35 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 28 Jan 2025 21:00:07 +0000
+! Last modified: Wed, 29 Jan 2025 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+qepweb.com
+neirochange.com
+bitsmediia-forum.ru
+bocating.com
+boostemr.com
+pokesun.com
+ultranifty.com
+cestode.bar
+iodic.club
+nucliosoft.com
+nuclios-soft.net
+big-changer.com
+dealorin.com
+tspckn.com
+vfuybn.com
 plaintiffship.info
 suzukign.com
+trades.investamcapital.ltd
+ecotexlm.com
+ecotex-m.info
+ecotex-ml.org
+leptiox.org
+lep-tiox.co
+varhnoth.pro
+varh-noth.co
 brave-n.cc
 bravexon.pro
 brave-xon.info
