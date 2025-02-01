@@ -1,13 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 31 Jan 2025 21:00:05 +0000
+! Last modified: Sat, 01 Feb 2025 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+rozebit.net
+clarityinvest.co
+qlintix.com
+developmentarian.baby
+bitkeycrypto.com
+buda-btc.com
+rubitoken.com
+bottarget.com
+pawde.com
+widalo.com
+catoze.com
+elotex.one
 cognerito.com
 allapek.com
 atesole.com
+ahwii-mas.pro
+alrod-vic.pro
+alrodvic.com
+anan-dome.co
+anandome.org
+awimas.pro
+neter-vest.world
+netervest.com
 cereca.com
 rosein-t.world
 coingo-change.online
