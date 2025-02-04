@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 03 Feb 2025 21:00:03 +0000
+! Last modified: Tue, 04 Feb 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+botperk.com
+joxito.com
+taswet.com
+curetia.com
+profox.info
+crypto-uniswap.com
+lewrost.com
+ihy1att.x8z7p4k2a.sa.com
+audaciousness.bar
+emplastic.space
+malingery.shop
+septectomy.space
+stillatory.blog
 boomsail.com
 btctarget.com
 bygic.com
