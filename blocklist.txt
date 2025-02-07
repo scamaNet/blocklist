@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 06 Feb 2025 21:00:03 +0000
+! Last modified: Fri, 07 Feb 2025 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+apimacro.com
+bin-world.net
+cocama.club
+bitods.com
+cryptouno.me
+diamondcapitalcrypro.com
+flaretrades.com
+fnxmining.com
+avip-xa.world
+avipxa.com
+avp-xa.info
+elecn-aut.cc
+elecnasut.pro
+montef-rego.pro
+montefrego.com
 biterzy.com
 coin-swaper.com
 precixionplatform.com
