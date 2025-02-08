@@ -1,10 +1,36 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 07 Feb 2025 21:00:04 +0000
+! Last modified: Sat, 08 Feb 2025 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+etherech.net
+zzarrz32.blogspot.com
+sidamp.pw
+mvideo.shop-eg.cyou
+base-bitsmedia.ru
+base-otzovik.ru
+base-trustpilot.ru
+xardalt.ru
+doozx.com
+shiptug.com
+argasit.com
+zitoken.com
+chinapay24.com
+icbc-pay.com
+letterleaf.club
+reckoning.info
+sanitarian.blog
+drevo-ris.org
+drevoris.pro
+edgminc.com
+luviro-sapi.info
+luvirosapi.com
+ob-cufi.pro
+obcufi.org
+tylie-ir.co
+tylineir.com
 apimacro.com
 bin-world.net
 cocama.club
