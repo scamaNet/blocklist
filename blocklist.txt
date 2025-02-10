@@ -1,10 +1,32 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 09 Feb 2025 21:00:03 +0000
+! Last modified: Mon, 10 Feb 2025 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+ecryptodaily.com
+song.cash
+cheapilo.com
+curecia.com
+shadash.com
+drujon.com
+izzicoin.com
+bitimax.site
+febya.com
+qepweb.net
+xlabcoin.com
+glopadre.top
+mvideo.shop-qx.cyou
+demonstrableness.info
+everwhich.club
+firstship.life
+hippometry.mom
+noninfected.club
+preclimax.lat
+unfatherlike.bar
+a-vnm.co
+acv-vanam.pro
 whitebitmarket.com
 swapuni.org
 bitcilo.com
