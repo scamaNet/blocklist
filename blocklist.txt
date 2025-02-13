@@ -1,10 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 12 Feb 2025 21:00:03 +0000
+! Last modified: Thu, 13 Feb 2025 21:00:06 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+cozuk.com
+bestozo.com
+dilalty.com
+findatex.com
+coinnbuy.com
+bitwarms.com
+gatbit.com
+vetexbit.com
+delotu.com
+birdcatcher.mom
+bogusness.info
+chorographical.mom
+entreatingly.bar
+fleawood.club
+hyperpencil.mom
+moldable.quest
+unitude.shop
 eintheroom.com
 probles.com
 crystalxbit.com
