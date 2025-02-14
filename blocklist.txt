@@ -1,10 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 13 Feb 2025 21:00:06 +0000
+! Last modified: Fri, 14 Feb 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+lamixcalera.com
+lamix-calera.cc
+brawnout.com
+ridota.com
+yodri.com
+trade-ap.com
+tokenyap.com
+euoptrade.com
+exwee.com
+ex-riche.com
+indophenin.club
+kingmaking.mom
+physostome.club
+twofoldness.quest
+unknownst.website
+vesiculitis.website
+woodware.space
 cozuk.com
 bestozo.com
 dilalty.com
