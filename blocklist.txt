@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 15 Feb 2025 21:00:04 +0000
+! Last modified: Sun, 16 Feb 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+ezdengon.com
+ezden-gon.info
+trastexdeal.com
+truzorg.com
+zidzjhzs.icu
+bitriv.com
+pogcoins.com
+serbianka.com
+irreplaceably.website
+outwardly.baby
+pneumonometer.info
+subsizarship.website
+turnable.life
+unyearning.baby
+wickerby.mom
 bintrustex.com
 dohuf.com
 fabve.com
