@@ -1,10 +1,29 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 17 Feb 2025 21:00:03 +0000
+! Last modified: Tue, 18 Feb 2025 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+flumari.com
+qiaweng.com
+amaraza.com
+atvew.com
+devstrom.com
+nilzi.com
+wavric.com
+unpeex.com
+upionex.com
+wallet-uniswap.com
+wzqaonvw.icu
+didle.club
+floricin.lat
+gastrohypertonic.mom
+jogger.mom
+kherwarian.info
+londony.space
+makeweight.life
+preinvitation.baby
 actors-premier.com
 aamtrade.com
 bitstarto.com
