@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 19 Feb 2025 21:00:04 +0000
+! Last modified: Thu, 20 Feb 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+haashpay.com
+vastdextrade.com
+bitlakes.com
+pure-gold.casino
+puregold.casino
+aerialre.com
+affairbox.com
+horate.com
+jetchy.com
+ordersales.com
+anguria.club
+physeteroidea.website
 mimvrqkz.icu
 prostozarab1.blogspot.com
 glopadre.ru
