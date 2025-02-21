@@ -1,10 +1,30 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 20 Feb 2025 21:00:03 +0000
+! Last modified: Fri, 21 Feb 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+chartcoins.com
+hylir.com
+inviman.com
+obmenko.shop
+cryptoslist.io
+hostpays.com
+vlwgaflt.icu
+equilibrant.website
+idolographical.info
+rescinder.shop
+unclarity.quest
+undersign.lat
+coinora.net
+crypto-nexus.net
+finayrex.com
+cryptoarkspace.com
+jowsep.com
+lewrest.com
+swapping-dex.com
+fxplag.com
 haashpay.com
 vastdextrade.com
 bitlakes.com
