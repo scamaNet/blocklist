@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 23 Feb 2025 21:00:04 +0000
+! Last modified: Mon, 24 Feb 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+holder.money
+kodxa.com
+limanio.com
+24ozon-plus.ru
+jepkji.com
+udahoimh.icu
+mainnetcertify.com
+boobyism.live
+pirnie.cc
+spiciferous.cloud
+spiciferous.info
+spiciferous.xyz
+streptococci.pro
+whoosh.cfd
 bitups.site
 gextiron.biz
 oibit.net
