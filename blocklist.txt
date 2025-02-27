@@ -1,10 +1,26 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 26 Feb 2025 21:00:03 +0000
+! Last modified: Thu, 27 Feb 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+cbcdqxzz.online
+stakedex.org
+universe-fl.com
+andsolo.com
+apitee.com
+fliplap.com
+sprintserv.com
+wosmax.com
+ozon-prime.top
+homenick.pics
+rolfson.pics
+schroedee.digital
+schuppe.makeup
+schuppe.mom
+schustes.my
+vonruuden.xyz
 vhdfxosz.online
 mvideo.shop-oa.cfd
 afaraseun.com
