@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 27 Feb 2025 21:00:03 +0000
+! Last modified: Fri, 28 Feb 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+delyvtol.com
+avantkit.com
+alertwealth.com
+faxseo.com
+mettamelts.com
+qecoinx.com
+vxrdek.com
+altenwewth.help
+botsforr.hair
+ealistreri.my
+gayyord.boats
+gayyord.world
+thompmon.digital
+treuttl.cyou
+wioliamson.guru
 cbcdqxzz.online
 stakedex.org
 universe-fl.com
