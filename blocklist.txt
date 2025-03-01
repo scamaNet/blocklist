@@ -1,10 +1,32 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 28 Feb 2025 21:00:03 +0000
+! Last modified: Sat, 01 Mar 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+alphavaultchain.com
+node-pocket.org
+main-otzovik.ru
+main-trustpilot.ru
+main-bitsmedia.ru
+masonex.ru
+mybit24-ex.pro
+calmseek.com
+commandcoin.com
+emswanson.com
+endrena.com
+cttstucu.online
+vepi-lom.info
+vepilorn.pro
+antistatism.space
+antistatism.store
+bleakish.xyz
+eicemann.watch
+feedboard.space
+gleagon.watch
+thomoson.best
+wioliamson.mom
 delyvtol.com
 avantkit.com
 alertwealth.com
