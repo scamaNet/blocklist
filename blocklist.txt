@@ -1,10 +1,16 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 01 Mar 2025 21:00:03 +0000
+! Last modified: Sun, 02 Mar 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+beytor.site
+rupmrwrf.online
+bleakish.ink
+communa.ink
+crankman.online
+urge.ink
 alphavaultchain.com
 node-pocket.org
 main-otzovik.ru
