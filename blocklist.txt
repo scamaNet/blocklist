@@ -1,10 +1,31 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 03 Mar 2025 21:00:04 +0000
+! Last modified: Tue, 04 Mar 2025 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+fartitude.com
+itarpg.com
+kepota.com
+kiriator.com
+topprizz.sbs
+dealgex.com
+user-key.ru
+ozon-prizes.top
+busoft.site
+fetexbit.com
+qgfthngu.online
+sqwkudie.online
+uuihwnub.online
+causticizer.online
+contrafagotto.blog
+crayonstone.site
+failing.ink
+geeenfelder.icu
+geeenfelder.shop
+gorczzny.xyz
+swaniawski.bond
 trades.invest-platform.world
 fraglive.com
 ftsat.com
