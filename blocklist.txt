@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 04 Mar 2025 21:00:04 +0000
+! Last modified: Wed, 05 Mar 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+evospice.com
+flumery.com
+frugalring.com
+intenseup.com
+unickobit.com
+bank-trades.com
+depkji.com
+rofnlujh.online
+bidcock.xyz
+blanch.autos
+cummeruta.baby
+hippotigris.pro
+kachari.cyou
 fartitude.com
 itarpg.com
 kepota.com
