@@ -1,10 +1,33 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 05 Mar 2025 21:00:03 +0000
+! Last modified: Thu, 06 Mar 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+woxden.com
+guardiankeywallet.com
+bitserg.com
+wallet-deriv.us
+exfox.pro
+gotorion.com
+neverads.com
+savazone.com
+starwal.com
+perfectmx.pw
+anyhowly.info
+dorayakidasd.info
+koosiko.info
+peripartumsdak.info
+rosistmic.info
+wrksline.info
+groupstg.com
+ycm-club.pro
+garo-ica.co
+gsaronica.com
+mdm-tec.org
+mid-mtc.co
+midmotec.com
 evospice.com
 flumery.com
 frugalring.com
