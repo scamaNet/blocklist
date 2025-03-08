@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 07 Mar 2025 21:00:07 +0000
+! Last modified: Sat, 08 Mar 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+cryptorecall.com
+goldlup.com
+tred-finx.com
+investpolis24.online
+zkygklhs.icu
+aesycoins.com
+attibonjhug.com
+hutwoel.com
+stawin.info
+telomerization.sbs
+upspor.info
 avscash.com
 decollez.com
 lichol.com
