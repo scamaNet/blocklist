@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 13 Mar 2025 21:00:06 +0000
+! Last modified: Fri, 14 Mar 2025 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+pavevo.com
+zelamart.com
+unipersonalist.cfd
+ingath.com
+lovxen.com
+olifvan.com
+ondrioka.bet
+rodrigurz.my
+rolfron.sbs
+untrammeguish.info
 quantumbittrust.com
 xupitx.com
 tregol.com
