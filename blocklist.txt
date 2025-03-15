@@ -1,10 +1,32 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 14 Mar 2025 21:00:04 +0000
+! Last modified: Sat, 15 Mar 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+transac-garant.com
+narumia.com
+rodite.com
+cash2dm.com
+paytience.co
+bitsmedla.ru
+tructpilot.ru
+auralegal.ru
+ardic-dev.cc
+ardicdev.com
+fuzan-goo.biz
+fuzangoo.com
+kula-nient.pro
+kulanient.com
+pril-tharx.info
+priltharx.pro
+billisweet.in.net
+heromjk.in.net
+jinxmagic.info
+shakeitts.info
+autoanalysis.cfd
+onomatopoeia.cfd
 pavevo.com
 zelamart.com
 unipersonalist.cfd
