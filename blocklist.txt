@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 15 Mar 2025 21:00:03 +0000
+! Last modified: Sun, 16 Mar 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+econometrician.cfd
+relevently.com
+dateavo.com
+vaimex.com
+coinrider.net
+idsholdco.com
+wolfcryptos.com
+advantagexin.com
+gemakkeli.in.net
+linkreday.info
+loosuprl.info
+omgekeerd.in.net
+pubspo.com
 transac-garant.com
 narumia.com
 rodite.com
