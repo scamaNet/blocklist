@@ -1,10 +1,40 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 16 Mar 2025 21:00:03 +0000
+! Last modified: Mon, 17 Mar 2025 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+dealfort-change.ru
+mm1l.com
+chicoryan.com
+digycard.com
+sparkgrip.com
+renteno.com
+trades.platform-invest.net
+byv-otil.pro
+byvotil.com
+cory-lcs.info
+corylacs.pro
+dernt-ec.world
+falad-rin.info
+faladrin.pro
+fasat-gh.world
+flen-duro.cc
+flenduro.pro
+ruoq-vit.world
+ruoqvit.pro
+torma-ron.co
+tormaron.pro
+enaliosaurian.cfd
+retromandibular.cfd
+hettirger.blog
+loywrb.com
+muaazik.world
+pronunciational.sbs
+puebrid.com
+semasiology.sbs
+spenser.cam
 econometrician.cfd
 relevently.com
 dateavo.com
