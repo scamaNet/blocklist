@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 17 Mar 2025 21:00:05 +0000
+! Last modified: Tue, 18 Mar 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+jhcwcb.com
+giavrina.pro
+giav-rna.world
+bitoxis.com
+floatswap.com
+bitsaesycoin.com
+differentiating.cfd
+myocardiograph.cfd
 dealfort-change.ru
 mm1l.com
 chicoryan.com
