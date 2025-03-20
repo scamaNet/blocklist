@@ -1,10 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 19 Mar 2025 21:00:03 +0000
+! Last modified: Thu, 20 Mar 2025 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+swapexcoin.com
+cp-market.com
+coinkex.com
+acmeros.com
+bemmonet.com
+bitconault.com
+cryptexco.com
+umbaga.com
+rqbs-ma13.com
+tsb-ma04.com
+trivonar.pro
+tumel-til.info
+tumeltil.com
+cardiataxia.cfd
+semiannually.cfd
+carcinosarcomas.cfd
+mononucleosis.cfd
+unfashionableness.cfd
 dexshorence.com
 artistic-premier.com
 aucrab.com
