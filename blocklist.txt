@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 22 Mar 2025 21:00:04 +0000
+! Last modified: Sun, 23 Mar 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+soryntha.pro
+soryn-tha.co
+novastradexpro.com
+biogeographically.cfd
+walletcbitez.com
+detestability.cfd
+iridoplegia.cfd
+nationalizations.cfd
 confabulatory.cfd
 economytwo.com
 jagunic.com
