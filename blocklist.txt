@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 28 Mar 2025 21:00:04 +0000
+! Last modified: Sat, 29 Mar 2025 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+unigoa.com
+by-votl.world
+flamabit.com
+geonbit.com
+bersokod.ru
+partnercue.com
+stavest.com
+incomefro.com
+probabiliorism.cfd
 bitsmedia-alt.ru
 otzovik-alt.ru
 trustpilot-alt.ru
