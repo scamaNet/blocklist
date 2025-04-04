@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 03 Apr 2025 21:00:05 +0000
+! Last modified: Fri, 04 Apr 2025 21:00:06 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+asosobai.com
+acfontus.com
+acfon-tus.world
+anylezdom.com
+apifork.com
+ruble-faucet.com
+innocs.net
+kelland.in.net
 angelsruin.com
 bluekuda.com
 dramatickes.top
