@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 05 Apr 2025 21:00:04 +0000
+! Last modified: Sun, 06 Apr 2025 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitmah.com
+bitzef.com
+ahicks.net
+amoletti.net
+baetell.sbs
+farrrll.shop
+kapualiko.in.net
+likobes.in.net
+rosenbaus.cfd
+takent.net
+xited.in.net
+zenzada.in.net
 finex.markets
 bitanon.org
 coinseek.me
