@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 08 Apr 2025 21:00:04 +0000
+! Last modified: Wed, 09 Apr 2025 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+exdex-change.ru
+fasttrack-garant.ru
+cumtasia.com
+bitglow.net
+bithorf.com
+pyxbit.com
+zxzuby.com
+bascou.net
+pigboi.net
+scharberger.buzz
+yerelrota.net
 sierra-ex.world
 briogo.com
 cointrips.com
