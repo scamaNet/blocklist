@@ -1,10 +1,38 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 09 Apr 2025 21:00:05 +0000
+! Last modified: Thu, 10 Apr 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+mavqeris.com
+mae-ris.world
+bitflux.pro
+bitglow.org
+lasofpass.com
+robusinvest.com
+brewthing.com
+briefgist.com
+camrando.com
+chalkini.com
+ciexc.com
+darkorium.com
+dizitra.com
+enquiryapp.com
+revenuear.com
+pil-tx.world
+pr-tar.cc
+var-tolin.info
+vartolin.pro
+vizi-logix.info
+vizilogix.com
+easycoolmoney.com
+iwssotatrader.com
+afrobob.net
+dehuma.net
+pelinsus.net
+pjtele.net
+rutuerford.sbs
 exdex-change.ru
 fasttrack-garant.ru
 cumtasia.com
