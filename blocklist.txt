@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 10 Apr 2025 21:00:03 +0000
+! Last modified: Fri, 11 Apr 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bravetext.com
+bravereply.com
+brighttwist.com
+caliclaims.com
+entryfix.com
+equibeyond.com
+bumin.net
+invoicelocal.com
+ledgersme.com
+rolfoon.cfd
+bitnef.com
 mavqeris.com
 mae-ris.world
 bitflux.pro
