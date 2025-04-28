@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 27 Apr 2025 21:00:03 +0000
+! Last modified: Mon, 28 Apr 2025 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+brigdebots.com
+burazo.com
+butezo.com
+dubeno.com
+kanvorx.org
+kan-vorx.net
+effortglow.info
+growthemind.net
+insuregrowth.org
+kautzur.cfd
 dallasswap.com
 bignull.com
 blakeclardy.com
