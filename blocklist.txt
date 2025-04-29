@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 28 Apr 2025 21:00:04 +0000
+! Last modified: Tue, 29 Apr 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bozento.com
+cosmodomeco.com
+dasoway.com
+actor-premieres.com
+effortlesssmooth.com
+effortsforsuccess.net
+rudriguez.top
+skillbuilders.info
+marketuniswap.com
 brigdebots.com
 burazo.com
 butezo.com
