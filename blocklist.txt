@@ -1,10 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 29 Apr 2025 21:00:03 +0000
+! Last modified: Wed, 30 Apr 2025 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bigdorises.com
+blackcatds.com
+boloze.com
+carelaxed.com
+coinsayfasi.com
+foxco.shop
+gamerga.com
+fa-atg.info
+fasat-g.pro
+lra-sf.pro
+lyrea-s.world
+sarno-vi.info
+sarno-vx.co
+sarnovix.com
+slem-otha.world
+slemotha.pro
+srn-vix.world
 bozento.com
 cosmodomeco.com
 dasoway.com
