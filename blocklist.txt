@@ -1,10 +1,27 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 06 May 2025 21:00:03 +0000
+! Last modified: Wed, 07 May 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+cetoradea.com
+ecodrm.com
+fagnits.com
+feerken.com
+geicoit.com
+gyrobiro.com
+hoodtax.com
+hotewl.com
+hudobo.com
+ishipal.com
+cryptovibe.co
+coinvortex.org
+breitennerg.shop
+certainprofit.biz
+financialfreedomguides.org
+profitpeak.info
+virtualprofit.net
 greenviben.com
 achievementprocess.com
 eandervort.click
