@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 08 May 2025 21:00:03 +0000
+! Last modified: Fri, 09 May 2025 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+infrome.com
+justinnand.com
+kiloj.com
+kiwilent.com
+miobit.pro
+abrhire.top
+lindgnen.top
+memoguides.com
 hazaline.com
 kosekey.com
 kosuva.com
