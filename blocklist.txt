@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 09 May 2025 21:00:04 +0000
+! Last modified: Sat, 10 May 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+lifoso.com
+litetier.com
+livemaximus.com
+minproj.com
+getbit.global
+eurologic-international.ru
+etega-ntorev.world
+etegantorev.com
+ser-logs.com
+serlogsa.net
+cartwrrght.icu
+loannon.icu
+lueiwwitz.cfd
+stantnn.rest
+wilsiamson.sbs
 infrome.com
 justinnand.com
 kiloj.com
