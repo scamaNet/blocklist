@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 12 May 2025 21:00:04 +0000
+! Last modified: Tue, 13 May 2025 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+obmentut.online
+alphaoneexchange.com
+fidabtc.com
+fortunamegaspin.com
+kunalicon.com
+levafy.com
+nemvu.com
+nopupes.com
+communityassets.biz
+confidentialassets.com
+legacyassets.biz
 looktribe.com
 netvard.com
 lenemose.com
