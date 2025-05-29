@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 28 May 2025 21:00:05 +0000
+! Last modified: Thu, 29 May 2025 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+raizys.com
+sarontec.com
+shendig.com
+spylot.com
+styzen.com
+taduno.com
+brused.com
+taceatus.com
+xinovara.pro
+tacea-tus.pro
+xn-ovara.world
+sharki-x.com
+sharkix.world
+businesswealthmentors.net
+newfoundwealth.org
 fishtin.com
 concretist.com
 geesenet.com
