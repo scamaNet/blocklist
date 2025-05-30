@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 29 May 2025 21:00:05 +0000
+! Last modified: Fri, 30 May 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+cymatika.com
+moubou.com
+pepeer.com
+profali.com
+torcash.pro
+umacasa.com
+fixitrvs.com
+freedomnow.finance
+фнпрф.рф
+buildingwealthdaily.net
+equityfund.biz
+masterwealth.info
+superwealthclub.com
+wealthycastle.org
 raizys.com
 sarontec.com
 shendig.com
