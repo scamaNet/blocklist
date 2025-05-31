@@ -1,10 +1,17 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 30 May 2025 21:00:03 +0000
+! Last modified: Sat, 31 May 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+4412.one
+anforanav.com
+anfo-rnv.co
+anf-ranav.ltd
+equitytactical.com
+passivewealthinsiders.org
+wealthwaysystem.net
 cymatika.com
 moubou.com
 pepeer.com
@@ -19,6 +26,7 @@ equityfund.biz
 masterwealth.info
 superwealthclub.com
 wealthycastle.org
+arsinex.exchange
 raizys.com
 sarontec.com
 shendig.com
