@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 31 May 2025 21:00:03 +0000
+! Last modified: Sun, 01 Jun 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+dealfair-garant.ru
+frayvex.ru
+garantlyexchange.ru
+pandpay-change.ru
+play-grand.ru
+safely-exchange.ru
+swift-deal.ru
+viarnec.ru
+chartered.limited
+acuant-lt.world
+aca-lite.pro
+onlinewealthagency.biz
+wealthadvisors.biz
+wealtheducators.org
+fire-change.com
 4412.one
 anforanav.com
 anfo-rnv.co
