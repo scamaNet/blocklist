@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 27 Jun 2025 21:00:03 +0000
+! Last modified: Sat, 28 Jun 2025 21:00:06 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+helpka.com
+capblaze.com
+christianeen.digital
+farrele.xyz
+hollich.run
+labadie.buzz
+morismette.rest
+sisonis.sbs
 bosepi.com
 cocoviva.com
 dasuansu.com
