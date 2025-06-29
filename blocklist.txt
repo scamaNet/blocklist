@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 28 Jun 2025 21:00:06 +0000
+! Last modified: Sun, 29 Jun 2025 21:00:05 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+asic-globalcert.org
+cysec-certified.org
+dubai-finance-certify.com
+fsa-regulation-uk.net
+vx-keep.com
+adderson.life
+goldnor.cfd
+richourlife.com
+valkman.rest
+wwtting.bet
+wwtting.digital
 helpka.com
 capblaze.com
 christianeen.digital
