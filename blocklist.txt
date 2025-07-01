@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 30 Jun 2025 21:00:03 +0000
+! Last modified: Tue, 01 Jul 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+moonrom.com
+stastic.com
+yunck.com
+switchtohp.com
+vishcoin.com
+ainfoundation.shop
+aloanapolls.pro
+befreebewealthy.com
+eshlerin.cfd
+investstableclub.shop
+kattzer.click
+launafilms.store
 vfinsc.org
 aspoweb.com
 cricxo.com
