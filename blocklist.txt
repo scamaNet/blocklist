@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 02 Jul 2025 21:00:03 +0000
+! Last modified: Thu, 03 Jul 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+autonev.com
+projexy.com
+bennier.cfd
+claudanpale.pro
+fireoperasan.shop
+koilpin.sbs
+lopiomaner.xyz
+mindofmotivation.com
+tillmin.lol
+saflychange.com
 cryptolabstudio.net
 lets-swap.com
 gusdex.com
