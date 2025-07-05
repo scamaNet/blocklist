@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 04 Jul 2025 21:00:05 +0000
+! Last modified: Sat, 05 Jul 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+granix.shop
+butunu.com
+frydeep.com
+obmen.co.in
+suivip.com
+tasalia.com
+believerwealthhub.com
+flatley.cfd
+oconnoll.cfd
+padbrrg.buzz
+rhichert.xyz
+wealthgrowthhelp.com
 aidokan.com
 lorneta.com
 debevis.com
