@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 06 Jul 2025 21:00:05 +0000
+! Last modified: Mon, 07 Jul 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bitcleap.com
+aventushg.com
+aven-tushg.info
+mensar.com
+taotw.com
+velyon.com
+coinrue.com
+boundlessambitions.com
+getonskill.com
+labadle.click
+rosenoaum.rest
+wealthimprovementzone.com
 powerinvestai.com
 bighumanskills.com
 enoughskills.com
