@@ -1,10 +1,24 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 11 Jul 2025 21:00:02 +0000
+! Last modified: Sat, 12 Jul 2025 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+bit-trades.com
+xpressultra.com
+intholdfinances.com
+changerz.org
+lunlax.com
+bexit.pw
+earnexult.link
+earn-exult.world
+xibaxardos.pro
+xibaxar-dos.com
+lifeagentgrowth.com
+moreprofitable.net
+pollioh.sbs
+prddovic.cyou
 insdie-exchange.com
 oyateosh.com
 oyate-osh.ltd
