@@ -1,13 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 22 Jul 2025 21:00:03 +0000
+! Last modified: Wed, 23 Jul 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+sectcrypto.com
+iotaga.com
+seyent.com
+aurabtc.com
+extricher.com
+swaprepeat.com
+cryptowox.com
+digitalswap.io
+fortiste.com
+swapbuys.com
+bohisich.sbs
+lagauaiak.xyz
+lebsask.click
+moneyandopportunity.net
 swapex.nl
 afroleo.com
 oembags.com
+orbexexchange.com
 bitwex.net
 donnedly.digital
 growingprosperity.net
