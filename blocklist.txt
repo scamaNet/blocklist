@@ -1,10 +1,18 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 30 Jul 2025 21:00:03 +0000
+! Last modified: Thu, 31 Jul 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+coinfiz.com
+airtomo.com
+tisiv.com
+binxocoin.com
+wxexchange.com
+famexchange.io
+moodscope.net
+skillsetprime.com
 teth.info
 adluppy.com
 adrobi.com
