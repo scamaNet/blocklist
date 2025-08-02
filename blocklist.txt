@@ -1,11 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 01 Aug 2025 21:00:03 +0000
+! Last modified: Sat, 02 Aug 2025 21:00:04 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+must-air.com
+24hresponse.com
+belzeco.com
+bizirev.com
+dreamoola.com
+drlogos.com
+enjoyingdreams.com
+littlejoyfulexperience.com
+revenuevirtus.com
 happyoffertoyou.com
+alphakyoto.com
 coinfiz.com
 airtomo.com
 tisiv.com
