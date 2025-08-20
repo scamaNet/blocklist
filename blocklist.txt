@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 19 Aug 2025 21:00:02 +0000
+! Last modified: Wed, 20 Aug 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+amockup.com
+cesselin.com
+acesporte.com
+almeidasports.com
+bettobets.com
+hibbitsport.com
+hitsport.net
+homatch.com
+sports-wave.com
+strakebet.com
+yatibet.com
+gebaqi.com
+geba-qi.co
 strata.pw
 verbalchile.com
 loverhi.com
