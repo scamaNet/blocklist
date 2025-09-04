@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 03 Sep 2025 21:00:02 +0000
+! Last modified: Thu, 04 Sep 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+dubai-finance-certify.org
+xybercoin.com
+zybero.com
+aplustek.com
+boxingxo.com
+divizeeria.com
+jegamanzi.net
+tceincvi.com
+tetrateqnix.net
 trydigital.org
 puretoken.net
 cryptoplanet.app
@@ -14,6 +23,10 @@ yayforme.com
 zcato.com
 animatist.com
 ritef.com
+ceritasinc.com
+cosyhmos.com
+jayezn.net
+zandivob.pro
 puuvi.com
 penipo.com
 posodex.com
