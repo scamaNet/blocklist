@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 12 Sep 2025 21:00:03 +0000
+! Last modified: Sat, 13 Sep 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+cashemoji.com
+cellsouq.com
+shopbitcoin.io
+xtraportal.com
+craveswap.com
+windbit.org
+trustynow.com
+orbitspot.io
+swiftportal.net
+icoinstore.com
 babeem.com
 bicurrency.com
 e-crypto.io
