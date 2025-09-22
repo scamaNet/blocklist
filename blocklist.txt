@@ -1,10 +1,13 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 21 Sep 2025 21:00:02 +0000
+! Last modified: Mon, 22 Sep 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+dautis.com
+devphilly.com
+abesqueltd.com
 revosfi.com
 visidoer.net
 vela-exchange.com
