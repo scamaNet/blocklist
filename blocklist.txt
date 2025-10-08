@@ -1,10 +1,16 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 07 Oct 2025 21:00:03 +0000
+! Last modified: Wed, 08 Oct 2025 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+konarion.com
+fimoli.com
+cupidcoin.io
+gihsedu.com
+torqumin.pro
+yururemi.com
 cointx.io
 fafata.com
 fepine.com
