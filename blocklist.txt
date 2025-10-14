@@ -1,10 +1,17 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 13 Oct 2025 21:00:03 +0000
+! Last modified: Tue, 14 Oct 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+gozaza.com
+hacred.com
+cryptocoinhub.net
+mataliqun.com
+moonluminare.com
+mulkanis.pro
+cashlesser.com
 guged.com
 kiki-umzug.ru
 rapidchain.net
