@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 16 Oct 2025 21:00:03 +0000
+! Last modified: Fri, 17 Oct 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+biterlex.com
+eviternal.io
+glassiv.com
+sirecoins.com
+asterichain.com
+wxbcyber.com
+omgswift.com
+tokenpoints.net
+hecli.com
+yamorvi.pro
+vevocas.com
 bitnaf.com
 qryex.com
 givehire.com
