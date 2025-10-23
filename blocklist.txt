@@ -1,10 +1,17 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 22 Oct 2025 21:00:02 +0000
+! Last modified: Thu, 23 Oct 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+gertcas.com
+vavadagam.com
+coinesa.com
+jdsfinance.com
+mycryptix.com
+quizopay.com
+hocoe.com
 dramasland.com
 afilliater-poyeer.cfd
 afilliater-poyeer.bond
@@ -13,7 +20,6 @@ heveu.com
 hocir.com
 alaracure.net
 ziravoxo.com
-vevocas.com
 giili.com
 hexice.com
 vavadagem.com
