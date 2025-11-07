@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 06 Nov 2025 21:00:03 +0000
+! Last modified: Fri, 07 Nov 2025 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+holopi.com
+habittus.com
+defionyx.net
+cybernit.net
+achybits.com
+coremics.com
+revaswap.com
+sainteri.com
+rfchange.com
+cryptatomic.com
+amernex.com
+infinus.org
 coinreva.com
 dencilalave.net
 ezupicerink.net
