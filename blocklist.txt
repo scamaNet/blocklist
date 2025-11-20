@@ -1,10 +1,23 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 19 Nov 2025 21:00:03 +0000
+! Last modified: Thu, 20 Nov 2025 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+theater.ru.net
+kitear.com
+kitmerge.com
+starnite.net
+portalusso.com
+tuportal.org
+rafpay.com
+apollostation.net
+bro2pay.com
+stazzity.com
+vertagroup.net
+monacoin.net
+coinformica.com
 ofertaz.net
 kemystri.com
 bronex.pro
