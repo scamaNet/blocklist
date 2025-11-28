@@ -1,10 +1,14 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 27 Nov 2025 21:00:02 +0000
+! Last modified: Fri, 28 Nov 2025 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+coinosi.com
+aerocandora.com
+omniworx.xyz
+finacb.net
 oyapo.com
 ayoorvan.com
 gulkarlife.com
