@@ -1,6 +1,6 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 07 Dec 2025 21:00:02 +0000
+! Last modified: Mon, 08 Dec 2025 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
