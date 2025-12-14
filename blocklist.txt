@@ -1,10 +1,17 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 13 Dec 2025 21:00:02 +0000
+! Last modified: Sun, 14 Dec 2025 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+kdoravuke.com
+kisnovera.net
+pelvimina.com
+revivekpt.com
+tobitacco.net
+trelvona.com
+vaxeyco.com
 giftsio.com
 anda-pay.com
 5station.com
