@@ -1,10 +1,12 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Mon, 05 Jan 2026 21:00:02 +0000
+! Last modified: Tue, 06 Jan 2026 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+buratinofilm.ru
+coinsbat.com
 cryptoriana.com
 linkatsports.com
 bonus-prime.space
