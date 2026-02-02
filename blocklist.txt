@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 01 Feb 2026 21:00:02 +0000
+! Last modified: Mon, 02 Feb 2026 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+artisticals-premiere.online
+payrolix.com
+vixichain.com
+dracarly.com
+avisopay.com
+cyberton.org
+statustrax.com
+wpstrong.com
+incadex.com
+distribby.com
+bitcoin-vr.com
 hezlmay.com
 hezl-may.info
 zlinso.com
