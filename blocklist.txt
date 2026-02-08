@@ -1,10 +1,14 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 07 Feb 2026 21:00:02 +0000
+! Last modified: Sun, 08 Feb 2026 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+atmocindia.com
+atmo-cindia.biz
+qalynomics.com
+qaly-nomics.info
 triunerei.com
 futemas.com
 fute-ms.me
