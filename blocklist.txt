@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 10 Feb 2026 21:00:02 +0000
+! Last modified: Wed, 11 Feb 2026 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+switch-x.com
+upitoken.com
+destrec.com
+linocoin.com
+neonchain.io
+cyberbunch.com
+paywiser.org
+ar-xchange.com
+payizor.com
+wistrio.com
+swiftshift.net
 atmocindia.com
 atmo-cindia.biz
 qalynomics.com
