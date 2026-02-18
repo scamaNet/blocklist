@@ -1,10 +1,28 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 17 Feb 2026 21:00:03 +0000
+! Last modified: Wed, 18 Feb 2026 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+tronsate.com
+c-ssf.com
+dfsa-public-register.org
+register-fsa.org
+v-fsc.org
+500money500.com
+raelynn.xyz
+solignere.com
+lrevisont.info
+norironeco.com
+qanotarytx.com
+qemcjo.com
+ra-lynn.me
+soli-gnere.pro
+lrevi-sont.net
+nri-roneco.link
+qanot-rytx.ltd
+qem-cjo.pro
 noriburo.com
 torremyg.net
 obmen.my
