@@ -1,10 +1,21 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sun, 01 Mar 2026 21:00:02 +0000
+! Last modified: Mon, 02 Mar 2026 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+trviewinvest.com
+coinage-code.com
+acwerks.info
+ecolucre.com
+sowilli.net
+felizagu.net
+eco-lucre.co
+el-ucr.link
+so-willi.online
+feli-zagu.site
+feli-zg.click
 laiwuren.net
 lai-wuren.info
 zelmonis.com
