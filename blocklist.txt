@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 04 Mar 2026 21:00:03 +0000
+! Last modified: Thu, 05 Mar 2026 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+zycrom.com
+wychange.org
+casitopia.net
+lavochem.com
+lifenestco.com
+casi-topia.co
+ci-topia.pro
+lv-chem.site
+lavoc-hem.click
+life-nesc.world
 wrafex.com
 bit-save.com
 goviaetinc.com
