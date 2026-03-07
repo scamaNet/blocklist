@@ -1,10 +1,25 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Fri, 06 Mar 2026 21:00:03 +0000
+! Last modified: Sat, 07 Mar 2026 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+velmiorex.com
+switch2us.org
+angelxchange.com
+swiftsolid.com
+deverux.com
+tellyos.com
+districtzone.net
+treize.org
+viralchain.net
+coinwinter.com
+trinican.com
+p2send.com
+valistru.com
+annuitao.com
+annui-tao.pro
 parahdyne.com
 pra-dyne.vip
 prh-dyne.me
