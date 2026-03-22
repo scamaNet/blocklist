@@ -1,10 +1,22 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Sat, 21 Mar 2026 21:00:02 +0000
+! Last modified: Sun, 22 Mar 2026 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+voznevoretiw.shop
+valexo.sbs
+bendurcy.com
+eclemkt.net
+edinfonio.com
+kulinariec.com
+simdesro.com
+bend-urcy.pro
+eclem-kt.com
+edin-fonio.link
+kulina-riec.pro
+sim-desro.pro
 nixoro.com
 astrinity.com
 massprice.com
