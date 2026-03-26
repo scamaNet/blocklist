@@ -1,10 +1,14 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 25 Mar 2026 21:00:02 +0000
+! Last modified: Thu, 26 Mar 2026 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+wifince.com
+crossget.com
+clomveor.pro
+clm-veor.net
 bitwon.exchange
 binancework.com
 alfa-banks.ru
@@ -73,6 +77,7 @@ analyze-aml.app
 benefitprofitable.com
 davion-transfer.online
 axonfinancial.online
+konubit.com
 velmiorex.com
 switch2us.org
 angelxchange.com
@@ -101,6 +106,7 @@ ci-topia.pro
 lv-chem.site
 lavoc-hem.click
 life-nesc.world
+mirubit.com
 wrafex.com
 bit-save.com
 goviaetinc.com
@@ -249,6 +255,7 @@ viveclt.org
 aqualume-nera.net
 vivec-lt.info
 imp-ius.co
+wixfince.com
 coinsocial.net
 alzoubi.xyz
 antliasat.com
