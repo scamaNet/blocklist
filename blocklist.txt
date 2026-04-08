@@ -1,10 +1,13 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 07 Apr 2026 21:00:03 +0000
+! Last modified: Wed, 08 Apr 2026 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+rubic-exchange.com
+retinarxiv.net
+retinar-xiv.link
 securvax.com
 fincy.net
 epynomix.com
