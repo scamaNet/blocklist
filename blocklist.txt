@@ -1,10 +1,20 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 23 Apr 2026 21:00:02 +0000
+! Last modified: Fri, 24 Apr 2026 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+furpix.com
+vizpay.net
+storedivine.com
+pricegrind.com
+mounwell.com
+insigvia.com
+rampay.org
+simply4me.com
+citruschain.com
+curelit.com
 sentactia.com
 sentac-tia.me
 safentios.com
