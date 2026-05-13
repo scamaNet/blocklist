@@ -1,10 +1,19 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Tue, 12 May 2026 21:00:02 +0000
+! Last modified: Wed, 13 May 2026 21:00:03 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+fymbatch.com
+dyzni.net
+resoenviro.com
+dy-zni.pro
+fym-batch.ltd
+adorneldra.com
+cogorama.com
+ador-nelda.click
+cogo-rama.co
 olzovik.com
 trusctpilot.com
 market-buy.ru
