@@ -1,10 +1,16 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Wed, 01 Jul 2026 21:00:02 +0000
+! Last modified: Thu, 02 Jul 2026 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+tan-tress.com
+bepfi.com
+asapairco.com
+kaventrox.com
+asapa-irco.site
+kaven-trox.world
 catersi.com
 biforis.com
 zentize.com
