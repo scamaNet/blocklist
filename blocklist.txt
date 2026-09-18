@@ -1,10 +1,14 @@
 ! Title: Scam & Phishing & Malware sites from SCAMA.NET
 ! Expires: 1 day (update frequency)
-! Last modified: Thu, 17 Sep 2026 21:00:02 +0000
+! Last modified: Fri, 18 Sep 2026 21:00:02 +0000
 ! Homepage: https://github.com/scamaNet/blocklist
 
 
 ! The list contains only domains from December 01 last year, sorted by date of addition (from new to old)
+sui-coins.com
+coalmey.com
+meemat.com
+ebc-financialgroup.com
 arbitriumbit.com
 dsmportal.com
 rideary.com
